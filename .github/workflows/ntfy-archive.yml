@@ -1,38 +1,26 @@
 name: Archive Ntfy Messages
 
-# 触发器：每分钟运行一次（测试用），同时保留手动触发
 on:
   schedule:
-    - cron: '* * * * *'          # 每分钟触发，用于测试
+    - cron: '*/5 * * * *'         # 每5分钟运行一次（测试用，稳定后再改）
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Fetch ntfy messages and save to timestamped file
+      - name: Archive
         run: |
-          # 用当前北京时间生成文件名
-          FILENAME="ntfy_archive_$(TZ='Asia/Shanghai' date +'%Y-%m-%d_%H-%M-%S').txt"
-          # 获取过去24小时消息，格式化后写入新文件
-          curl -s "https://ntfy.sh/judy-alerts/json?poll=1&since=24h" | jq -r '. | "\(.time) \(.message)"' >> "$FILENAME"
-          # 把文件名保存到环境变量，下一步提交时会用到
-          echo "ARCHIVE_FILE=$FILENAME" >> $GITHUB_ENV
-
-      - name: Commit and push new file
+          FILENAME="ntfy_$(TZ='Asia/Shanghai' date +'%Y%m%d_%H%M%S').txt"
+          curl -s "https://ntfy.sh/judy-alerts/json?poll=1&since=24h" | jq -r '. | "\(.time) \(.message)"' > "$FILENAME"
+          echo "FILE=$FILENAME" >> $GITHUB_ENV
+      - name: Push
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-          git add "$ARCHIVE_FILE"
-          if git diff --staged --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Archive $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
-          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add "$FILE"
+          if git diff --staged --quiet; then echo "No changes"; else git commit -m "Archive $(date)" && git push; fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
