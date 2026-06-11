@@ -1,0 +1,205 @@
+[
+  {
+    "id": "TR4xMniomZDS",
+    "time": 1781108667,
+    "expires": 1781151867,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "{\"platform\":\"Facebook\",\"query\":\"Keywords: dropshipping. Group URL: https://www.facebook.com/groups/1278247436568684/.\",\"datetime\":\"2026-06-10T15:27:10Z\",\"link\":\"https://www.facebook.com/groups/1278247436568684/permalink/1629189594807798/\",\"author\":\"陈功\",\"content\":\"Hello, We are a dropshipping agent from China.\\nWhat can I do for you?\\n1 Source any products you need.\\n2 No MOQ\\n3 The price of products cheaper than CJ, AliExpress.\\n4 Faster delivery.\\n5 Full process service from purchase to delivery.\\n6 Having our own ERP system which can connect with you stores.\\nIf you are interested, pls dm.\",\"sentiment\":\"positive\"}"
+  },
+  {
+    "id": "qBKi3flgP8kY",
+    "time": 1781108951,
+    "expires": 1781152151,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Morad Jbila\nPoster URL: https://m.facebook.com/morad.jbila/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/835733579307147/\n\nPost Text:\nHey everyone,\n\nI'm looking for a serious sourcing agent for a long-term collaboration.\n\nAbout me:\n* 200K+ generated in dropshipping\n* Consistent and growing order volume\n* Looking for a trusted, long-term partnership\n\nWhat I'm looking for:\n* 1:1 quality products (non-negotiable)\n* Competitive and reliable shipping times\n* Ability to connect my Shopify store to your catalog for automated order fulfillment\n* Responsive and transparent communication\n\nI'll share my product list via DM with interested agents.\n\nIf this sounds like you, send me a message with:\n* Your average shipping times to France/Europe\n* Your Shopify integration solution\n\nHere are the products I'm looking for\n\nLooking forward to connecting 🤝\n\nAdditional Images: https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/718211793_4304460546475966_6695402040732907581_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=M2LHA0HiwhMQ7kNvwGNiIKG&_nc_oc=AdrVCJtIF-SMqhP6e4G9Q1KymIeFziL3IZQLT6YSc3pAnRIqIKjW5loqNui618ejwYM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=UR0uQgQbRkVEyIhJyPsm-A&_nc_ss=783ba&oh=00_Af9Zoympt6a-8E-5dcMrA0G36QtSSHf_mayAnW3q94e0gQ&oe=6A2F664F, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720736404_4304460543142633_1392118598469632868_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=SwHtzxZHgCsQ7kNvwGNYX5A&_nc_oc=Ado2fFv73f_bpouKQympOclallwiE78TSTuSeB5q2nQaSqM9bj3wV9KzWOmQMiydUks&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=UR0uQgQbRkVEyIhJyPsm-A&_nc_ss=783ba&oh=00_Af_PlnA2sPz4cHYnYg_EEkT0RWerD4UIdnSIvlUmhjRvhA&oe=6A2F4BD5",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "Eews5hoqrn",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/835733579307147/"
+      },
+      {
+        "id": "gyANgXpJZq",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Morad Jbila\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/835733579307147/\n\nPost Text:\nHey everyone,\n\nI'm looking for a serious sourcing agent for a long-term collaboration.\n\nAbout me:\n* 200K+ generated in dropshipping\n* Consistent and growing order volume\n* Looking for a trusted, long-term partnership\n\nWhat I'm looking for:\n* 1:1 quality products (non-negotiable)\n* Competitive and reliable shipping times\n* Ability to connect my Shopify store to your catalog for automated order fulfillment\n* Responsive and transparent communication\n\nI'll share my product list via DM with interested agents.\n\nIf this sounds like you, send me a message with:\n* Your average shipping times to France/Europe\n* Your Shopify integration solution\n\nHere are the products I'm looking for\n\nLooking forward to connecting ??"
+      }
+    ],
+    "attachment": {
+      "name": "718211793_4304460546475966_6695402040732907581_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/718211793_4304460546475966_6695402040732907581_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=M2LHA0HiwhMQ7kNvwGNiIKG&_nc_oc=AdrVCJtIF-SMqhP6e4G9Q1KymIeFziL3IZQLT6YSc3pAnRIqIKjW5loqNui618ejwYM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=UR0uQgQbRkVEyIhJyPsm-A&_nc_ss=783ba&oh=00_Af9Zoympt6a-8E-5dcMrA0G36QtSSHf_mayAnW3q94e0gQ&oe=6A2F664F"
+    }
+  },
+  {
+    "id": "KghooqXsJJ4n",
+    "time": 1781109545,
+    "expires": 1781152745,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "{\"platform\":\"Facebook\",\"query\":\"Keywords: dropshipping. Group URL: https://www.facebook.com/groups/1278247436568684/.\",\"datetime\":\"2026-06-10T16:27:23Z\",\"link\":\"https://www.facebook.com/groups/1278247436568684/permalink/1629229284803829/\",\"author\":\"Morad Jbila\",\"content\":\" Hey everyone, I'm looking for a serious sourcing agent for a long-term collaboration. About me: 200K+ generated in dropshipping Consistent and growing order volume Looking for a trusted, long-term partnership What I'm looking for: 1:1 quality products (non-negotiable) Competitive and reliable shipping times Ability to connect my Shopify store to your catalog for automated order fulfillment Responsive and transparent communication I'll share my product list via DM with interested agents. If this sounds like you, send me a message with: Your average shipping times to France/Europe Your Shopify integration solution Here are the products I'm looking for  Looking forward to connecting 🤝\",\"sentiment\":\"positive\"}"
+  },
+  {
+    "id": "XU2E3IJt52vL",
+    "time": 1781110329,
+    "expires": 1781153529,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Ryan Fulfil - Dropship Supplier & Worldwide Fulfilment\nPoster URL: https://m.facebook.com/ryanfulfil/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/578609290466408/permalink/1316890439971619/\n\nPost Text:\nLooking for a reliable dropshipping agent?\n\n👉 You’re in the right place.\n\nThis group exists to connect real dropshippers with real sourcing, fulfillment, and scaling support — not hype, not spam.\n\n🤝 Looking for a Dropshipping Agent? Read This First\n\nYou may ask for a dropshipping agent in this group — but do it properly. How to ask:\n\nCreate a post with context. (target market, product type, current order volume, main problems)\n\nHow agents may respond:\n\nBy helping first. (sharing insights, answering questions, suggesting solutions)\n\n❌ No “DM me” spam\n\n❌ No copy-paste service pitches without context\n\nPosts or comments that are purely promotional will be removed.\n\n👋 For transparency\n\nI am Ryan. I have been in your shoes. When I started my e-commerce journey in 2019, I faced the same problems many dropshippers do:\n\n1. Unreliable suppliers\n2. Slow shipping\n3. QC issues\n4. Scaling headaches\n\nToday, I work closely with 400+ active sellers on:\n\n* Product sourcing\n* Quality control & inspect...",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "0ybUqk0wIj",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/578609290466408/permalink/1316890439971619/"
+      },
+      {
+        "id": "TLLs0FzBb7",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/578609290466408\nPoster Name: Ryan Fulfil - Dropship Supplier & Worldwide Fulfilment\nPost URL: https://m.facebook.com/groups/578609290466408/permalink/1316890439971619/\n\nPost Text:\nLooking for a reliable dropshipping agent?\n\n?? You?re in the right place.\n\nThis group exists to connect real dropshippers with real sourcing, fulfillment, and scaling support ? not hype, not spam.\n\n?? Looking for a Dropshipping Agent? Read This First\n\nYou may ask for a dropshipping agent in this group ? but do it properly. How to ask:\n\nCreate a post with context. (target market, product type, current order volume, main problems)\n\nHow agents may respond:\n\nBy helping first. (sharing insights, answering questions, suggesting solutions)\n\n? No ?DM me? spam\n\n? No copy-paste service pitches without context\n\nPosts or comments that are purely promotional will be removed.\n\n?? For transparency\n\nI am Ryan. I have been in your shoes. When I started my e-commerce journey in 2019, I faced the same problems many dropshippers do:\n\n1. Unreliable suppliers\n2. Slow shipping\n3. QC issues\n4. Scaling headaches\n\nToday, I work closely with 400+ active sellers on:\n\n* Product sourcing\n* Quality control & inspection\n* Fulfillment & shipping\n* Backend ops for scaling\n\nMy team works directly with factories in China and supports sellers across the US, UK, Europe, Australia, and the Middle East.\n\nI won?t pitch services in public threads ? this group comes first.\n\nBut if you?re looking for a long-term fulfillment partner and want help on the backend, you?re welcome to reach out to me privately.\n\n?? WhatsApp: [wa.link/dropship](wa.link/dropship)\n\n(or +86 178 4666 9989)\n\n?? New here? (optional but encouraged)\n\nIntroduce yourself in the comments:\n\n* What are you selling (or planning to sell)?\n\n* Which market are you targeting?\n\n* What?s your biggest bottleneck right now?\n\n* Even beginners ? questions are welcome.\n\n* Let?s keep this group useful, honest, and worth everyone?s time.\n\nSong H?i,\nMuhammad Zain Khan,\nJelmanu Nelson,\nSaniye Karabay,\nSaif Ahmed,\nH�seyin Eren,\nSoufiane Lemcelli,\nRoudy Saffron,\nChunhe Huang,\nNins Gallardo,\nMillionaire Drops,\nChinaSourcing Jessie,\nMyat Noe Aung,\nJilik K,\n???,\nThao Tran,\nMeng Dropshipping,\nAlfa Amelia,\nYuan Zhou,\nOluwabukunmi Triumphant,\n???,\nLaura Zhao,\nMayer Khairy,\nMigl? Bialkauskait?,\nCatalin Enoiu,\nChina Product Sourcing Experts-B2B & B2C,\nLiu Hailey,\nVina Dowell,\nArcher Change,\nMalik Sajid Khokhar,\nBlandine Lpz,\nGabriel Gold,\nLuozhi Xuan,\nLeo Zhang,\nKarthikeyan Rajamani,\nArifur Rahaman Saif,\nLabels post ,\nYanan Deng,\nRipon Elex,\nJustine Letellier,\nBatu Dagli,\nSyeda Misha Shah,\nMuhammad Kazeem,\nDigital Gadget Providers ,\nAce Martial Arts,\nYuan Fang,\nMokhtar Elkhorchi,\nLydia Li,\nJohnny Evans,\nCai Sjetalena,\nBehram Khan,\nMorena Paiotta,\nJhon Russel,\nKashi Khan,\nshipping labels ,\nMike Zeng,\nGino Bataller,\nJubayer Hossain Jihan,\nAmanda Simmons,\nParker Abigail,\nDI Vina,\nRoman Paulo,\nRabiul Hasan,\nMuhammad Hossam,\nDimitri kamga,\nBrandFlow Studio & Fulfillment,\nlilyrosewear,\nLyka MV,\nDylan Delgado,\nWepizo,\nAhmet Yeditepe,\nMed Aymen Dhiab,\nSybkud Ewafi,\nPrince Hisham,\nEcomm System Academy,\nHossain Gazi,\nMehar Asad Ch,\nRose Hwong,\nShopify Web Professionals,\nManish Mishra,\n???,\nMurphy Shek,\nJane Chen,\nSarah Sarah,\nKik Nqq,\nGil Dege,\nChristine Monsalud,\nShopex Lay,\nTajim Iqball,\nLuca Jesse,\nRakibul Islam Rakib,\nYounes Alexis,\nGrace Le,\nSkibo XA,\nR A Misbah,\nStyve Kabuzi,\nIqtadar Mustafa,\nArclight Techy,\nMd Mizanur Rahman,\nCosta Williams"
+      }
+    ]
+  },
+  {
+    "id": "hkzvNVDYsAAM",
+    "time": 1781113648,
+    "expires": 1781156848,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Androo Sehi\nPoster URL: https://m.facebook.com/profile.php?id=100077914263245\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/835779775969194/\n\nPost Text:\nHello everyone, how are you? I'm well, and I hope you are too.\nI'm looking for a reliable supplier located in China to ship the following products to France. \n\nHere are my conditions: \n\nNo minimum order quantity (MOQ), \n\nwarehouse required, \n\nand you must accept PayPal payments.\n\nAdditional Images: https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/719237373_1015372464403220_7526628352084049149_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=QcBxYGjm3EgQ7kNvwFC6viw&_nc_oc=Adoc3EqPkq38FVbKYno-EoqtYqo5ethLzoWJLD3gvf9gh0RbhHE6Wfg95JEd9WpakME&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-esYfcxuKjfA&_nc_ss=783ba&oh=00_Af9AD090Z3gcsxfVsHrO-2vjCPEH3mNPsxyCHF97_nOGAw&oe=6A2F60B6, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720248425_1015372537736546_4056195399500281167_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=g3bAa3iAk-gQ7kNvwEKycup&_nc_oc=AdomkdN9Y2J4GljnJs5RWHijMZ7dL8qDiQX24jAbgw7KuDVKOYOO0qXdBnh40mjuQig&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-esYfcxuKjfA&_nc_ss=783ba&oh=00_Af8dclWoXpbKx9B8Wl16FnjiL12uyLapNwsiTvo6CO8k0Q&oe=6A2F7C84, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/721995525_1015372521069881_4069365868957713641_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=10c7Gg4ENUoQ7kNvwEk9yIb&_nc_oc=AdoK8_tGvPn-5l3OG8pngIG5aLRZrmXYuyhvld1tXXttHbOvTlHSO60Ecg1hHBKzNHs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-esYfcxuKjfA&_nc_ss=783ba&oh=00_Af9ffl2xmdGsxXRIzxGzZd4lcI7oZfaB6q2HskiFXpcEMg&oe=6A2F7889, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720111470_1015372467736553_841783637862508627_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=za1VXLuKdzgQ7kNvwGzFAbl&_nc_oc=Ado7wXAri7qqyAW9b-9Hf8hrROtijtKFHawLEPgGAJ40oCvuIWPSWLbGjZszM6c-s4Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-esYfcxuKjfA&_nc_ss=783ba&oh=00_Af86-2uYexwTP3Fy514VcsDQO9VBp3bbTo5qqLPzFUFYgw&oe=6A2F7FD5, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/714759572_1015372564403210_3544705916346190453_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5SW0gEuCKnEQ7kNvwErEoxI&_nc_oc=AdoREofMWsRmiU6u5aVitV1L47lzH3aA9be7SBQMN3CbTbbxDHqq2b1NZG8TVLd4IQY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-esYfcxuKjfA&_nc_ss=783ba&oh=00_Af8Fiy_LrGovy8En3iv454CwMXSY25wL04x4kRGc1GT_vA&oe=6A2F64C4, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720290469_1015372571069876_7661251519302336407_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=l7GRw4hsRNgQ7kNvwGRP0Iq&_nc_oc=Adp9YAs5WHBZ-2bkv6N5zAaPVelwkFn6BlUjbyC3IpciixmzJxKJdv8tF8b4NAPxbNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-esYfcxuKjfA&_nc_ss=783ba&oh=00_Af9i6QEMseEAVc_c_eJfUHOqAg8Hekg7tgW4qNsaIJMIXw&oe=6A2F815A, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720019022_1015372514403215_210501967152379122_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=qSRh8s9oHNUQ7kNvwG7lSX3&_nc_oc=Ado88Zevxp9C3D33FeJ8j3Axwg8i3Vp4gnabeJf4a8xVsXHEMEHC9c0Mat0BABnXyxU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-esYfcxuKjfA&_nc_ss=783ba&oh=00_Af9FGXpYP8U_XfnVuBxDYgoz_IJgkQrTQlFcejMI0dS0IQ&oe=6A2F8440, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720435784_1015372544403212_5694905698391636925_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=3HnuvwUpmSMQ7kNvwFONoBA&_nc_oc=AdrduC7UGEKcCOoYBTbFNQj3tlXHjdsHqWC1a1zDKo-rJK0JFhrqpraXx0GooXzvAPg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-es",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "HhCt2Dvvyw",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/835779775969194/"
+      },
+      {
+        "id": "p9TX7KECmb",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Androo Sehi\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/835779775969194/\n\nPost Text:\nHello everyone, how are you? I'm well, and I hope you are too.\nI'm looking for a reliable supplier located in China to ship the following products to France. \n\nHere are my conditions: \n\nNo minimum order quantity (MOQ), \n\nwarehouse required, \n\nand you must accept PayPal payments."
+      }
+    ],
+    "attachment": {
+      "name": "719237373_1015372464403220_7526628352084049149_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/719237373_1015372464403220_7526628352084049149_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=QcBxYGjm3EgQ7kNvwFC6viw&_nc_oc=Adoc3EqPkq38FVbKYno-EoqtYqo5ethLzoWJLD3gvf9gh0RbhHE6Wfg95JEd9WpakME&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=p3VVIqGTaW-esYfcxuKjfA&_nc_ss=783ba&oh=00_Af9AD090Z3gcsxfVsHrO-2vjCPEH3mNPsxyCHF97_nOGAw&oe=6A2F60B6"
+    }
+  },
+  {
+    "id": "FcipCtsR8Knr",
+    "time": 1781113849,
+    "expires": 1781157049,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Sourcing agent&expert&Purchase&import from China&manufacture&supplier\nPosted By: Androo Sehi\nPoster URL: https://m.facebook.com/profile.php?id=100077914263245\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1588190545196923/permalink/1976477736368200/\n\nPost Text:\nI'm looking for a reliable supplier located in China to ship the following products to France. Here are my conditions: No minimum order quantity (MOQ), warehouse required, and you must accept PayPal payments.\n\nAdditional Images: https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720126406_1015374937736306_3560478070141125232_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=RbTYzyLax6gQ7kNvwGBxF9Z&_nc_oc=AdoAOgiMeeAJ4odUZ5rHey69BEZS4Bw2FKHWxQ4rEkm-0LZ9PYePG5XPhDLTNRJlO48&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af-2ZW2Q8ch2OED6gfcgYAds4GilJEV0toPhs5I-uR2zXw&oe=6A2F618D, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/718898936_1015374994402967_1449389216566802742_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=13taNhD9iecQ7kNvwGDNWAP&_nc_oc=AdrgUnOyQkuEnsjWhAlwAxP0yGjhFS0L0_G4zMrcqp_8kpNHl35jKefeVihR-b5paVM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af-sGQaTqlm6MFubFQyUNvMdRh8G2MeyMeb-HzYQC2pJqw&oe=6A2F8EB0, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720227284_1015375021069631_8595306428073913824_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=wptDijFwmmUQ7kNvwGHT_ng&_nc_oc=AdpT8bNvTihKI7_CtToTD8dQft628p2VIYBgqBxaR81e7221DizW1kz0sMQmIGKB7zc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af_gVH1k1g6W30PrULK5YdRCEbxftfhDl0XT6OO4Onh9vA&oe=6A2F7433, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/719949263_1015374987736301_6631831078767511615_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=uyfI7P_4ZbEQ7kNvwHgPm9x&_nc_oc=AdpMESaxFUkfXqN0JWp-7HpEk2xqsFY3uzt7-Ytx1EUDtnXVmOOyPlUVxzsmH5KfoD8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af_za3aG940NcQCMuj4XODGVfV_sZxn_zz-jV4d8TyKgwg&oe=6A2F7CA3, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/719266506_1015375017736298_553707414421159967_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0cYIPXO-yrQQ7kNvwGZlg-Y&_nc_oc=AdpK-VakszagkW-ATVCqAmTdp7fZEYBGC86F9wuq9UlaPcJd_LSZOAW6gMz1_G8Is60&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af-Z7J_0X_kAss_BfBPeCl9oqVRNKjNLb3f0zXljdwWy2Q&oe=6A2F8C5C, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720019224_1015374934402973_420596415324374487_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=4ETElZ1JWtgQ7kNvwE114kT&_nc_oc=Ado_xQ-6UhnmYXcXpTU2Jh-WQuOV8Yz8gBvvFoWoI5e9q1-NUe5_YKPsawHFIIf5OtM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af_U607DTvkaIRrUfplysWxk7m8h1-1TymrPa-wBUJHQng&oe=6A2F6C12, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/714824070_1015375064402960_4152527277242772804_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=yseOPtyKO3sQ7kNvwGgzf4s&_nc_oc=AdpsjZe260Ub5HaUD9YaJN2K6bRSKHwdHKf19wPCOa6pF666YonFxmLzXEQwwYqqhSA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af8C3YsUWozYIYFZ9Yun1I7VSSEFjHGav3EMx_H0cwvYXw&oe=6A2F7C6C, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720328460_1015375057736294_6996360655957660598_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=cbF8EmOEYfYQ7kNvwFspMvI&_nc_oc=AdpODlgXhPRXIedDG3G4lgY5kZhC2h_Y0WjLVk2l1Jty_1XPJBXp3aOF3_TBfIalBhg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af99kWK522",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "jgVxudZRoN",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1588190545196923/permalink/1976477736368200/"
+      },
+      {
+        "id": "agJDGbOjby",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Sourcing agent&expert&Purchase&import from China&manufacture&supplier\nGroup URL: https://www.facebook.com/groups/1588190545196923\nPoster Name: Androo Sehi\nPost URL: https://m.facebook.com/groups/1588190545196923/permalink/1976477736368200/\n\nPost Text:\nI'm looking for a reliable supplier located in China to ship the following products to France. Here are my conditions: No minimum order quantity (MOQ), warehouse required, and you must accept PayPal payments."
+      }
+    ],
+    "attachment": {
+      "name": "720126406_1015374937736306_3560478070141125232_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/720126406_1015374937736306_3560478070141125232_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=RbTYzyLax6gQ7kNvwGBxF9Z&_nc_oc=AdoAOgiMeeAJ4odUZ5rHey69BEZS4Bw2FKHWxQ4rEkm-0LZ9PYePG5XPhDLTNRJlO48&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=uRL75e0a__zTCLRXo1BJtg&_nc_ss=783ba&oh=00_Af-2ZW2Q8ch2OED6gfcgYAds4GilJEV0toPhs5I-uR2zXw&oe=6A2F618D"
+    }
+  },
+  {
+    "id": "VcfyJ39dtZmL",
+    "time": 1781115874,
+    "expires": 1781159074,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Bart Dockx\nPoster URL: https://m.facebook.com/DockxBart/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/835800009300504/\n\nPost Text:\nWhat I need for a customer is BBQ smoking planks (30cm x 14cm x 4mm) with logo on it and 2 planks packed together. \n\nLike that I need 5000 sets of 2 planks cedar, 5000 sets of 2 planks beech and 5000 sets of 2 planks alder. \n\nCan anyone give me a quotation for that, shipped to the Netherlands DDP and what would the estimated delivery time be?",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "BKk4nZBzz9",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/835800009300504/"
+      },
+      {
+        "id": "dIsW8YBPsT",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Bart Dockx\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/835800009300504/\n\nPost Text:\nWhat I need for a customer is BBQ smoking planks (30cm x 14cm x 4mm) with logo on it and 2 planks packed together. \n\nLike that I need 5000 sets of 2 planks cedar, 5000 sets of 2 planks beech and 5000 sets of 2 planks alder. \n\nCan anyone give me a quotation for that, shipped to the Netherlands DDP and what would the estimated delivery time be?"
+      }
+    ]
+  },
+  {
+    "id": "goEk0P64gSpu",
+    "time": 1781118756,
+    "expires": 1781161956,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Sourcing Agents\nPosted By: Muhammad Khaleeq\nPoster URL: https://m.facebook.com/mkhaleeq07/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/sourcingagent/permalink/2801681966881099/\n\nPost Text:\nI want an agent who can buy Football jerseys from 1688 on my behalf and deliver within China\nPlease dm me\nOr whatsapp on:+971 509229481",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "XEbVBYoOhQ",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/sourcingagent/permalink/2801681966881099/"
+      },
+      {
+        "id": "wbD874tWi8",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Sourcing Agents\nGroup URL: https://www.facebook.com/groups/1552280151821293\nPoster Name: Muhammad Khaleeq\nPost URL: https://m.facebook.com/groups/sourcingagent/permalink/2801681966881099/\n\nPost Text:\nI want an agent who can buy Football jerseys from 1688 on my behalf and deliver within China\nPlease dm me\nOr whatsapp on:+971 509229481"
+      }
+    ]
+  },
+  {
+    "id": "1hij5nba8ozP",
+    "time": 1781118826,
+    "expires": 1781162026,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: 1688 Taobao shopping Agent, purchasing agent ,3% commission buying agent 小组\nPosted By: Muhammad Khaleeq\nPoster URL: https://m.facebook.com/mkhaleeq07/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/228669967713523/permalink/2130711684175999/\n\nPost Text:\nI want an agent who can buy Football jerseys from 1688 on my behalf and deliver within China\nPlease dm me\nOr whatsapp on:+971 509229481",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "09LAfsULsH",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/228669967713523/permalink/2130711684175999/"
+      },
+      {
+        "id": "Ul8QQO9JBv",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: 1688 Taobao shopping Agent, purchasing agent ,3% commission buying agent ??\nGroup URL: https://www.facebook.com/groups/228669967713523\nPoster Name: Muhammad Khaleeq\nPost URL: https://m.facebook.com/groups/228669967713523/permalink/2130711684175999/\n\nPost Text:\nI want an agent who can buy Football jerseys from 1688 on my behalf and deliver within China\nPlease dm me\nOr whatsapp on:+971 509229481"
+      }
+    ]
+  }
+]
