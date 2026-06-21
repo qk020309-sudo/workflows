@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nypZxtG5ZbWD",
+    "time": 1781994582,
+    "expires": 1782037782,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sorcing Agent ‖Shipping&Dropshipping‖shopify ‖Supplier\nPosted By: Anes Mu\nPoster URL: https://m.facebook.com/MuratiMedia/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1352434756817236/\n\nPost Text:\n## **Looking for a Pilates equipment supplier — EU warehouse only**\n\nHey everyone,\n\nSourcing Pilates products and specifically need a supplier/manufacturer who already holds stock in an EU warehouse! Not shipping per order from China!\n\nOnly reach out if that's genuinely the case for you. Comment or DM - thanks!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "WK7pkZUHij",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1022977373096311/permalink/1352434756817236/"
+      },
+      {
+        "id": "bGpAoNx8HQ",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sorcing Agent ?Shipping&Dropshipping?shopify ?Supplier\nGroup URL: https://www.facebook.com/groups/1022977373096311\nPoster Name: Anes Mu\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1352434756817236/\n\nPost Text:\n## **Looking for a Pilates equipment supplier ? EU warehouse only**\n\nHey everyone,\n\nSourcing Pilates products and specifically need a supplier/manufacturer who already holds stock in an EU warehouse! Not shipping per order from China!\n\nOnly reach out if that's genuinely the case for you. Comment or DM - thanks!"
+      }
+    ]
+  }
+]
