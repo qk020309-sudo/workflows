@@ -1,0 +1,463 @@
+[
+  {
+    "id": "WT12dbXT7S2g",
+    "time": 1783094501,
+    "expires": 1783137701,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: Tochi Oranagwa\nPoster URL: https://m.facebook.com/tochi.oranagwa/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1629594932506327/\n\nPost Text:\nPlease I need a sourcing agent that can help me to get this from China...\nGuangzhou is where the factory is\n\nAdditional Images: https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/736154102_27192359483770061_5109021069516854988_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=8ZELiTFlm2QQ7kNvwH6T_WX&_nc_oc=AdorbtxRQGjgULFjwJ3oAIqgs-aJ5nZYaebiuwLRvouTARCfoPmhfac2hkkduGs0VYA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4HFgXVg_0CXW88EtKrdCIg&_nc_ss=783ba&oh=00_AQBRi1FEgFgZVm6z8WjCf8yuTOXb08YxMFJycOERCkZxCg&oe=6A4DB5C3, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/737026571_27192360357103307_8501596755966079377_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=dOS5UseHaqQQ7kNvwFd31y6&_nc_oc=AdrJ4Xz0NQS46k5WEx8HWSWS_-1h8CvOyyv7BrcsOXP_feka5GoLIDVcaZm9Cy--7jc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4HFgXVg_0CXW88EtKrdCIg&_nc_ss=783ba&oh=00_AQASdqz78G1diMTng_-5YKW_0xvlflnHAXfnsan9K-dUXQ&oe=6A4D9E8F, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/736778907_27192361137103229_7432330561406718931_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=-aR_pwfFP-MQ7kNvwGthxz4&_nc_oc=AdpI_Wy6KD08clmTyjRm_L8Ci2KPWYzzFtu8WGHzVLTbrM34EERRZZHpm-pd0rHGXpU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4HFgXVg_0CXW88EtKrdCIg&_nc_ss=783ba&oh=00_AQDOLz9623NS1LZmLz_jdIc1GegBtGtZbjg8VtXlRCkFXw&oe=6A4D98CC, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/737401540_27192361880436488_1415346548531374261_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=x7ah09rxkRUQ7kNvwHQLs7k&_nc_oc=Adr3QHUbHtfFS5Cwo-D2C6MaiKvGkUibh3EDORt9Qd_zLqx-NVu70lKST0j0SxLsGTI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4HFgXVg_0CXW88EtKrdCIg&_nc_ss=783ba&oh=00_AQCZ9DVYAUN7cVGLg_Ka4Zr7cXegflWowQrIsNrg1jW6MQ&oe=6A4DBCC1",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "RVXVZPPgSa",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1629594932506327/"
+      },
+      {
+        "id": "CrQHoYMDRG",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: Tochi Oranagwa\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1629594932506327/\n\nPost Text:\nPlease I need a sourcing agent that can help me to get this from China...\nGuangzhou is where the factory is"
+      }
+    ],
+    "attachment": {
+      "name": "736154102_27192359483770061_5109021069516854988_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/736154102_27192359483770061_5109021069516854988_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=8ZELiTFlm2QQ7kNvwH6T_WX&_nc_oc=AdorbtxRQGjgULFjwJ3oAIqgs-aJ5nZYaebiuwLRvouTARCfoPmhfac2hkkduGs0VYA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4HFgXVg_0CXW88EtKrdCIg&_nc_ss=783ba&oh=00_AQBRi1FEgFgZVm6z8WjCf8yuTOXb08YxMFJycOERCkZxCg&oe=6A4DB5C3"
+    }
+  },
+  {
+    "id": "SE4qkNWjRKlc",
+    "time": 1783094502,
+    "expires": 1783137702,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: FunParsnip8615\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1630294849103002/\n\nPost Text:\nHi ! I'm looking for someone who can provide original iphones , samsung ,xiaomi phones at wholesale prices. WHAT I NEED is no moq for the first purchase. I need to make sure you're legit first  for a long cooperation . YOU NEED TO BE ABLE TO ACCEPT SECURE PEYMWNTS LIKE PAYPAL GOODS AND SERVICES OR OR OTHER SECURE METHOD . I expect fast and reliable responses and quick delivery. If you check these boxes please leave a comment .",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "pCsLgoYsI3",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1630294849103002/"
+      },
+      {
+        "id": "PTd4GNtaKm",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: FunParsnip8615\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1630294849103002/\n\nPost Text:\nHi ! I'm looking for someone who can provide original iphones , samsung ,xiaomi phones at wholesale prices. WHAT I NEED is no moq for the first purchase. I need to make sure you're legit first  for a long cooperation . YOU NEED TO BE ABLE TO ACCEPT SECURE PEYMWNTS LIKE PAYPAL GOODS AND SERVICES OR OR OTHER SECURE METHOD . I expect fast and reliable responses and quick delivery. If you check these boxes please leave a comment ."
+      }
+    ]
+  },
+  {
+    "id": "KY6jOlBAGc3j",
+    "time": 1783094504,
+    "expires": 1783137704,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: Nureytta Salymourh\nPoster URL: https://m.facebook.com/nureytta.salymourh/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1630364915762662/\n\nPost Text:\nI am looking for 100% spun rayon viscose .Anyone who can supply less a container.(Baati)\n\nAdditional Images: https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/734555085_5422986827926627_81873175438924990_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=O2FWT5m4KyMQ7kNvwEzf012&_nc_oc=Adoeqovkk2WLt14HCFxH4xaTihf3p47kJi_sS4MdHPSxaPCry0NtGA-j5qUCMbmFuVw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=UmLDtdpm1dZqqWDrSE7tOw&_nc_ss=783ba&oh=00_AQCUmrGp_se_XZUj5H6bYUiZPm2VZKomGaordRw4k1pL3g&oe=6A4DBEBF, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/738283902_5422986877926622_20281923710228913_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=RVxHLpihRKIQ7kNvwHVbsd2&_nc_oc=AdrFF3G-X_n6snlw4cVWkIaEUYu0Cv8em8nOkP7y3rUdJwafHzcCdXjmtU0oQsUV7UQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=UmLDtdpm1dZqqWDrSE7tOw&_nc_ss=783ba&oh=00_AQDN2y9ilANQJXzkjooK1puNr5m3NWgODuzBjtygRcXxWQ&oe=6A4DBB10, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/737502357_5422986957926614_5671325919110330883_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=1UE8p1RNZW8Q7kNvwE0pK51&_nc_oc=Adrs8-AJIbeGFu5_ri2pKaBte3V2Zr6UF9ausXgIqGuBJN_SJhjBKmieWuJTT20tQ2w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=UmLDtdpm1dZqqWDrSE7tOw&_nc_ss=783ba&oh=00_AQB_ZjAHtMaWAuvHFI5WwTnuncTgZORs45q0LcliGJiMWA&oe=6A4D998E",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "e6h1IY1dgn",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1630364915762662/"
+      },
+      {
+        "id": "PYKGTtgJ6K",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: Nureytta Salymourh\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1630364915762662/\n\nPost Text:\nI am looking for 100% spun rayon viscose .Anyone who can supply less a container.(Baati)"
+      }
+    ],
+    "attachment": {
+      "name": "734555085_5422986827926627_81873175438924990_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/734555085_5422986827926627_81873175438924990_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=O2FWT5m4KyMQ7kNvwEzf012&_nc_oc=Adoeqovkk2WLt14HCFxH4xaTihf3p47kJi_sS4MdHPSxaPCry0NtGA-j5qUCMbmFuVw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=UmLDtdpm1dZqqWDrSE7tOw&_nc_ss=783ba&oh=00_AQCUmrGp_se_XZUj5H6bYUiZPm2VZKomGaordRw4k1pL3g&oe=6A4DBEBF"
+    }
+  },
+  {
+    "id": "H9MZelz4NpQR",
+    "time": 1783102520,
+    "expires": 1783145720,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: 1688 Sourcing&Purchase agent\nPosted By: Usaid Butt\nPoster URL: https://m.facebook.com/profile.php?id=61584064242798\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/232865597871567/permalink/1510301513461296/\n\nPost Text:\nNeed this product in bulk (100 pcs). If anyone have then dm me .",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "o3NwKyAjxY",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/232865597871567/permalink/1510301513461296/"
+      },
+      {
+        "id": "IJDFIOB4bI",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: 1688 Sourcing&Purchase agent\nGroup URL: https://www.facebook.com/groups/232865597871567\nPoster Name: Usaid Butt\nPost URL: https://m.facebook.com/groups/232865597871567/permalink/1510301513461296/\n\nPost Text:\nNeed this product in bulk (100 pcs). If anyone have then dm me ."
+      }
+    ],
+    "attachment": {
+      "name": "739496549_122136776991135474_4643776008574099577_n.jpg",
+      "url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/739496549_122136776991135474_4643776008574099577_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GrluApzAJUYQ7kNvwHIcbeU&_nc_oc=AdoYWFyKZ_39UN9-QxbsS_zVcDRspHHZD8xwHvbdCakL7uXF8KPV9kPlbfOWrZt9ls8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=v86C_aKwVdShYjeSHluteA&_nc_ss=783ba&oh=00_AQAxx6J_34-euMOiyWo4UNw4A2bdoos6X5-IlNU_HFeqgg&oe=6A4DBF53"
+    }
+  },
+  {
+    "id": "ZxOav2yJRZlR",
+    "time": 1783104303,
+    "expires": 1783147503,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sorcing Agent ‖Shipping&Dropshipping‖shopify ‖Supplier\nPosted By: Dino Tot\nPoster URL: https://m.facebook.com/dino.cozy/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1363174759076569/\n\nPost Text:\nHello,\nI am looking for a manufacturer or supplier for premium car air fresheners with a modern, minimalist design. The product should provide a high-end fragrance experience while remaining discreet and aesthetically pleasing within the vehicle interior.\n\nKey requirements:\n\n* Premium and minimalist design\n\n* Long-lasting fragrance performance (ideally 30–60 days or longer)\n\n* High-quality materials and craftsmanship\n\n* Private label and custom branding options\n\n* Low to medium MOQ for initial orders\n\n* Custom packaging options\n\nThe fragrances should be inspired by luxury designer perfumes and offer a sophisticated, premium scent experience. I am interested in scent profiles such as:\n\n* Fresh and modern woody fragrances\n\n* Clean and luxurious musk-based fragrances\n\n* Rich amber and oud-inspired fragrances\n\n* Elegant fruity-woody compositions\n\n* Exclusive niche-perfume-inspired scents\n\nI plan to build a premium automotive fragrance brand and am interested in both:\n\n1. Dropshipping fulfi...",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "D7nkaUZW75",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1022977373096311/permalink/1363174759076569/"
+      },
+      {
+        "id": "YgkUvLzAi5",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sorcing Agent ?Shipping&Dropshipping?shopify ?Supplier\nGroup URL: https://www.facebook.com/groups/1022977373096311\nPoster Name: Dino Tot\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1363174759076569/\n\nPost Text:\nHello,\nI am looking for a manufacturer or supplier for premium car air fresheners with a modern, minimalist design. The product should provide a high-end fragrance experience while remaining discreet and aesthetically pleasing within the vehicle interior.\n\nKey requirements:\n\n* Premium and minimalist design\n\n* Long-lasting fragrance performance (ideally 30?60 days or longer)\n\n* High-quality materials and craftsmanship\n\n* Private label and custom branding options\n\n* Low to medium MOQ for initial orders\n\n* Custom packaging options\n\nThe fragrances should be inspired by luxury designer perfumes and offer a sophisticated, premium scent experience. I am interested in scent profiles such as:\n\n* Fresh and modern woody fragrances\n\n* Clean and luxurious musk-based fragrances\n\n* Rich amber and oud-inspired fragrances\n\n* Elegant fruity-woody compositions\n\n* Exclusive niche-perfume-inspired scents\n\nI plan to build a premium automotive fragrance brand and am interested in both:\n\n1. Dropshipping fulfillment directly to customers.\n\n2. Bulk orders shipped to Germany for local warehousing and distribution.\n\nPlease let me know if you can support either or both of these business models.\n\nAdditionally, please provide information regarding:\n\n* Available product types and designs\n\n* Customization options (product, packaging, and branding)\n\n* MOQ requirements\n\n* Pricing for different order quantities\n\n* Fragrance options and custom scent development\n\n* Sample costs\n\n* Production lead times\n\n* Shipping methods and fulfillment capabilities\n\nI am looking for a reliable long-term manufacturing partner and would appreciate receiving your product catalog and quotation.\n\nBest regards,\n\nDino"
+      }
+    ]
+  },
+  {
+    "id": "946NJhYm4SGs",
+    "time": 1783108880,
+    "expires": 1783152080,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: 1688 Taobao shopping Agent, purchasing agent ,3% commission buying agent 小组\nPosted By: Wong Wayne\nPoster URL: https://m.facebook.com/profile.php?id=61591260766369\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/228669967713523/permalink/2150113855569115/\n\nPost Text:\nI need a supplier",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "HpsOnE5fP2",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/228669967713523/permalink/2150113855569115/"
+      },
+      {
+        "id": "FhuyITMRBz",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: 1688 Taobao shopping Agent, purchasing agent ,3% commission buying agent ??\nGroup URL: https://www.facebook.com/groups/228669967713523\nPoster Name: Wong Wayne\nPost URL: https://m.facebook.com/groups/228669967713523/permalink/2150113855569115/\n\nPost Text:\nI need a supplier"
+      }
+    ],
+    "attachment": {
+      "name": "736931718_122104057383375358_8607954202595408569_n.jpg",
+      "url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/736931718_122104057383375358_8607954202595408569_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=t3xV3uU_3PQQ7kNvwHv3lP2&_nc_oc=Ado34UyBFS1xb_FZdEbHTuwHfZYnXh9hBA6XpwtfsWre5ye9B4aa73eaSOMD30X9anA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=l60F93dIRPGeJUlCG5Rpzg&_nc_ss=783ba&oh=00_AQDwA-SWkWzKeOfwnHIjxKtx1keasvK_HfqcKat0YFESRQ&oe=6A4DECEA"
+    }
+  },
+  {
+    "id": "EV5ktKPIvkmm",
+    "time": 1783112775,
+    "expires": 1783155975,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Elyashiv Kakon\nPoster URL: https://m.facebook.com/profile.php?id=61568599742995\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/854125254134646/\n\nPost Text:\nLooking for a reliable sourcing agent / factory contact in China for custom clothing production (streetwear line - hoodies, tees, joggers, underwear, beanies).\nI have my own original designs/graphics ready to send over.\n\nHow I want to start: just a small sample batch first (a handful of units per item) so I can create content and test the market before launching the store. Once I get traction and decide to officially launch, I'll come back to place bulk production orders.\n\nRequirements:\n\n- High quality fabric on all garments (this is non-negotiable for me)\n\n- Able to work with provided designs/artwork and apply them accurately\n\n- Fast turnaround / responsive communication\n\nIf you can help with small MOQs to start and scale up later, please DM me or comment below. Thanks!\n\nElyashiv\n\nWhatsApp: +972 52-548-1500\n\nLooking for a reliable sourcing agent / factory contact in China for custom clothing production (streetwear line - hoodies, tees, joggers, underwear, beanies).",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "LC79mLbY9j",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/854125254134646/"
+      },
+      {
+        "id": "d9BLPBnjsv",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Elyashiv Kakon\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/854125254134646/\n\nPost Text:\nLooking for a reliable sourcing agent / factory contact in China for custom clothing production (streetwear line - hoodies, tees, joggers, underwear, beanies).\nI have my own original designs/graphics ready to send over.\n\nHow I want to start: just a small sample batch first (a handful of units per item) so I can create content and test the market before launching the store. Once I get traction and decide to officially launch, I'll come back to place bulk production orders.\n\nRequirements:\n\n- High quality fabric on all garments (this is non-negotiable for me)\n\n- Able to work with provided designs/artwork and apply them accurately\n\n- Fast turnaround / responsive communication\n\nIf you can help with small MOQs to start and scale up later, please DM me or comment below. Thanks!\n\nElyashiv\n\nWhatsApp: +972 52-548-1500\n\nLooking for a reliable sourcing agent / factory contact in China for custom clothing production (streetwear line - hoodies, tees, joggers, underwear, beanies)."
+      }
+    ]
+  },
+  {
+    "id": "jpzNyhFr0Enx",
+    "time": 1783113852,
+    "expires": 1783157052,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Shenzhen/Guangzhou Best Sourcing Agent & Suppliers\nPosted By: Rooney Đặng\nPoster URL: https://m.facebook.com/trieuats/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1299047247849818/permalink/1644468643307675/\n\nPost Text:\nI need to buy tungsten powder. I invite potential suppliers.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "2JFjAN5olr",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1299047247849818/permalink/1644468643307675/"
+      },
+      {
+        "id": "UgqVlNuUV8",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Shenzhen/Guangzhou Best Sourcing Agent & Suppliers\nGroup URL: https://www.facebook.com/groups/1299047247849818\nPoster Name: Rooney ??ng\nPost URL: https://m.facebook.com/groups/1299047247849818/permalink/1644468643307675/\n\nPost Text:\nI need to buy tungsten powder. I invite potential suppliers."
+      }
+    ]
+  },
+  {
+    "id": "LsceIQBRflnX",
+    "time": 1783126347,
+    "expires": 1783169547,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Purchasing agents from China Alibaba 1688, Taobao, and Pinduoduo\nPosted By: Jannis Guethge\nPoster URL: https://m.facebook.com/jannis.guethge/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1685725138794899/permalink/1960448304655913/\n\nPost Text:\n**Looking for a reliable Taobao/1688 purchasing agent (long-term)**\n\nI'm based in Europe and looking for an agent for regular private purchases 10-25 Items per Month. How it works:\n\nI send you product photos or Taobao/1688 links via WeChat or WhatsApp. You source the product, order it to your warehouse, do a quality check with photos before shipping, and consolidate + ship to Europe (Germany).\n\nWhat I need from you: WeChat or WhatsApp contact, your commission rate and shipping options (air/sea), and QC photos before dispatch.\n\nSerious offers only – please comment or DM with your rates. 谢谢!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "ejCU7dPfGp",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1685725138794899/permalink/1960448304655913/"
+      },
+      {
+        "id": "vT7kh2Ersb",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Purchasing agents from China Alibaba 1688, Taobao, and Pinduoduo\nGroup URL: https://www.facebook.com/groups/1685725138794899\nPoster Name: Jannis Guethge\nPost URL: https://m.facebook.com/groups/1685725138794899/permalink/1960448304655913/\n\nPost Text:\n**Looking for a reliable Taobao/1688 purchasing agent (long-term)**\n\nI'm based in Europe and looking for an agent for regular private purchases 10-25 Items per Month. How it works:\n\nI send you product photos or Taobao/1688 links via WeChat or WhatsApp. You source the product, order it to your warehouse, do a quality check with photos before shipping, and consolidate + ship to Europe (Germany).\n\nWhat I need from you: WeChat or WhatsApp contact, your commission rate and shipping options (air/sea), and QC photos before dispatch.\n\nSerious offers only ? please comment or DM with your rates. ??!"
+      }
+    ]
+  },
+  {
+    "id": "rRMWLPGulG2I",
+    "time": 1783126350,
+    "expires": 1783169550,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Purchasing agents from China Alibaba 1688, Taobao, and Pinduoduo\nPosted By: Wong Wayne\nPoster URL: https://m.facebook.com/profile.php?id=61591260766369\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1685725138794899/permalink/1960785241288886/\n\nPost Text:\nNeed supplier",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "VJRcELILjY",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1685725138794899/permalink/1960785241288886/"
+      },
+      {
+        "id": "e6tgnoIQSK",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Purchasing agents from China Alibaba 1688, Taobao, and Pinduoduo\nGroup URL: https://www.facebook.com/groups/1685725138794899\nPoster Name: Wong Wayne\nPost URL: https://m.facebook.com/groups/1685725138794899/permalink/1960785241288886/\n\nPost Text:\nNeed supplier"
+      }
+    ],
+    "attachment": {
+      "name": "737025869_122104050843375358_3470605519974161551_n.jpg",
+      "url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/737025869_122104050843375358_3470605519974161551_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=v5H1DKMqqsIQ7kNvwF33xEU&_nc_oc=AdrDlRm1aC0zm6vyQoyFxwMj1ft0iOSfbCjuD1IdzVsIronw9IOogprcZ4PDfrUkDk0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=2rctw77PBE9wcaFNtp5XKw&_nc_ss=783ba&oh=00_AQA42egJKY73Ec5DA4dyu8aBp7R2ZuwAR2diNjX2CTarcA&oe=6A4E3B9F"
+    }
+  },
+  {
+    "id": "A4f8VAubzjF6",
+    "time": 1783128035,
+    "expires": 1783171235,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Farouk Hammde\nPoster URL: https://m.facebook.com/farouk.hammde/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/854251870788651/\n\nPost Text:\nI’m looking for a reliable agent or supplier who can provide this baby head protection backpack with fast shipping, good quality, and competitive prices.\nI’m also interested in other trending baby products for long-term cooperation.\nPlease DM me with your catalog, MOQ, pricing, and shipping times. Thanks!\n\nAdditional Images: https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/736207337_4569121719983395_5193465216499093428_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BYHGwtWwS6oQ7kNvwGJ1zR3&_nc_oc=AdptIE9jO5wJx6HMe-3hMsDbj7cCsdtzr5KPEe68m_pR_qVp7LqWWeoBPVWVXaBusRQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=99KWBoqtM2u2ZpBPfttyEA&_nc_ss=783ba&oh=00_AQAPPt_3hV2ANf8WbSsS8jgREXnk9_-kMovCpdsTPKCodg&oe=6A4E183B, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/736440586_4569121726650061_2488563847161552778_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=qHNhf9eSixAQ7kNvwE7Yanq&_nc_oc=Adpfzk5dpbtQ7JOrW4Xi8N6x8Kj3KdIcBUg4KN8sv9DAezcqFArQ__eab1i1beXXpkg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=99KWBoqtM2u2ZpBPfttyEA&_nc_ss=783ba&oh=00_AQArbJJnO4VS2y2RiL7GLgX_P4dgqu0HpIhOj25PboIf2A&oe=6A4E3F2D",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "rCwYEpqjdN",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/854251870788651/"
+      },
+      {
+        "id": "Yz4Hvtp2Ll",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Farouk Hammde\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/854251870788651/\n\nPost Text:\nI?m looking for a reliable agent or supplier who can provide this baby head protection backpack with fast shipping, good quality, and competitive prices.\nI?m also interested in other trending baby products for long-term cooperation.\nPlease DM me with your catalog, MOQ, pricing, and shipping times. Thanks!"
+      }
+    ],
+    "attachment": {
+      "name": "736207337_4569121719983395_5193465216499093428_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/736207337_4569121719983395_5193465216499093428_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BYHGwtWwS6oQ7kNvwGJ1zR3&_nc_oc=AdptIE9jO5wJx6HMe-3hMsDbj7cCsdtzr5KPEe68m_pR_qVp7LqWWeoBPVWVXaBusRQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=99KWBoqtM2u2ZpBPfttyEA&_nc_ss=783ba&oh=00_AQAPPt_3hV2ANf8WbSsS8jgREXnk9_-kMovCpdsTPKCodg&oe=6A4E183B"
+    }
+  },
+  {
+    "id": "JjVa4FBcvQtS",
+    "time": 1783128538,
+    "expires": 1783171738,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Factory-Sourcing Agent Service\nPosted By: Isaac Bouns\nPoster URL: https://m.facebook.com/profile.php?id=61577041331549\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1291680938457996/permalink/1865886621037422/\n\nPost Text:\nHello everyone,\nI’m looking for suppliers or sourcing agents who can provide products similar to these (premium bladeless fans, air purifiers, cooling products, etc.) with fast delivery to France and Belgium, ideally within 24–72 hours or as quickly as possible from a European warehouse.\n\nIf you know a reliable supplier or can help me source these products, please send me a private message.\n\nThank you very much!\n\nAdditional Images: https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/736981145_122182932074901377_3324266143377473974_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=kEAgKI7sECcQ7kNvwFVSk2G&_nc_oc=Adp_MBB4CB9BCttnHoSdtmHZ4PnPTiEKR8p5UiUola94NEnt0V4qIEiLsfYhcH42GgM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=VOWX2MqVPqODIscyh-FfQw&_nc_ss=783ba&oh=00_AQDf3IFMT2gM0HWBJt8o1ZHGl5pXmCKURr8hoZfgv6OnGA&oe=6A4E3E05, https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/737325436_122182932140901377_1459487576638876707_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Ubgb2DYOWEcQ7kNvwE6niuj&_nc_oc=Adp-4UnUfDGL01XCM2QJJzgZca6RxX_VyXxSecTPOzFU6LprFjuWcAClzdZmyqUnVfY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=VOWX2MqVPqODIscyh-FfQw&_nc_ss=783ba&oh=00_AQDPZubbISw_OLXtrYmgyjHTdRR4I5BoJxZ9ne_3KhMt3w&oe=6A4E46B4, https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/737422336_122182932128901377_602536668162110716_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=XeHDfeUivicQ7kNvwHsL-Y4&_nc_oc=AdpCkSFEVCUii7QLV2Xd89FeLvWfezPC84xepnSsODGLg57ESSEPro9SJUcVySp5YzY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=VOWX2MqVPqODIscyh-FfQw&_nc_ss=783ba&oh=00_AQAhaSpybkwrSt_Dr9zqMS9qjsrUbAYzP58hZAH5PkSREQ&oe=6A4E4253, https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/739083245_122182932110901377_9080005621968066349_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=izW-3QhFx5gQ7kNvwH1cRCn&_nc_oc=AdqU2Xt3UoIbE8CCp02kIxGtEihlaGO9eNIitSWCxG1XJabIefA_Z0aVqJOLzF5NqhM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=VOWX2MqVPqODIscyh-FfQw&_nc_ss=783ba&oh=00_AQDKieY82vzR7I83Si-RMF35u-bPEi_5cTM5N4EJhclq2A&oe=6A4E3F62",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "j08syCwB9h",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1291680938457996/permalink/1865886621037422/"
+      },
+      {
+        "id": "woMKcNCCDw",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Factory-Sourcing Agent Service\nGroup URL: https://www.facebook.com/groups/1291680938457996\nPoster Name: Isaac Bouns\nPost URL: https://m.facebook.com/groups/1291680938457996/permalink/1865886621037422/\n\nPost Text:\nHello everyone,\nI?m looking for suppliers or sourcing agents who can provide products similar to these (premium bladeless fans, air purifiers, cooling products, etc.) with fast delivery to France and Belgium, ideally within 24?72 hours or as quickly as possible from a European warehouse.\n\nIf you know a reliable supplier or can help me source these products, please send me a private message.\n\nThank you very much!"
+      }
+    ],
+    "attachment": {
+      "name": "736981145_122182932074901377_3324266143377473974_n.jpg",
+      "url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/736981145_122182932074901377_3324266143377473974_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=kEAgKI7sECcQ7kNvwFVSk2G&_nc_oc=Adp_MBB4CB9BCttnHoSdtmHZ4PnPTiEKR8p5UiUola94NEnt0V4qIEiLsfYhcH42GgM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=VOWX2MqVPqODIscyh-FfQw&_nc_ss=783ba&oh=00_AQDf3IFMT2gM0HWBJt8o1ZHGl5pXmCKURr8hoZfgv6OnGA&oe=6A4E3E05"
+    }
+  },
+  {
+    "id": "tw3GVlJvuL7l",
+    "time": 1783128546,
+    "expires": 1783171746,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Factory-Sourcing Agent Service\nPosted By: Elly Mold\nPoster URL: https://m.facebook.com/user1211635901/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1291680938457996/permalink/1865773484382069/\n\nPost Text:\nLooking for a reliable, honest supplier that offers secure payment terms and is willing to provide a trial/sample product before a larger order.\n\nI’m looking to source backup camera systems for semi truck trailers, similar to the one shown in this video:\n\nhttps://youtube.com/shorts/rjhpAfHpNMU?is=Yjr9WIon5A8NbviK\n\nRequirements:\n\n* Backup camera system for semi truck trailers\n* Clear HD image with excellent night vision\n* Wireless or wired options\n* Waterproof and weather-resistant for heavy-duty use\n* Stable signal with low latency\n* Easy installation\n* Competitive pricing and consistent quality\n* Must be able to ship to the USA\n\nIf you’re a manufacturer or can connect me with a trusted factory producing similar products, please send me your catalog, MOQ, pricing, lead time, certifications, shipping options to the USA, and available sample options. I’m looking for a long-term supplier.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "2mB4sGnRxJ",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1291680938457996/permalink/1865773484382069/"
+      },
+      {
+        "id": "pCjAhw68jV",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Factory-Sourcing Agent Service\nGroup URL: https://www.facebook.com/groups/1291680938457996\nPoster Name: Elly Mold\nPost URL: https://m.facebook.com/groups/1291680938457996/permalink/1865773484382069/\n\nPost Text:\nLooking for a reliable, honest supplier that offers secure payment terms and is willing to provide a trial/sample product before a larger order.\n\nI?m looking to source backup camera systems for semi truck trailers, similar to the one shown in this video:\n\nhttps://youtube.com/shorts/rjhpAfHpNMU?is=Yjr9WIon5A8NbviK\n\nRequirements:\n\n* Backup camera system for semi truck trailers\n* Clear HD image with excellent night vision\n* Wireless or wired options\n* Waterproof and weather-resistant for heavy-duty use\n* Stable signal with low latency\n* Easy installation\n* Competitive pricing and consistent quality\n* Must be able to ship to the USA\n\nIf you?re a manufacturer or can connect me with a trusted factory producing similar products, please send me your catalog, MOQ, pricing, lead time, certifications, shipping options to the USA, and available sample options. I?m looking for a long-term supplier."
+      }
+    ]
+  },
+  {
+    "id": "HqGUynWGpTYH",
+    "time": 1783128700,
+    "expires": 1783171900,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Factory-Sourcing Agent Service\nPosted By: Wong Wayne\nPoster URL: https://m.facebook.com/profile.php?id=61591260766369\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1291680938457996/permalink/1865724867720264/\n\nPost Text:\nNeed supplier",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "qnZEM6kow4",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1291680938457996/permalink/1865724867720264/"
+      },
+      {
+        "id": "RU9LghZpah",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Factory-Sourcing Agent Service\nGroup URL: https://www.facebook.com/groups/1291680938457996\nPoster Name: Wong Wayne\nPost URL: https://m.facebook.com/groups/1291680938457996/permalink/1865724867720264/\n\nPost Text:\nNeed supplier"
+      }
+    ],
+    "attachment": {
+      "name": "735504906_122104049949375358_1558798474326188642_n.jpg",
+      "url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/735504906_122104049949375358_1558798474326188642_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=fXylnjxYv04Q7kNvwGEgiUK&_nc_oc=Adr5BnSNWaLfDxFFE6hiZ5g1TzQBPcByTyUDqeXplU7atHfc-uh3NMxcDA09TV1ByGc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=Zb8l0rQYpLdqoEELUpk9Dw&_nc_ss=783ba&oh=00_AQAmERuL1KnCA4wLrfRb_W10ctdAnMogXGkFesSnHizkFA&oe=6A4E3C98"
+    }
+  },
+  {
+    "id": "dTIcOu240kxB",
+    "time": 1783129001,
+    "expires": 1783172201,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Factory-Sourcing Agent Service\nPosted By: GraySquirrel5506\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1291680938457996/permalink/1865472437745507/\n\nPost Text:\nLooking for 3000-5000kgs\nCif bkk",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "4ZP1r1xZqP",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1291680938457996/permalink/1865472437745507/"
+      },
+      {
+        "id": "OUU8V68R9V",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Factory-Sourcing Agent Service\nGroup URL: https://www.facebook.com/groups/1291680938457996\nPoster Name: GraySquirrel5506\nPost URL: https://m.facebook.com/groups/1291680938457996/permalink/1865472437745507/\n\nPost Text:\nLooking for 3000-5000kgs\nCif bkk"
+      }
+    ],
+    "attachment": {
+      "name": "735994133_2227106458121538_5927731699955028921_n.jpg",
+      "url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/735994133_2227106458121538_5927731699955028921_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Yi91XKLg734Q7kNvwHKjYAL&_nc_oc=Adr275NDfZHJMByFQiD7TUKHw_uKxKJyw0FBst46-VPdLJuY0aUL7CGmNyLQYilx0yQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=t3i4A-6Zm3J68IRHYQguUg&_nc_ss=783ba&oh=00_AQDD5e_BsU2t7dPsSADGuRolSl5VoNLz_U3mrzI7QbLJ0A&oe=6A4E28A5"
+    }
+  },
+  {
+    "id": "siJgR3F1Nzv6",
+    "time": 1783130379,
+    "expires": 1783173579,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sorcing Agent ‖Shipping&Dropshipping‖shopify ‖Supplier\nPosted By: MD Ashraf Ali\nPoster URL: https://m.facebook.com/Ashrafvai1433/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1363407439053301/\n\nPost Text:\nPlease read the full post first — if you’re genuinely interested, message me on WhatsApp.\n\n🤝 Looking for a Business Partner in China (Yiwu/Guangzhou) — Sourcing & Trade Agency\n\nWhatsApp: +601160559037\n\nHi, I’m Ashraf Ali, an entrepreneur with experience in e-commerce (Shopify/Amazon) and international trade. I’m looking to partner with a local, trustworthy individual based in Yiwu or Guangzhou to co-found a sourcing & trade facilitation agency.\n\nHow the partnership works:\n\n • My role: Finding and bringing customers — Bangladeshi Shopify/Amazon sellers who need sourcing, product research, and quality inspection, as well as Bangladeshi buyers/travelers visiting China\n • Your role: Handling everything on the ground in China — supplier sourcing, factory visits, quality checks, hotel bookings, market navigation, logistics, and business operations\n • Together: we grow this into a long-term China–Bangladesh trade agency, as partners\n\nLooking for a partner who:\n\n • Is based locally in Yiwu/Gu...",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "Yf34eoXFz3",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1022977373096311/permalink/1363407439053301/"
+      },
+      {
+        "id": "k6G1l2oMaa",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sorcing Agent ?Shipping&Dropshipping?shopify ?Supplier\nGroup URL: https://www.facebook.com/groups/1022977373096311\nPoster Name: MD Ashraf Ali\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1363407439053301/\n\nPost Text:\nPlease read the full post first ? if you?re genuinely interested, message me on WhatsApp.\n\n?? Looking for a Business Partner in China (Yiwu/Guangzhou) ? Sourcing & Trade Agency\n\nWhatsApp: +601160559037\n\nHi, I?m Ashraf Ali, an entrepreneur with experience in e-commerce (Shopify/Amazon) and international trade. I?m looking to partner with a local, trustworthy individual based in Yiwu or Guangzhou to co-found a sourcing & trade facilitation agency.\n\nHow the partnership works:\n\n ? My role: Finding and bringing customers ? Bangladeshi Shopify/Amazon sellers who need sourcing, product research, and quality inspection, as well as Bangladeshi buyers/travelers visiting China\n ? Your role: Handling everything on the ground in China ? supplier sourcing, factory visits, quality checks, hotel bookings, market navigation, logistics, and business operations\n ? Together: we grow this into a long-term China?Bangladesh trade agency, as partners\n\nLooking for a partner who:\n\n ? Is based locally in Yiwu/Guangzhou with market knowledge and connections\n ? Has (or can obtain) a valid Chinese business license\n ? Is energetic, reliable, and open to a long-term business commitment\n ? Preferably younger/mid-career, motivated to build something from the ground up\n\nInterested? Here?s what to do:\nRead this post carefully. If it genuinely matches what you?re looking for, message me directly on WhatsApp: +601160559037\nWe?ll discuss the business plan, roles, and next steps (including permit/visa matters) from there.\n\nLet?s build something solid together. ??"
+      }
+    ]
+  },
+  {
+    "id": "zIymzMzJtkT7",
+    "time": 1783131995,
+    "expires": 1783175195,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: Chris Mayer\nPoster URL: https://m.facebook.com/profile.php?id=61577333143664\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1630853065713847/\n\nPost Text:\nHey, I’m looking for a trustworthy supplier of the best quality cloned watches out there in original boxes and shipping to Europe. We are only looking for bigger supplier minimum 500 watches a month. You need to be able to speak English and we need to see some of the watches in a online meeting or by FaceTime \n We are not looking for a middleman but a manufacturer",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "ZsFzi28EOJ",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1630853065713847/"
+      },
+      {
+        "id": "IBwZgTKH0k",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: Chris Mayer\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1630853065713847/\n\nPost Text:\nHey, I?m looking for a trustworthy supplier of the best quality cloned watches out there in original boxes and shipping to Europe. We are only looking for bigger supplier minimum 500 watches a month. You need to be able to speak English and we need to see some of the watches in a online meeting or by FaceTime \n We are not looking for a middleman but a manufacturer"
+      }
+    ]
+  }
+]
