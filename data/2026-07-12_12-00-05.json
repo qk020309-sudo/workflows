@@ -1,0 +1,351 @@
+[
+  {
+    "id": "G9mhiU0WKjdz",
+    "time": 1783788300,
+    "expires": 1783831500,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nPosted By: Building_brand12\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1345184967053870/\n\nPost Text:\nHi, I’m looking for a supplier in China for this bag.\n- Vegan/PU leather\n\n- ⁠Can do bulk shipping to the Philippines\n\n- ⁠Can deboss logo on bag\n\n- Quantity: 30-50 pcs\n\n- Budget per bag with logo: 60 rmb - 100 rmb\n\nOptional: Can do packaging (box, tag, & dustbag)\n\nAdditional Images: https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/744251330_28312186165048916_6989005266611579989_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=oJrKqiNrTIoQ7kNvwEbqN-D&_nc_oc=AdoLYJ-I-unXEFM2887o-zmnhP5M77DCIUQ-k6jxs-VcAWE2l8CsWnPRBl7RQZ2z7Gw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=tZqN0fFYx7HCt26Q-UliNw&_nc_ss=783ba&oh=00_AQCwT7Toe91gtlqVHjXoVaeDV4Ecj0yriZSvqmvAOQRviA&oe=6A5833A8, https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/745547293_28312182801715919_4484442538395163919_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=aloAfrHsOOMQ7kNvwH3BDVi&_nc_oc=Adp1URD-_rpMHkbKcLkyCpLLFu6nEQV3jiD6xEuVohzinRpdFznh9_jtUD2fzCJEYCU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=tZqN0fFYx7HCt26Q-UliNw&_nc_ss=783ba&oh=00_AQCYPpTArO3ULlWMf974_2K_MI-WMWnV4yPkQjZuOe5DkQ&oe=6A584677, https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/744441007_28312183191715880_5464948105955033801_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=T14_fHoZSIIQ7kNvwHh1yhy&_nc_oc=Adol4xgAPkwTJdqB-qXntmopfwqwsjCbV-8n1VM4YEWkK8LMNd4hrbJ7xrjnM81-pNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=tZqN0fFYx7HCt26Q-UliNw&_nc_ss=783ba&oh=00_AQDLG-vFdVzXLVZW-vtQ02hikQG2UTTITf7dZ5qRUZkbew&oe=6A5847EC, https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/744198906_28312182988382567_8017629809456443290_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=eb__wu-5dFEQ7kNvwEOgYSv&_nc_oc=AdqzdKtoFGJq2HshPccb5rc6LZ_vH_nnwUkrOBikVngjzjX7xg9qaVgRSPV3GQXHP9A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=tZqN0fFYx7HCt26Q-UliNw&_nc_ss=783ba&oh=00_AQAPlaedecvgd4xjGZMk89gz_hLrw9GG82o3imaYzkSPEA&oe=6A58485C, https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/744663563_28312183328382533_3519048539971079658_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=e55FGyqe_CAQ7kNvwG-u0Uf&_nc_oc=AdqHeqMzNMxwsqrWA322pARuJvrE0xb0F-nb4KZAgrO9M3ahkrA-8LNtshd6zTop6d8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=tZqN0fFYx7HCt26Q-UliNw&_nc_ss=783ba&oh=00_AQBLiSBK1NZlhJIFNCiUv06OIxy9sahW5zNE1gvMl2jFaw&oe=6A5831A8",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "vsSTmcrnuS",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/878592507046454/permalink/1345184967053870/"
+      },
+      {
+        "id": "QN1Ix4Az15",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nGroup URL: https://www.facebook.com/groups/878592507046454\nPoster Name: Building_brand12\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1345184967053870/\n\nPost Text:\nHi, I?m looking for a supplier in China for this bag.\n- Vegan/PU leather\n\n- ?Can do bulk shipping to the Philippines\n\n- ?Can deboss logo on bag\n\n- Quantity: 30-50 pcs\n\n- Budget per bag with logo: 60 rmb - 100 rmb\n\nOptional: Can do packaging (box, tag, & dustbag)"
+      }
+    ],
+    "attachment": {
+      "name": "744251330_28312186165048916_6989005266611579989_n.jpg",
+      "url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/744251330_28312186165048916_6989005266611579989_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=oJrKqiNrTIoQ7kNvwEbqN-D&_nc_oc=AdoLYJ-I-unXEFM2887o-zmnhP5M77DCIUQ-k6jxs-VcAWE2l8CsWnPRBl7RQZ2z7Gw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=tZqN0fFYx7HCt26Q-UliNw&_nc_ss=783ba&oh=00_AQCwT7Toe91gtlqVHjXoVaeDV4Ecj0yriZSvqmvAOQRviA&oe=6A5833A8"
+    }
+  },
+  {
+    "id": "tgvvVS7yE1Vd",
+    "time": 1783789097,
+    "expires": 1783832297,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nPosted By: Building_brand12\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1345193220386378/\n\nPost Text:\nHi, I’m looking for a supplier in China for this bag and same big size in the photos.\n- Vegan/PU leather\n\n⁠- Can do bulk shipping to the Philippines\n\n⁠- Can deboss logo on bag\n\n- Quantity: 30 pcs\n\n- Budget per bag with logo: 60 rmb - 95 rmb (MUST)\n\nOptional: Can do packaging (box, tag, & dustbag)\n\nAdditional Images: https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/743386680_28312389308361935_402531951073891181_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=4IfVWyjL50cQ7kNvwHsW-5t&_nc_oc=AdoN8TcQ4r-nfv0CXxQBaHaw01cADcVGtEsSsMEjIahyMN_RsSVc3JBp3o_3TyrWjgQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=BruUrYejlG-FgtHl5V7KaA&_nc_ss=783ba&oh=00_AQAWTm-2TK2Kv3aiEg6fLoK96iGm-DN36tlic1Zk5SLgOQ&oe=6A5841DA, https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/744660876_28312389735028559_7602543447428567181_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=8B9gfhe-3lsQ7kNvwGSbBlo&_nc_oc=AdrvtGHI5NKqfgz-ABsvHQi9IRdz7a5e9RO70rAc7sppR-ZpUYXYy6Se5Etc0G4i824&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=BruUrYejlG-FgtHl5V7KaA&_nc_ss=783ba&oh=00_AQCzdHNtB5J6jafb06X3dlXandDmieD52LVF8Gd0LudQSw&oe=6A5831AC, https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/743824714_28312389538361912_8840020858116253259_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=gI89y7_U4KYQ7kNvwF2N_VI&_nc_oc=AdonA0kBqhdxEdvRmOHFIz1h9L8l_ydubUhYl4a7T-5C3-wKczuAH1_G6-3IiAhzmZo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=BruUrYejlG-FgtHl5V7KaA&_nc_ss=783ba&oh=00_AQBtPnWRx50zQHkM4vptv3AG91ZcQy_zpwRAhq61yKME7w&oe=6A583443, https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/743484633_28312389281695271_6189182962162193824_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=v1qLtffYMnQQ7kNvwF7Vs5P&_nc_oc=AdqUpQ-foe4a65vElzSlb_jplMgPGvpjgTaipNRyHVvf6kZsFOI1PCi3cCC6MZXJzSk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=BruUrYejlG-FgtHl5V7KaA&_nc_ss=783ba&oh=00_AQABcyajMY2_S2TxtVYv77bs3exkJl_rRLxX8AwF-WTY6g&oe=6A586073, https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/744873271_28312389611695238_3863030166062693842_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=eHyP0xG-cp4Q7kNvwHPPYS1&_nc_oc=AdoNYxOQtALX_tlUi74yj2j18mANaK6F-IG4JU5zfCJpZX7X22SIKX3A4znnP-_sqOA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=BruUrYejlG-FgtHl5V7KaA&_nc_ss=783ba&oh=00_AQAzOig2HtzX8xVetN3C_hSVEP9FqmR9n_0ISOajKKVSDQ&oe=6A584C9E, https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/743484647_28312389801695219_3432948817573404556_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=DTCBJJEQJnwQ7kNvwFx-eiR&_nc_oc=AdpnOAsTptwf1BNj-hJSOx6uIY4BkqVEHyGntCNoOnwOU1yEFUT_ki2thvzdh_1fr2g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=BruUrYejlG-FgtHl5V7KaA&_nc_ss=783ba&oh=00_AQBWLM-xXbCXD8rr9UusuhKeOouQXRfqwPsDLR99gS3uAQ&oe=6A5833C1",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "5i3mh4fMAT",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/878592507046454/permalink/1345193220386378/"
+      },
+      {
+        "id": "dn3cGxsV5x",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nGroup URL: https://www.facebook.com/groups/878592507046454\nPoster Name: Building_brand12\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1345193220386378/\n\nPost Text:\nHi, I?m looking for a supplier in China for this bag and same big size in the photos.\n- Vegan/PU leather\n\n?- Can do bulk shipping to the Philippines\n\n?- Can deboss logo on bag\n\n- Quantity: 30 pcs\n\n- Budget per bag with logo: 60 rmb - 95 rmb (MUST)\n\nOptional: Can do packaging (box, tag, & dustbag)"
+      }
+    ],
+    "attachment": {
+      "name": "743386680_28312389308361935_402531951073891181_n.jpg",
+      "url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/743386680_28312389308361935_402531951073891181_n.jpg?stp=cp1_dst-jpg_e48_fr_q65_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=4IfVWyjL50cQ7kNvwHsW-5t&_nc_oc=AdoN8TcQ4r-nfv0CXxQBaHaw01cADcVGtEsSsMEjIahyMN_RsSVc3JBp3o_3TyrWjgQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=BruUrYejlG-FgtHl5V7KaA&_nc_ss=783ba&oh=00_AQAWTm-2TK2Kv3aiEg6fLoK96iGm-DN36tlic1Zk5SLgOQ&oe=6A5841DA"
+    }
+  },
+  {
+    "id": "DGXk3prcJv99",
+    "time": 1783789333,
+    "expires": 1783832533,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: SoftBelly Fit\nPoster URL: https://m.facebook.com/profile.php?id=61588310499047\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/860298433517328/\n\nPost Text:\nHi everyone! 👋\n\nI'm looking for a supplier/agent who can source and ship the product shown in the image below to Turkey via DDP (Delivered Duty Paid).\n\n📌 Requirements:\n\n✅ All shipping costs, duties, and taxes must be paid upfront\n\n✅ No additional fees upon delivery — the price quoted should be the final, all-inclusive cost\n\n✅ Please share the product's availability, MOQ, and pricing details\n\nIf you can source this product and offer DDP shipping under these terms, please DM me with more information. Thanks!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "n9OVZe8aeb",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/860298433517328/"
+      },
+      {
+        "id": "DSL2fdADQ8",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: SoftBelly Fit\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/860298433517328/\n\nPost Text:\nHi everyone! ??\n\nI'm looking for a supplier/agent who can source and ship the product shown in the image below to Turkey via DDP (Delivered Duty Paid).\n\n?? Requirements:\n\n? All shipping costs, duties, and taxes must be paid upfront\n\n? No additional fees upon delivery ? the price quoted should be the final, all-inclusive cost\n\n? Please share the product's availability, MOQ, and pricing details\n\nIf you can source this product and offer DDP shipping under these terms, please DM me with more information. Thanks!"
+      }
+    ],
+    "attachment": {
+      "name": "742595115_122117951013277016_737536940935056602_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/742595115_122117951013277016_737536940935056602_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=VtTmfBliwksQ7kNvwHGkdrK&_nc_oc=AdoZDxVUKzUTUhjojh6uURbIYVWAaW9yG4elA5K5VHacZvftDxstgrQTqp_aX7CnhCU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=ktiL7Zq9uh_H9sLCmU9Lrg&_nc_ss=783ba&oh=00_AQDTwMUyZiyhaJ-LvH24_71G3YuDQqW6_GSDfqhhYtiM1g&oe=6A5857FD"
+    }
+  },
+  {
+    "id": "IAZaohITydcR",
+    "time": 1783800961,
+    "expires": 1783844161,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: 1688 Taobao shopping Agent, purchasing agent ,3% commission buying agent 小组\nPosted By: Cracking Khan\nPoster URL: https://m.facebook.com/profile.php?id=61588589361770\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/228669967713523/permalink/2156883638225470/\n\nPost Text:\nHi, I need a sourcing agent from china to the UK by sea freight shipment. Should be reliable, honest and at a good price. Need small consolidation at different orders then shipping to the UK. Must be trustworthy.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "RxL71LHOzo",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/228669967713523/permalink/2156883638225470/"
+      },
+      {
+        "id": "dz4MK1Ijhm",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: 1688 Taobao shopping Agent, purchasing agent ,3% commission buying agent ??\nGroup URL: https://www.facebook.com/groups/228669967713523\nPoster Name: Cracking Khan\nPost URL: https://m.facebook.com/groups/228669967713523/permalink/2156883638225470/\n\nPost Text:\nHi, I need a sourcing agent from china to the UK by sea freight shipment. Should be reliable, honest and at a good price. Need small consolidation at different orders then shipping to the UK. Must be trustworthy."
+      }
+    ]
+  },
+  {
+    "id": "J28LGWW3DNPR",
+    "time": 1783802352,
+    "expires": 1783845552,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1345306747041692/\n\nPost Text:\nim looking for a dropshipping agent that can connect to shopify account and can provide this product and similar products to israel in 7 - 10 days",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "lm5oLJSDV8",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/878592507046454/permalink/1345306747041692/"
+      },
+      {
+        "id": "x3yaGX1JJZ",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nGroup URL: https://www.facebook.com/groups/878592507046454\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1345306747041692/\n\nPost Text:\nim looking for a dropshipping agent that can connect to shopify account and can provide this product and similar products to israel in 7 - 10 days"
+      }
+    ],
+    "attachment": {
+      "name": "746026709_1004226419161715_206295058773328040_n.png",
+      "url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/746026709_1004226419161715_206295058773328040_n.png?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Q5HnLFuNoWYQ7kNvwEUrLn7&_nc_oc=Adoi5FN8_OT3ABe-DSnv7Lu9516WEaSwdNWlWgCpxM-USfQjwYMOP-a59kvWiepkYfY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=rPWOusWGs9ZAPjVnooThNA&_nc_ss=783ba&oh=00_AQBKiwMayHbIqWNs-ND-o2NydtS27KEcWLkuO_oRexzoVA&oe=6A588124"
+    }
+  },
+  {
+    "id": "2CGojUz69c0z",
+    "time": 1783807163,
+    "expires": 1783850363,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Swapnil Taneja\nPoster URL: https://m.facebook.com/swapnil.taneja/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/860441626836342/\n\nPost Text:\nLooking for china sourcing agent for montessori toys . Does anyone know who can help with that ?",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "MXL6pHoFPC",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/860441626836342/"
+      },
+      {
+        "id": "w6ZRxVhI9X",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Swapnil Taneja\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/860441626836342/\n\nPost Text:\nLooking for china sourcing agent for montessori toys . Does anyone know who can help with that ?"
+      }
+    ]
+  },
+  {
+    "id": "eTSymIBGZELa",
+    "time": 1783808091,
+    "expires": 1783851291,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/860448800168958/\n\nPost Text:\nHi everyone,\nI'm looking for a reliable sourcing agent or supplier who can help me source products from China for import to Canada.\n\nMy first product is Halloween inflatables, but I'm also interested in sourcing other products in the future.\n\nI'm looking for:\n\nCompetitive factory pricing\n\nLow MOQs (to start)\n\nDDP (Delivered Duty Paid) shipping to Canada\n\nGood quality products\n\nReliable communication\n\nIf you are a sourcing agent or have experience helping overseas buyers source directly from factories, please comment below or send me a DM with your services and pricing.\n\nThank you!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "Yt5AT4WNhM",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/860448800168958/"
+      },
+      {
+        "id": "sbW6Rxnahg",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/860448800168958/\n\nPost Text:\nHi everyone,\nI'm looking for a reliable sourcing agent or supplier who can help me source products from China for import to Canada.\n\nMy first product is Halloween inflatables, but I'm also interested in sourcing other products in the future.\n\nI'm looking for:\n\nCompetitive factory pricing\n\nLow MOQs (to start)\n\nDDP (Delivered Duty Paid) shipping to Canada\n\nGood quality products\n\nReliable communication\n\nIf you are a sourcing agent or have experience helping overseas buyers source directly from factories, please comment below or send me a DM with your services and pricing.\n\nThank you!"
+      }
+    ]
+  },
+  {
+    "id": "97PMQaoM7WZk",
+    "time": 1783824696,
+    "expires": 1783867896,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing and Dropshipping agent\nPosted By: Returns to Europe\nPoster URL: https://m.facebook.com/returnstoeurope/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1089576309202256/permalink/1575241013969114/\n\nPost Text:\nHi,\n\nI am **NOT** looking for any products. I am looking for someone who has *CONTACTS WITH *Chinese/Asian suppliers who sell their products to the EU/the UK and are interested in working with us. Is anyone interested?\n\n(!!!) If all you can offer is help in finding a product on the Asian market, please ignore this post (!!!)\nthanks",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "reAn4Yv6kh",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1089576309202256/permalink/1575241013969114/"
+      },
+      {
+        "id": "WvTSsYa98k",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing and Dropshipping agent\nGroup URL: https://www.facebook.com/groups/1089576309202256\nPoster Name: Returns to Europe\nPost URL: https://m.facebook.com/groups/1089576309202256/permalink/1575241013969114/\n\nPost Text:\nHi,\n\nI am **NOT** looking for any products. I am looking for someone who has *CONTACTS WITH *Chinese/Asian suppliers who sell their products to the EU/the UK and are interested in working with us. Is anyone interested?\n\n(!!!) If all you can offer is help in finding a product on the Asian market, please ignore this post (!!!)\nthanks"
+      }
+    ]
+  },
+  {
+    "id": "xNkKzNLXViaM",
+    "time": 1783824786,
+    "expires": 1783867986,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Mark Raven Arguelles\nPoster URL: https://m.facebook.com/mark.raven.arguelles/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1916371062336895/\n\nPost Text:\nLooking for dropshipping supplier of current trends. \n\nPreferably fragrance full bottles/decants. \n\nTransaction and vouch is on my pinned post and highlights.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "j4jjtm7brM",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1916371062336895/"
+      },
+      {
+        "id": "SMnJ7JljsH",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Mark Raven Arguelles\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1916371062336895/\n\nPost Text:\nLooking for dropshipping supplier of current trends. \n\nPreferably fragrance full bottles/decants. \n\nTransaction and vouch is on my pinned post and highlights."
+      }
+    ]
+  },
+  {
+    "id": "g2YtmHqBQUCQ",
+    "time": 1783824788,
+    "expires": 1783867988,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Sheikh Masum Aly\nPoster URL: https://m.facebook.com/SHEIKHmasumAly/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1916207409019927/\n\nPost Text:\nI need a Indian supplier for my dropshipping. Message me with your catalogue.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "2vSNEXJpZu",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1916207409019927/"
+      },
+      {
+        "id": "2bmEeWqClx",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Sheikh Masum Aly\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1916207409019927/\n\nPost Text:\nI need a Indian supplier for my dropshipping. Message me with your catalogue."
+      }
+    ]
+  },
+  {
+    "id": "8d37KHHyJ9kd",
+    "time": 1783825759,
+    "expires": 1783868959,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: Mokhtar Ecom\nPoster URL: https://m.facebook.com/mokhtar.alloui.5/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1638822844916869/\n\nPost Text:\nI honestly don't know if China sourcing agents understand what the COD (Cash on Delivery) payment method means. I've wasted a lot of time talking to agents in this group. 😔\nI honestly don't know if China sourcing agents understand what the COD (Cash on Delivery) payment method means. I've wasted a lot of time talking to agents in this group. 😔\n\nPlease only message me if you can offer COD delivery to Spain.\n\nTo be clear: I will pay the full amount only after my goods are delivered to my door in Spain. If you cannot provide this payment method, please don't contact me.\n\nThank you.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "VXARGYzn56",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1638822844916869/"
+      },
+      {
+        "id": "nZgxEMVBGx",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: Mokhtar Ecom\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1638822844916869/\n\nPost Text:\nI honestly don't know if China sourcing agents understand what the COD (Cash on Delivery) payment method means. I've wasted a lot of time talking to agents in this group. ??\nI honestly don't know if China sourcing agents understand what the COD (Cash on Delivery) payment method means. I've wasted a lot of time talking to agents in this group. ??\n\nPlease only message me if you can offer COD delivery to Spain.\n\nTo be clear: I will pay the full amount only after my goods are delivered to my door in Spain. If you cannot provide this payment method, please don't contact me.\n\nThank you."
+      }
+    ]
+  },
+  {
+    "id": "XkYDtqgWu0dJ",
+    "time": 1783825760,
+    "expires": 1783868960,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: Riad Sd\nPoster URL: https://m.facebook.com/riad.sd6/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1638764138256073/\n\nPost Text:\nGood morning! I am looking for a supplier capable of creating this kind of product for me. Thanks\n\nAdditional Images: https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/746439916_4580028895562873_7053323035974916818_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_WLX8LEKPl4Q7kNvwGvfdOE&_nc_oc=AdomsMOwxnBAl1PoisJOxb7I7D7y_5rqYBhKqZTkztPeyGjkIDg98Dv1rWs3oo_8eH8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=2ldgmCiVQBOWujSm8Ao7-A&_nc_ss=783ba&oh=00_AQAOP9IRx9MRS9qNGtYSWbSfdTknJI-677rS4ZK_HU9n9A&oe=6A58C0FA, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/740769681_4580028905562872_7877908275778555689_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=7VAr2t8gqi4Q7kNvwFYz4Sm&_nc_oc=AdqoBvDg98_Vl-rrPiPxz8yhfL3vQ_o-aZpktJnn_y87fK_diMZz0gLrGwpUtSI2d8M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=2ldgmCiVQBOWujSm8Ao7-A&_nc_ss=783ba&oh=00_AQD4fqiJLP6it8SPlUvGjWnmh6cEyqy6xjtkDCm07GWYXw&oe=6A58EB60",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "1ji2e3oyN9",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1638764138256073/"
+      },
+      {
+        "id": "bK01E0XEOn",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: Riad Sd\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1638764138256073/\n\nPost Text:\nGood morning! I am looking for a supplier capable of creating this kind of product for me. Thanks"
+      }
+    ],
+    "attachment": {
+      "name": "746439916_4580028895562873_7053323035974916818_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/746439916_4580028895562873_7053323035974916818_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_WLX8LEKPl4Q7kNvwGvfdOE&_nc_oc=AdomsMOwxnBAl1PoisJOxb7I7D7y_5rqYBhKqZTkztPeyGjkIDg98Dv1rWs3oo_8eH8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=2ldgmCiVQBOWujSm8Ao7-A&_nc_ss=783ba&oh=00_AQAOP9IRx9MRS9qNGtYSWbSfdTknJI-677rS4ZK_HU9n9A&oe=6A58C0FA"
+    }
+  },
+  {
+    "id": "JYfzMbvj59J2",
+    "time": 1783826086,
+    "expires": 1783869286,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: SoftBelly Fit\nPoster URL: https://m.facebook.com/profile.php?id=61588310499047\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1638622021603618/\n\nPost Text:\nHi everyone! 👋\n\nI'm looking for a supplier/agent who can source and ship the product shown in the image below to Turkey via DDP (Delivered Duty Paid).\n\n📌 Requirements:\n\n✅ All shipping costs, duties, and taxes must be paid upfront\n\n✅ No additional fees upon delivery — the price quoted should be the final, all-inclusive cost\n\n✅ Please share the product's availability, MOQ, and pricing details\n\nIf you can source this product and offer DDP shipping under these terms, please DM me with more information. Thanks!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "rnmLiBjvdo",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1638622021603618/"
+      },
+      {
+        "id": "2EdRtJcF6P",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: SoftBelly Fit\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1638622021603618/\n\nPost Text:\nHi everyone! ??\n\nI'm looking for a supplier/agent who can source and ship the product shown in the image below to Turkey via DDP (Delivered Duty Paid).\n\n?? Requirements:\n\n? All shipping costs, duties, and taxes must be paid upfront\n\n? No additional fees upon delivery ? the price quoted should be the final, all-inclusive cost\n\n? Please share the product's availability, MOQ, and pricing details\n\nIf you can source this product and offer DDP shipping under these terms, please DM me with more information. Thanks!"
+      }
+    ],
+    "attachment": {
+      "name": "743519223_122117951073277016_4931046451781959125_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/743519223_122117951073277016_4931046451781959125_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=q-ChPZZ1cTsQ7kNvwHkJoRU&_nc_oc=Adp--f1oc9eZoGdKba3bYuAq39qSzYB2EQVRrzUutb32Qy_1cfhwAXns9SmW_rpqADY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=fjl7BFkYUtnxND_BqiSJHw&_nc_ss=783ba&oh=00_AQDrQ7CznvaoGDek_ALOQB6eUbP_maA60Xu84pDQGwXPig&oe=6A58E41A"
+    }
+  }
+]
