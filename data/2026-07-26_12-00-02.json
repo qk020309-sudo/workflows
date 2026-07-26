@@ -1,0 +1,56 @@
+[
+  {
+    "id": "C3dwhOv0wa7i",
+    "time": 1784997147,
+    "expires": 1785040347,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: 胡图\nPoster URL: https://m.facebook.com/profile.php?id=61591091286695\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/870656912481480/\n\nPost Text:\nLooking for foreign trade companies in Russia and Europe.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "aPxS1vxelz",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/870656912481480/"
+      },
+      {
+        "id": "ibdIkPQoZM",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: ??\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/870656912481480/\n\nPost Text:\nLooking for foreign trade companies in Russia and Europe."
+      }
+    ],
+    "attachment": {
+      "name": "755867778_122110487841369709_4326398929558260404_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/755867778_122110487841369709_4326398929558260404_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=9rdjX9YTQVoQ7kNvwEJzi3e&_nc_oc=Adqe50TGOlG0X2RFy1NCZoDDApZcrqTOoGiev-U8xZLXDaMUxqXtQuEw366Ydoe9kME&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=ZgP0BSuBqg5lMDvz1bgwgg&_nc_ss=783ba&oh=00_AQDXqk0RCWXF6eKMlTGxp-zDVsOO9kWPrGonpM6wt9T17Q&oe=6A6AB2C9"
+    }
+  },
+  {
+    "id": "o56fLKlepomZ",
+    "time": 1785016743,
+    "expires": 1785059943,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Bogdan Znany\nPoster URL: https://m.facebook.com/profile.php?id=61576954051034\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/870817815798723/\n\nPost Text:\nHello,\nLooking for dropshipping agents for adult toys and vibrators. Bulk orders to Poland.\n\nPlease DM",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "rWEG4TEOdz",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/870817815798723/"
+      },
+      {
+        "id": "19N59AesMt",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Bogdan Znany\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/870817815798723/\n\nPost Text:\nHello,\nLooking for dropshipping agents for adult toys and vibrators. Bulk orders to Poland.\n\nPlease DM"
+      }
+    ]
+  }
+]
