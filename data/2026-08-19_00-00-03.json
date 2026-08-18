@@ -1,0 +1,342 @@
+[
+  {
+    "id": "W8GExoC6b8Ca",
+    "time": 1787026748,
+    "expires": 1787069948,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: MD. Raihan\nPoster URL: https://m.facebook.com/negative.raj1/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1675704724562014/\n\nPost Text:\nHey there! \nI need dead or repaired mobile motherboard. \nMostly iphone, Samsung, Nokia,every android models....\n\nI need at least 100kg of them. \nSo who can source me this or get me a great price just DM.\n\nAdditional Images: https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/774789434_37715492988095083_166427491304714124_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=enaLSUEHlRkQ7kNvwHoonpy&_nc_oc=Adq653dg-v1zo72ELD5Ry7JJS5djyxF3m05ip3yJDRNQ1gWLWurnBxRWRjA0fM8YzuA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4UQYgzj4nzx5WpZ3uTnIlA&_nc_ss=783ba&oh=00_AQHMx8p4ftc-LjrsN3jBJEnvjpVmqR-Vr6lHI75ouEvCeA&oe=6A899C88, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/776627632_37715493451428370_501297787242597335_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=UTC0OuDLarUQ7kNvwEt7bBp&_nc_oc=AdrmCDCcgsKrdMj3bhb0CKMWAityQN4e5i3Z_M-MPFpxAgf80ECFj8sE2yDPjFK5gLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4UQYgzj4nzx5WpZ3uTnIlA&_nc_ss=783ba&oh=00_AQHPh-T1Hi8j3Kk_7Iw-gVtYWbIYUEsODASGzGLceb3Dig&oe=6A8993E3, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/776061781_37715493908094991_6642412841179509204_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=86lgsdH5KqIQ7kNvwFLCaPz&_nc_oc=AdpEyB8lkvepseRSmyBmMDm0flfbzBQ66kwOKooPUsSF5Crlt17BF8QiIFOTgW9bHGM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4UQYgzj4nzx5WpZ3uTnIlA&_nc_ss=783ba&oh=00_AQFgzw9ff4WNr972r7ovUXdSyjWyTLij8jfc3GiXL3PiSQ&oe=6A899D07, https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/776020795_37715494414761607_4357751986175142166_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=DyypC2irAjsQ7kNvwG8rCUW&_nc_oc=AdqxNJJjJOh0OQ8PusRZENkffr-gvJEwt3VAiUW-ngmSpypoFbNON9idQMC6H918N_4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4UQYgzj4nzx5WpZ3uTnIlA&_nc_ss=783ba&oh=00_AQF-alQxhFhqSxoTi5W33CBjM7ChxeLSqZkYt4G0XzdHWg&oe=6A8998C3",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "vzOLcL776o",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1675704724562014/"
+      },
+      {
+        "id": "iUfTfftXw4",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: MD. Raihan\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1675704724562014/\n\nPost Text:\nHey there! \nI need dead or repaired mobile motherboard. \nMostly iphone, Samsung, Nokia,every android models....\n\nI need at least 100kg of them. \nSo who can source me this or get me a great price just DM."
+      }
+    ],
+    "attachment": {
+      "name": "774789434_37715492988095083_166427491304714124_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/774789434_37715492988095083_166427491304714124_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=enaLSUEHlRkQ7kNvwHoonpy&_nc_oc=Adq653dg-v1zo72ELD5Ry7JJS5djyxF3m05ip3yJDRNQ1gWLWurnBxRWRjA0fM8YzuA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=4UQYgzj4nzx5WpZ3uTnIlA&_nc_ss=783ba&oh=00_AQHMx8p4ftc-LjrsN3jBJEnvjpVmqR-Vr6lHI75ouEvCeA&oe=6A899C88"
+    }
+  },
+  {
+    "id": "1rHi3ZZlL0dt",
+    "time": 1787032263,
+    "expires": 1787075463,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: International purchaser\nPoster URL: https://m.facebook.com/profile.php?id=61590823287025\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/889463840600787/\n\nPost Text:\nI looking supplier,purchase agent",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "ir28M98aE2",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/889463840600787/"
+      },
+      {
+        "id": "C9e5pBGrIy",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: International purchaser\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/889463840600787/\n\nPost Text:\nI looking supplier,purchase agent"
+      }
+    ]
+  },
+  {
+    "id": "lGuozVVi4ldR",
+    "time": 1787033710,
+    "expires": 1787076910,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Santiago Guzman\nPoster URL: https://m.facebook.com/profile.php?id=61573312959920\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1755965955547675/\n\nPost Text:\nGood evening, I need a supplier for a large shipment of winter football kits.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "2bkvc2UwEk",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1755965955547675/"
+      },
+      {
+        "id": "1X00Jj5Itq",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Santiago Guzman\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1755965955547675/\n\nPost Text:\nGood evening, I need a supplier for a large shipment of winter football kits."
+      }
+    ]
+  },
+  {
+    "id": "1nRL1TOm53Ij",
+    "time": 1787037897,
+    "expires": 1787081097,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: Irfan Gondal\nPoster URL: https://m.facebook.com/ch.irfan.524039/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1675818274550659/\n\nPost Text:\n🇨🇳➡️🇬🇧 Looking for Official LAKERAIN Supplier in China\n\nI’m looking to buy genuine LAKERAIN cosmetics directly from China for wholesale, with delivery to the UK.\n\n✅ Original LAKERAIN products\n✅ Official/authorized supplier preferred\n✅ Brand/company invoice required\n✅ Wholesale prices\n✅ Shipping/delivery to UK\n❌ No fake, duplicate or replica products\n\nIf you are an official LAKERAIN manufacturer, distributor, or authorized wholesaler in China, please DM me with your company details, wholesale price list, authorization proof, and UK shipping options.\n\nThank you!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "wE674FLWRM",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1675818274550659/"
+      },
+      {
+        "id": "48YfQsA6LA",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: Irfan Gondal\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1675818274550659/\n\nPost Text:\n?????????? Looking for Official LAKERAIN Supplier in China\n\nI?m looking to buy genuine LAKERAIN cosmetics directly from China for wholesale, with delivery to the UK.\n\n? Original LAKERAIN products\n? Official/authorized supplier preferred\n? Brand/company invoice required\n? Wholesale prices\n? Shipping/delivery to UK\n? No fake, duplicate or replica products\n\nIf you are an official LAKERAIN manufacturer, distributor, or authorized wholesaler in China, please DM me with your company details, wholesale price list, authorization proof, and UK shipping options.\n\nThank you!"
+      }
+    ],
+    "attachment": {
+      "name": "780140133_122201318606473874_7795253519229148400_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/780140133_122201318606473874_7795253519229148400_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=LzfipzoHskwQ7kNvwHcygAG&_nc_oc=Adqx-fELWCF4p1qoL0QW2RrYt7lcuT74_6g2wsHxX8jcQqFrGHnom0amxjwTQ4Rix2c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=-7Ua5qbffoqGUNrpu0eGqw&_nc_ss=783ba&oh=00_AQGXdFkHRCyytouKAysIAFjA8d6AZSyfcBHE7_CgdOGwlw&oe=6A89D6B6"
+    }
+  },
+  {
+    "id": "yKOuWr5TySy4",
+    "time": 1787037898,
+    "expires": 1787081098,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1675817194550767/\n\nPost Text:\nI'm looking for a creatine supplement supplier in quantity \nIs there any Chinese expert agent there? To help me out, I'll give you a commission",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "1j0mVGZgYD",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1675817194550767/"
+      },
+      {
+        "id": "0CfwiEcDwt",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1675817194550767/\n\nPost Text:\nI'm looking for a creatine supplement supplier in quantity \nIs there any Chinese expert agent there? To help me out, I'll give you a commission"
+      }
+    ]
+  },
+  {
+    "id": "uU6LsbIy91R8",
+    "time": 1787041701,
+    "expires": 1787084901,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "https://docs.google.com/document/d/1H8ZN_PWXOsA3iG-z0Yn6Ck7YLctB832vPmC1T3Mnsh0/edit?tab=t.0"
+  },
+  {
+    "id": "R3IeU5S0kOP3",
+    "time": 1787041701,
+    "expires": 1787084901,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "triggered"
+  },
+  {
+    "id": "DM1DSON4PjqH",
+    "time": 1787041707,
+    "expires": 1787084907,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "Guide"
+  },
+  {
+    "id": "0CEykpfN63go",
+    "time": 1787047140,
+    "expires": 1787090340,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nPosted By: Soan Abdelah\nPoster URL: https://m.facebook.com/profile.php?id=61567269637834\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1374600084112358/\n\nPost Text:\n🇨🇳 LOOKING FOR A RELIABLE AGENT / SUPPLIER IN CHINA 🇫🇷\n\nI’m looking for a serious and reliable agent or supplier based in China who can provide 100% authentic and genuine clothing, especially Nike and other major brands.\n\n⚠️ I am ONLY interested in authentic products.\n\nNo replicas, counterfeits, fakes, “1:1”, UA, or similar products.\n\nIf you do not sell authentic products, please do not contact me and do not send me a private message trying to offer alternatives. I will not respond.\n\nI’m looking for a reliable supplier who can ship authentic products to France 🇫🇷, ideally with proof of authenticity, invoices, or traceability.\n\n📩 If you genuinely meet these requirements, please contact me on my Whatsapp which is in my Facebook profile .\n\nPlease only contact me if you can provide 100% authentic products.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "wzW2KjgH8X",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/878592507046454/permalink/1374600084112358/"
+      },
+      {
+        "id": "2KIDvA3Hl7",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nGroup URL: https://www.facebook.com/groups/878592507046454\nPoster Name: Soan Abdelah\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1374600084112358/\n\nPost Text:\n???? LOOKING FOR A RELIABLE AGENT / SUPPLIER IN CHINA ????\n\nI?m looking for a serious and reliable agent or supplier based in China who can provide 100% authentic and genuine clothing, especially Nike and other major brands.\n\n?? I am ONLY interested in authentic products.\n\nNo replicas, counterfeits, fakes, ?1:1?, UA, or similar products.\n\nIf you do not sell authentic products, please do not contact me and do not send me a private message trying to offer alternatives. I will not respond.\n\nI?m looking for a reliable supplier who can ship authentic products to France ????, ideally with proof of authenticity, invoices, or traceability.\n\n?? If you genuinely meet these requirements, please contact me on my Whatsapp which is in my Facebook profile .\n\nPlease only contact me if you can provide 100% authentic products."
+      }
+    ]
+  },
+  {
+    "id": "RsXfxRIUwHgL",
+    "time": 1787049071,
+    "expires": 1787092271,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nPosted By: Soan Abdelah\nPoster URL: https://m.facebook.com/profile.php?id=61567269637834\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1374616967444003/\n\nPost Text:\n🇨🇳 LOOKING FOR A RELIABLE AGENT / SUPPLIER IN CHINA 🇫🇷\n\nI’m looking for a serious and reliable agent or supplier based in China who can provide 100% authentic and genuine clothing, especially Nike and other major brands.\n\n⚠️ I am ONLY interested in authentic products.\n\nNo replicas, counterfeits, fakes, “1:1”, UA, or similar products.\n\nIf you do not sell authentic products, please do not contact me and do not send me a private message trying to offer alternatives. I will not respond.\n\nI’m looking for a reliable supplier who can ship authentic products to France 🇫🇷, ideally with proof of authenticity, invoices, or traceability.\n\n📩 If you genuinely meet these requirements, please contact me on my Whatsapp which is in my Facebook profile .\n\nPlease only contact me if you can provide 100% authentic products.\n\nAdditional Images: https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/777356939_122207581280575654_4571277842177642214_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GdyYzub1ZBYQ7kNvwHdAxBz&_nc_oc=AdppD6ZhY6N2gOzAVlFIR5i0pGlMgj3zXdLnvnA0xFnWpUeQA2E-Q2K_sr8TnQKKAL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2Dhvufp7ZTpXML3EKDXgIA&_nc_ss=783ba&oh=00_AQGjUHlicXyqwkX5BOsqHaM8jwPZ1ZddWA8nMMJfj7syBg&oe=6A89F3E9, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/777356947_122207581610575654_2319503302541019152_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Yq82bIM-V2MQ7kNvwHoqNMv&_nc_oc=AdrvBVkTOf2xPoXk62j90pLQuCYyfssPabcV-bowhBBAKtZECp5nW0IbR_ttJKpGVkI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2Dhvufp7ZTpXML3EKDXgIA&_nc_ss=783ba&oh=00_AQHfzQdVpbdtDq_vahDhuXbV1auy0GujbJGHpWgp8c5OYA&oe=6A8A00B8, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/779975944_122207582450575654_7345451017266806573_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=MoLaQHEolx4Q7kNvwH3pJeP&_nc_oc=Ado2iMfo9PQu9YyYnmIdDCygq2OSSdTx3V7Vd5EVE1VR8S710RYo9Uh0HSKNRm7_IM4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2Dhvufp7ZTpXML3EKDXgIA&_nc_ss=783ba&oh=00_AQGZonotWD_vo6m-puPHNJS1B8nLKN3M-YkNv4954pXvSw&oe=6A8A0572, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/774883522_122207582030575654_8559676836350898124_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=z8b6QQVOtqIQ7kNvwG0Bvfu&_nc_oc=AdqONqlpaYwpM9ejXDsKYoTAMrDmC8vfoGaF7ctERd1ILD1iIZGEOkzXsNGYcHv828U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2Dhvufp7ZTpXML3EKDXgIA&_nc_ss=783ba&oh=00_AQGr4XfSFeu8b0z6-RX9wOVvkJnPWNbi5HomQ1MEdSKa5A&oe=6A89FA36, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/778550944_122207582432575654_6848738861583740981_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Ds_AARL0awgQ7kNvwEAws2f&_nc_oc=AdrYtARb0B2pwykzUK4XWs8glWP_oQw7x3YNwMACwfYwmgxs0SmDp1rhLFGqc9bYCHQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2Dhvufp7ZTpXML3EKDXgIA&_nc_ss=783ba&oh=00_AQEWBkQnJraGTiZdRosLPU1-7XiUyYUl0mANBoqcvKrG0A&oe=6A8A09BF, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/776222486_122207581508575654_2834290383861593867_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=FPZPU1yjmhkQ7kNvwGbJY5V&_nc_oc=AdoClPoCPytzJWRmTdpUpGSZbE0OFF09kOZ4G9mcP1Z_rD9x6dBe2V-8sfBkS6Atvps&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2Dhvufp7ZTpXML3EKDXgIA&_nc_ss=783ba&oh=00_AQG_ZnsXTVVbHIjuWmI1BNsnzzD8HnvYA_4X85H8_qUQ5Q&oe=6A8A13B4, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/776401434_122207582516575654_7563203930783277825_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=tsxn8dV",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "2FHTVXXqDH",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/878592507046454/permalink/1374616967444003/"
+      },
+      {
+        "id": "BNUzHJbNpD",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nGroup URL: https://www.facebook.com/groups/878592507046454\nPoster Name: Soan Abdelah\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1374616967444003/\n\nPost Text:\n???? LOOKING FOR A RELIABLE AGENT / SUPPLIER IN CHINA ????\n\nI?m looking for a serious and reliable agent or supplier based in China who can provide 100% authentic and genuine clothing, especially Nike and other major brands.\n\n?? I am ONLY interested in authentic products.\n\nNo replicas, counterfeits, fakes, ?1:1?, UA, or similar products.\n\nIf you do not sell authentic products, please do not contact me and do not send me a private message trying to offer alternatives. I will not respond.\n\nI?m looking for a reliable supplier who can ship authentic products to France ????, ideally with proof of authenticity, invoices, or traceability.\n\n?? If you genuinely meet these requirements, please contact me on my Whatsapp which is in my Facebook profile .\n\nPlease only contact me if you can provide 100% authentic products."
+      }
+    ],
+    "attachment": {
+      "name": "777356939_122207581280575654_4571277842177642214_n.jpg",
+      "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/777356939_122207581280575654_4571277842177642214_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GdyYzub1ZBYQ7kNvwHdAxBz&_nc_oc=AdppD6ZhY6N2gOzAVlFIR5i0pGlMgj3zXdLnvnA0xFnWpUeQA2E-Q2K_sr8TnQKKAL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2Dhvufp7ZTpXML3EKDXgIA&_nc_ss=783ba&oh=00_AQGjUHlicXyqwkX5BOsqHaM8jwPZ1ZddWA8nMMJfj7syBg&oe=6A89F3E9"
+    }
+  },
+  {
+    "id": "LPVBnW81kXUd",
+    "time": 1787054210,
+    "expires": 1787097410,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sorcing Agent ‖Shipping&Dropshipping‖shopify ‖Supplier\nPosted By: Beauty equipment company\nPoster URL: https://m.facebook.com/profile.php?id=100083163735290\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1400187042042007/\n\nPost Text:\nHello, I need suppliers, purchase agent",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "bhp1CqRzgP",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1022977373096311/permalink/1400187042042007/"
+      },
+      {
+        "id": "Tf6OlXdR38",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sorcing Agent ?Shipping&Dropshipping?shopify ?Supplier\nGroup URL: https://www.facebook.com/groups/1022977373096311\nPoster Name: Beauty equipment company\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1400187042042007/\n\nPost Text:\nHello, I need suppliers, purchase agent"
+      }
+    ]
+  },
+  {
+    "id": "UDNECTOsNu4l",
+    "time": 1787059932,
+    "expires": 1787103132,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Mones Abdoallah\nPoster URL: https://m.facebook.com/tamer.abdoallah.50/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1946248526015815/\n\nPost Text:\nHello Need a agent for This",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "WMnWAQOQRp",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1946248526015815/"
+      },
+      {
+        "id": "Vo7fViovxr",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Mones Abdoallah\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1946248526015815/\n\nPost Text:\nHello Need a agent for This"
+      }
+    ],
+    "attachment": {
+      "name": "779001418_1592979272491077_3850631201252467087_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/779001418_1592979272491077_3850631201252467087_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=u7xuHVl84YUQ7kNvwHtetHA&_nc_oc=AdruZxLEH8Hu98CllpilXzMJnmu2WgjL6roZJ2tsmHU_YaxJ_bkyF4pC1Tb_rH1DIFc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=xMxfVDrWZcFqjEj34ndHvA&_nc_ss=783ba&oh=00_AQFesl_jc_E0PAUGQWng5-WtwBtyyyua5vzjzANXDNPAPQ&oe=6A8A29BE"
+    }
+  },
+  {
+    "id": "piwQZMskGuxo",
+    "time": 1787059933,
+    "expires": 1787103133,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Dsgfdfg Dfgdfgdfg\nPoster URL: https://m.facebook.com/profile.php?id=100070321963557\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1946646272642707/\n\nPost Text:\nHi everyone, I am doing Etsy dropshipping and looking for a professional agent.\n\n**You MUST have the following:**\n* **True Last-Mile Tracking:** Provide a local US tracking number (USPS/FedEx) **immediately after payment is made**. I need the tracking number as soon as the order is paid. **I will NOT accept Chinese tracking codes first.**\n* **Pre-Transit Method:** The tracking must hide the Chinese origin and only show **“Label Created / Pre-Transit”** until the package physically arrives in the US.\n* **Custom Packaging:** Ability to provide custom boxes and insert thank-you cards.\n\nIf your system is 100% compatible with Etsy's strict tracking policies and you meet **ALL** these requirements, please DM me.\n\nIn your first message, please just let me know your **average processing time**.\n\nThank you!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "zVep9MiM6h",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1946646272642707/"
+      },
+      {
+        "id": "luFwil1VWp",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Dsgfdfg Dfgdfgdfg\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1946646272642707/\n\nPost Text:\nHi everyone, I am doing Etsy dropshipping and looking for a professional agent.\n\n**You MUST have the following:**\n* **True Last-Mile Tracking:** Provide a local US tracking number (USPS/FedEx) **immediately after payment is made**. I need the tracking number as soon as the order is paid. **I will NOT accept Chinese tracking codes first.**\n* **Pre-Transit Method:** The tracking must hide the Chinese origin and only show **?Label Created / Pre-Transit?** until the package physically arrives in the US.\n* **Custom Packaging:** Ability to provide custom boxes and insert thank-you cards.\n\nIf your system is 100% compatible with Etsy's strict tracking policies and you meet **ALL** these requirements, please DM me.\n\nIn your first message, please just let me know your **average processing time**.\n\nThank you!"
+      }
+    ]
+  },
+  {
+    "id": "0sFEtNiFc3Xl",
+    "time": 1787065519,
+    "expires": 1787108719,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Jérôme Catano\nPoster URL: https://m.facebook.com/jerome.karr.1/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/889778987235939/\n\nPost Text:\nLooking for a Reliable China Sourcing Agent 🇨🇳📦\n\nHi everyone,\n\nI run several businesses targeting the US and EU markets, specializing in home products and garden furniture.\nI’m looking for a trustworthy sourcing agent in China who can help with:\n✅ Product sourcing (home & garden furniture)  \n✅ Quality control & inspection reports  \n✅ Direct shipping to customers (US & EU)  \n\nIf you’re an independent agent or represent a reliable company, please drop a comment or send me a DM with:\n• Your company name / business license (for verification)[peregrineship +1]\n• Your experience with Shopify and home/garden products\n• Your pricing model (commission, fees, etc.)\n• Average shipping times to US & EU\n• Any references or past clients (optional)\n\nI’m looking for a long-term, transparent partnership and ready to start with a test order.\n\nThanks in advance! \nJérôme",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "me4Ql3xQ4w",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/889778987235939/"
+      },
+      {
+        "id": "ks7hun0MaF",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: J�r�me Catano\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/889778987235939/\n\nPost Text:\nLooking for a Reliable China Sourcing Agent ??????\n\nHi everyone,\n\nI run several businesses targeting the US and EU markets, specializing in home products and garden furniture.\nI?m looking for a trustworthy sourcing agent in China who can help with:\n? Product sourcing (home & garden furniture)  \n? Quality control & inspection reports  \n? Direct shipping to customers (US & EU)  \n\nIf you?re an independent agent or represent a reliable company, please drop a comment or send me a DM with:\n? Your company name / business license (for verification)[peregrineship +1]\n? Your experience with Shopify and home/garden products\n? Your pricing model (commission, fees, etc.)\n? Average shipping times to US & EU\n? Any references or past clients (optional)\n\nI?m looking for a long-term, transparent partnership and ready to start with a test order.\n\nThanks in advance! \nJ�r�me"
+      }
+    ]
+  },
+  {
+    "id": "6ruqMCIGef6n",
+    "time": 1787067427,
+    "expires": 1787110627,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Yiwu  Sourcing  Agent\nPosted By: Basit Saigal\nPoster URL: https://m.facebook.com/basit.saigal.92/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/764491682264151/permalink/1395255499187763/\n\nPost Text:\nI Need a supplier who can source Ceramic Tableware for me\nAll the Product pictures would be shared which had to be sourced and for that i need an agent/supplier who can source me ceramic Tableware,\n\nMy Most products are from Yiwu but if you are from another city and can source my products we can also do business that’s not an issue.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "Dd9kHwct0I",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/764491682264151/permalink/1395255499187763/"
+      },
+      {
+        "id": "5m1b3DnQgh",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Yiwu  Sourcing  Agent\nGroup URL: https://www.facebook.com/groups/764491682264151\nPoster Name: Basit Saigal\nPost URL: https://m.facebook.com/groups/764491682264151/permalink/1395255499187763/\n\nPost Text:\nI Need a supplier who can source Ceramic Tableware for me\nAll the Product pictures would be shared which had to be sourced and for that i need an agent/supplier who can source me ceramic Tableware,\n\nMy Most products are from Yiwu but if you are from another city and can source my products we can also do business that?s not an issue."
+      }
+    ]
+  }
+]
