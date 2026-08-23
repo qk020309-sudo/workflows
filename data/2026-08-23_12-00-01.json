@@ -1,0 +1,27 @@
+[
+  {
+    "id": "DdGixjjxs9lA",
+    "time": 1787424077,
+    "expires": 1787467277,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nPosted By: S.s Brand\nPoster URL: https://m.facebook.com/profile.php?id=61581477421459\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1378058587099841/\n\nPost Text:\nAssalamualaikum \nMain student hun Hyderabad se. \nOnline business shuru karna chahta hun.\n\nMujhe COD pe Dropshipping Supplier chahiye \nProduct: Mobile Accessories - Earbuds, Charger, Cover\n\nShart: \n1. COD honi chahiye\n2. Aap customer ko bhej den\n3. Mera profit baad mein EasyPaisa\n\nHyderabad ke supplier hon to best hai. \nAgar koi bhai interested hai to Inbox aajaye ya \nBhai agr koi bhi agree ho to zaroor rabta karey mujhe se \nInshallah us ko mujh se zaroor acha response aiga \n\nJazakAllah ❤️",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "ktPe6Bl3x1",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/878592507046454/permalink/1378058587099841/"
+      },
+      {
+        "id": "mrz8hvabHj",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nGroup URL: https://www.facebook.com/groups/878592507046454\nPoster Name: S.s Brand\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1378058587099841/\n\nPost Text:\nAssalamualaikum \nMain student hun Hyderabad se. \nOnline business shuru karna chahta hun.\n\nMujhe COD pe Dropshipping Supplier chahiye \nProduct: Mobile Accessories - Earbuds, Charger, Cover\n\nShart: \n1. COD honi chahiye\n2. Aap customer ko bhej den\n3. Mera profit baad mein EasyPaisa\n\nHyderabad ke supplier hon to best hai. \nAgar koi bhai interested hai to Inbox aajaye ya \nBhai agr koi bhi agree ho to zaroor rabta karey mujhe se \nInshallah us ko mujh se zaroor acha response aiga \n\nJazakAllah ??"
+      }
+    ]
+  }
+]
