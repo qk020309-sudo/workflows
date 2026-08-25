@@ -1,0 +1,576 @@
+[
+  {
+    "id": "itlVI52wgmbN",
+    "time": 1787592094,
+    "expires": 1787635294,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sorcing Agent ‖Shipping&Dropshipping‖shopify ‖Supplier\nPosted By: Vytrix Gaming\nPoster URL: https://m.facebook.com/profile.php?id=61593577688675\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1405346438192734/\n\nPost Text:\n**[BUYER RFQ] Looking for Tempered Glass Mousepad OEM Factory (EU Market)**\n\nHi everyone, I run an e-commerce gaming peripheral brand targeting **Spain and the broader European market (EU)**. We are looking for an experienced **OEM/ODM manufacturer** for **custom tempered glass gaming mousepads** (frosted surface, CNC beveled edges, full non-slip base, custom printing & packaging).\n* Seeking a factory with low initial MOQ for custom samples + bulk scaling.\n* Must support **DDP shipping to Europe (Spain/EU)** and standard EU compliance (CE/RoHS).\n* Ready to place sample orders immediately.\n\n(Photos/renderings of the desired product and finish are attached below for reference).\n\nAdditional Images: https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785080726_122099468409452589_3298185728817131236_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=6tlWhjsgB34Q7kNvwHz1CnX&_nc_oc=AdoRZKlC1KAsRp9HyNuwVb7JjMKz1EmBHAYilQAd9Gs1MCmvuYdHdkk_Y2TOiePg1Zc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=SdBFVJJ4Wcu_THFJySriCw&_nc_ss=783ba&oh=00_AQFN5s6p_7Qpr49jzp6oEilRVGYhGcllU1hXUXv5e8uAPw&oe=6A924312, https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785993202_122099468367452589_9122751709179338599_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5s8JRMNpP78Q7kNvwGIhQYI&_nc_oc=AdrRqnc7_i_XfB4gWZYFIG1RYWIvxg1CPLUMhudJ9qeVoawhFi_-W-Li3M6YEahaJE4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=SdBFVJJ4Wcu_THFJySriCw&_nc_ss=783ba&oh=00_AQFAZnujszhTDfMK5n-DY0NxayM78lDtHwf6CXmhSOQ9dw&oe=6A924AA0, https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/783948388_122099468373452589_3848178865045254182_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Yml00NZntE4Q7kNvwGvVxzh&_nc_oc=AdqXjCj8Qk50cCiAElvsQ_SpewjrdiOIfeWANci3z-Y61_IUay6heydT3R6XuB9HtvM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=SdBFVJJ4Wcu_THFJySriCw&_nc_ss=783ba&oh=00_AQG_jR9aoKn7a-mEFQzMy1aWo1e_bpEfj1END2z7CJziDA&oe=6A923467",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "AnnXrkohP7",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1022977373096311/permalink/1405346438192734/"
+      },
+      {
+        "id": "pY1XGNaele",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sorcing Agent ?Shipping&Dropshipping?shopify ?Supplier\nGroup URL: https://www.facebook.com/groups/1022977373096311\nPoster Name: Vytrix Gaming\nPost URL: https://m.facebook.com/groups/1022977373096311/permalink/1405346438192734/\n\nPost Text:\n**[BUYER RFQ] Looking for Tempered Glass Mousepad OEM Factory (EU Market)**\n\nHi everyone, I run an e-commerce gaming peripheral brand targeting **Spain and the broader European market (EU)**. We are looking for an experienced **OEM/ODM manufacturer** for **custom tempered glass gaming mousepads** (frosted surface, CNC beveled edges, full non-slip base, custom printing & packaging).\n* Seeking a factory with low initial MOQ for custom samples + bulk scaling.\n* Must support **DDP shipping to Europe (Spain/EU)** and standard EU compliance (CE/RoHS).\n* Ready to place sample orders immediately.\n\n(Photos/renderings of the desired product and finish are attached below for reference)."
+      }
+    ],
+    "attachment": {
+      "name": "785080726_122099468409452589_3298185728817131236_n.jpg",
+      "url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/785080726_122099468409452589_3298185728817131236_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=6tlWhjsgB34Q7kNvwHz1CnX&_nc_oc=AdoRZKlC1KAsRp9HyNuwVb7JjMKz1EmBHAYilQAd9Gs1MCmvuYdHdkk_Y2TOiePg1Zc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=SdBFVJJ4Wcu_THFJySriCw&_nc_ss=783ba&oh=00_AQFN5s6p_7Qpr49jzp6oEilRVGYhGcllU1hXUXv5e8uAPw&oe=6A924312"
+    }
+  },
+  {
+    "id": "Ru7m6WzKOveK",
+    "time": 1787623610,
+    "expires": 1787666810,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1929907364316598/\n\nPost Text:\nI'm looking for a POD mat manufacturing partner. If you can offer good prices and a wide range of high-quality materials.\n\nI need rugs in the following sizes:\n\nXS: 1,7ft * 2,7ft (50*80cm)\n\nS: 2ft x 3ft (60 cm* 90 cm)\n\nM: 3ft x 5ft (91 cm* 152 cm)\n\nL: 4ft x 6ft (122 cm * 183 cm)\n\nXL: 5ft x 8ft (152 cm * 244 cm)\n\n2XL: 5.1ft x 9ft (158 cm * 274 cm)\n\n3XL: 5.5ft x9ft (168 cm * 274 cm)\n\n4XL: 10.6ft x 5.6ft (323cm*170cm)\n\nPlease contact me via WhatsApp: +84945837757",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "l3NQ9mdLcd",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1929907364316598/"
+      },
+      {
+        "id": "BqLO3k7SSz",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1929907364316598/\n\nPost Text:\nI'm looking for a POD mat manufacturing partner. If you can offer good prices and a wide range of high-quality materials.\n\nI need rugs in the following sizes:\n\nXS: 1,7ft * 2,7ft (50*80cm)\n\nS: 2ft x 3ft (60 cm* 90 cm)\n\nM: 3ft x 5ft (91 cm* 152 cm)\n\nL: 4ft x 6ft (122 cm * 183 cm)\n\nXL: 5ft x 8ft (152 cm * 244 cm)\n\n2XL: 5.1ft x 9ft (158 cm * 274 cm)\n\n3XL: 5.5ft x9ft (168 cm * 274 cm)\n\n4XL: 10.6ft x 5.6ft (323cm*170cm)\n\nPlease contact me via WhatsApp: +84945837757"
+      }
+    ],
+    "attachment": {
+      "name": "758368040_2532065237217539_1405023499533230354_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/758368040_2532065237217539_1405023499533230354_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=j_z4rFsimu0Q7kNvwELPKcJ&_nc_oc=AdqK4n-LkSm6wjg6WYr6mzlVKIx7OUimp39Th0qjTHC6rN8zwQ_mWtH65-rEglQ-drQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=tG7y2egsvhMN7SA-1cIFPg&_nc_ss=783ba&oh=00_AQEy9skwqC3OG1ho7O14LY4ERW4MXTA6aVYgNgn1bm7Ddw&oe=6A92B161"
+    }
+  },
+  {
+    "id": "BSLOA5VPhXTg",
+    "time": 1787623839,
+    "expires": 1787667039,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Iustin Ujeniuc\nPoster URL: https://m.facebook.com/profile.php?id=61557614984192\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1943536889620312/\n\nPost Text:\nI'm looking for this product for the first order I want to buy 30 pieces I'm looking for a supplier with the lowest possible price, but the tag must be working Whatsapp: +39 327 454 1072",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "BaXG3N94rE",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1943536889620312/"
+      },
+      {
+        "id": "tKG3mXuXTJ",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Iustin Ujeniuc\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1943536889620312/\n\nPost Text:\nI'm looking for this product for the first order I want to buy 30 pieces I'm looking for a supplier with the lowest possible price, but the tag must be working Whatsapp: +39 327 454 1072"
+      }
+    ],
+    "attachment": {
+      "name": "774666849_122266942556253832_7995970659744383231_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/774666849_122266942556253832_7995970659744383231_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ijrN5nsNbVIQ7kNvwFzVWn1&_nc_oc=Adq_OyV1o9dsznaov60jrCVjpbVk1UGz5Q-STXlp_Qiy6RlGCfOvCk74-bMZRFYY2Nw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=Eq1y7dNPo_yfnsYQuQODlQ&_nc_ss=783ba&oh=00_AQEYkLzXNXJuRsZOwQD5yLZpebIwwRUzkwplHYJ8o9ml0A&oe=6A92BD26"
+    }
+  },
+  {
+    "id": "6H4GysqkKAnX",
+    "time": 1787623841,
+    "expires": 1787667041,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Rina Abazi\nPoster URL: https://m.facebook.com/rina.abazi.560/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1944849222822412/\n\nPost Text:\nHi, I am looking for a reliable China sourcing and dropshipping agent for a fashion e-commerce store.\nMy requirements:\n* Products: women’s clothing / fashion\n* Sourcing from: 1688, Taobao or Chinese factories\n* Destination: Kosovo\n* Business model: 100% dropshipping\n* Each customer order must be shipped individually and directly to my customer in Kosovo\n* No bulk shipment to me\n* Typical parcel weight: around 300–800g\n* Target delivery time: ideally 7–15 days\n* Target shipping cost: ideally below $10–15 for a 500g parcel\n* Quality inspection before shipping\n* No supplier invoice, advertising or Chinese promotional material inside the package\n* Tracking number required\n* Shopify integration or automated order fulfillment would be a big advantage\nPlease only contact me if you already have a working shipping line to Kosovo.\nBefore working together, I need a quote for:\n1 × 500g clothing parcel to Prishtina, Kosovo",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "goSx8CBAqY",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1944849222822412/"
+      },
+      {
+        "id": "bqwuakXDN1",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Rina Abazi\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1944849222822412/\n\nPost Text:\nHi, I am looking for a reliable China sourcing and dropshipping agent for a fashion e-commerce store.\nMy requirements:\n* Products: women?s clothing / fashion\n* Sourcing from: 1688, Taobao or Chinese factories\n* Destination: Kosovo\n* Business model: 100% dropshipping\n* Each customer order must be shipped individually and directly to my customer in Kosovo\n* No bulk shipment to me\n* Typical parcel weight: around 300?800g\n* Target delivery time: ideally 7?15 days\n* Target shipping cost: ideally below $10?15 for a 500g parcel\n* Quality inspection before shipping\n* No supplier invoice, advertising or Chinese promotional material inside the package\n* Tracking number required\n* Shopify integration or automated order fulfillment would be a big advantage\nPlease only contact me if you already have a working shipping line to Kosovo.\nBefore working together, I need a quote for:\n1 � 500g clothing parcel to Prishtina, Kosovo"
+      }
+    ]
+  },
+  {
+    "id": "BOq0DQPjoskz",
+    "time": 1787623966,
+    "expires": 1787667166,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Rotem Turjanski\nPoster URL: https://m.facebook.com/rotem.turjanski/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1946847745955893/\n\nPost Text:\nLooking for a Reliable US-Based Dropshipping Supplier / Private Agent",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "27IIizv6l4",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1946847745955893/"
+      },
+      {
+        "id": "fZh1AtWkU4",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Rotem Turjanski\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1946847745955893/\n\nPost Text:\nLooking for a Reliable US-Based Dropshipping Supplier / Private Agent"
+      }
+    ]
+  },
+  {
+    "id": "W6cCjJKCIjL6",
+    "time": 1787623969,
+    "expires": 1787667169,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Elsa Oumwladi\nPoster URL: https://m.facebook.com/Elsa92.22/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1947509585889709/\n\nPost Text:\nHello\nHello, I'm looking for a fulfillment agent for a long-term position. Thank you.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "vJtXshXMTZ",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1947509585889709/"
+      },
+      {
+        "id": "skqjX0ejEx",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Elsa Oumwladi\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1947509585889709/\n\nPost Text:\nHello\nHello, I'm looking for a fulfillment agent for a long-term position. Thank you."
+      }
+    ]
+  },
+  {
+    "id": "S89JJN3GYtQ5",
+    "time": 1787624209,
+    "expires": 1787667409,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: SupportiveLobster3117\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1948429365797731/\n\nPost Text:\nLooking for a supplier , PLEASE ONLY COMMENT IF YOU CAN DO THE BELOW , sick of time wasters \n\nI run a TikTok shop uk women’s clothing , therefore need 4 day delivery this is a must!!\n\nSo you will either need a uk warehouse or use my own warehouse at my address , cash on delivery no bulk buying",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "4HE84YEygv",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1948429365797731/"
+      },
+      {
+        "id": "NThVGPRSio",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: SupportiveLobster3117\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1948429365797731/\n\nPost Text:\nLooking for a supplier , PLEASE ONLY COMMENT IF YOU CAN DO THE BELOW , sick of time wasters \n\nI run a TikTok shop uk women?s clothing , therefore need 4 day delivery this is a must!!\n\nSo you will either need a uk warehouse or use my own warehouse at my address , cash on delivery no bulk buying"
+      }
+    ]
+  },
+  {
+    "id": "WH7phV8fuM3x",
+    "time": 1787624211,
+    "expires": 1787667411,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: MiracCosgun\nPoster URL: https://m.facebook.com/profile.php?id=61593153853960\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1948614779112523/\n\nPost Text:\nHi, I’m looking for a reliable dropshipping/sourcing agent in China.\n\nI need clean, unbranded puffer jackets — no logos, no brand names, and no replicas.\n\nRequirements:\n\n* Men’s / unisex puffer jackets\n* Clean, minimal designs\n* Good quality\n* Competitive product prices\n* No MOQ — I need single-order fulfillment\n* You can source from 1688 or directly from factories\n* Direct shipping from China to individual customers in Germany\n* Tracking number for every order\n* Fast and reliable shipping to Germany\n* Neutral packaging with no supplier branding or invoices\n\nPlease send me available puffer jacket options with product photos, product price, shipping cost to Germany, and estimated delivery time.\n\nI’m looking for a long-term dropshipping agent if the quality, prices, and shipping are good.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "R42Pr9l2Ps",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1948614779112523/"
+      },
+      {
+        "id": "IGNufyLgsW",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: MiracCosgun\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1948614779112523/\n\nPost Text:\nHi, I?m looking for a reliable dropshipping/sourcing agent in China.\n\nI need clean, unbranded puffer jackets ? no logos, no brand names, and no replicas.\n\nRequirements:\n\n* Men?s / unisex puffer jackets\n* Clean, minimal designs\n* Good quality\n* Competitive product prices\n* No MOQ ? I need single-order fulfillment\n* You can source from 1688 or directly from factories\n* Direct shipping from China to individual customers in Germany\n* Tracking number for every order\n* Fast and reliable shipping to Germany\n* Neutral packaging with no supplier branding or invoices\n\nPlease send me available puffer jacket options with product photos, product price, shipping cost to Germany, and estimated delivery time.\n\nI?m looking for a long-term dropshipping agent if the quality, prices, and shipping are good."
+      }
+    ]
+  },
+  {
+    "id": "8koccMPBqZvF",
+    "time": 1787624213,
+    "expires": 1787667413,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Bülent Esen\nPoster URL: https://m.facebook.com/profile.php?id=100087263348397\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1949078695732798/\n\nPost Text:\nLooking for a serious, experienced China sourcing agent/supplier — \n\nTurkey delivery, DDP only.\n\nProduct: Ceramic chocolate fondue/melting pot set (cup + candle stand \n\n+ fork). Reference photo attached.\n\nOrder: 100 units, initial test order. Long-term partnership potential \n\nif this batch goes well — we're not a one-time buyer.\n\nWhat we need from you:\n\n— A quoted DDP price to Turkey (product + shipping + customs duty \n\nincluded, one final number)\n\n— Proven experience shipping to Turkey specifically, with customs \n\nclearance handled properly (not \"it depends which country you route \n\nthrough\" — we're not interested in that conversation)\n\n— Ability to issue a proper commercial invoice\n\n— Insurance coverage for breakage/damage in transit, with a clear \n\nprocess if something goes wrong\n\nWe've already spoken with several suppliers, so we know this process \n\nwell — we're not new to this. Please don't reply unless you can \n\nactually provide the above. We're looking for someone who handles \n\n...",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "b6gkOkY10D",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1949078695732798/"
+      },
+      {
+        "id": "riBxIPpKhH",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: B�lent Esen\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1949078695732798/\n\nPost Text:\nLooking for a serious, experienced China sourcing agent/supplier ? \n\nTurkey delivery, DDP only.\n\nProduct: Ceramic chocolate fondue/melting pot set (cup + candle stand \n\n+ fork). Reference photo attached.\n\nOrder: 100 units, initial test order. Long-term partnership potential \n\nif this batch goes well ? we're not a one-time buyer.\n\nWhat we need from you:\n\n? A quoted DDP price to Turkey (product + shipping + customs duty \n\nincluded, one final number)\n\n? Proven experience shipping to Turkey specifically, with customs \n\nclearance handled properly (not \"it depends which country you route \n\nthrough\" ? we're not interested in that conversation)\n\n? Ability to issue a proper commercial invoice\n\n? Insurance coverage for breakage/damage in transit, with a clear \n\nprocess if something goes wrong\n\nWe've already spoken with several suppliers, so we know this process \n\nwell ? we're not new to this. Please don't reply unless you can \n\nactually provide the above. We're looking for someone who handles \n\nthis professionally and wants a long-term supplier relationship, not \n\na single transaction.\n\nSerious inquiries only ? send your quote and relevant experience, \n\nand we'll get back to you quickly."
+      }
+    ],
+    "attachment": {
+      "name": "779323098_1026562016929234_7960077897468103800_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/779323098_1026562016929234_7960077897468103800_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=qnJtBuv1y7AQ7kNvwGi8acZ&_nc_oc=AdoD5eaHvMq3QYuUz2Vhr3y1isG12QS8F7R_vSl3EXbsIMEWXDd_6iCRZn96Ot5ZH4Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=JHjuJyrO2WcCPHGHetUB0A&_nc_ss=783ba&oh=00_AQEqzVSc6XcUC3BnoRbHPiHmfJ6FSyrfXPoeDXvIV6OsQA&oe=6A92B911"
+    }
+  },
+  {
+    "id": "CGcPesrlqChd",
+    "time": 1787624214,
+    "expires": 1787667414,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1950634188910582/\n\nPost Text:\nHi, I’m interested in this product for dropshipping. \n\nI’m looking for a quote for this product including cost of shipping-door to door in Israel.\n\nPease send me your contact number and if you have experience working with dropshipping to Israel. \n\nThank you 🙏🏼",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "hH0t53AniX",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1950634188910582/"
+      },
+      {
+        "id": "o9U6ogQhsg",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1950634188910582/\n\nPost Text:\nHi, I?m interested in this product for dropshipping. \n\nI?m looking for a quote for this product including cost of shipping-door to door in Israel.\n\nPease send me your contact number and if you have experience working with dropshipping to Israel. \n\nThank you ????"
+      }
+    ],
+    "attachment": {
+      "name": "784252246_2825504231140320_6474682696280349777_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/784252246_2825504231140320_6474682696280349777_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=NUqyzUsbxb4Q7kNvwFLyweN&_nc_oc=Adq2acApy7yv-PsVjr4KeDbuPrlTOu95ggdcQyrAHmMveJnS-u3cwHi4eLhAqBh3g9A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=JHjuJyrO2WcCPHGHetUB0A&_nc_ss=783ba&oh=00_AQGWr-GzxWxh-FdnCydnc9mSyC0gh80iKYmMigMl_g3lSQ&oe=6A92B642"
+    }
+  },
+  {
+    "id": "FeEqaH09tMns",
+    "time": 1787624215,
+    "expires": 1787667415,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Phil\nPoster URL: https://m.facebook.com/profile.php?id=61593678751439\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1950730262234308/\n\nPost Text:\nHey,\nLooking for a private agent for Shopify dropshipping.\n\nI need:\n\n•  Sourcing from 1688 / Taobao / factories\n\n•  Price negotiation (best factory price)\n\n•  Quality check (photos/videos before shipping)\n\n•  Branding & custom packaging\n\n•  Logo / stickers / thank you cards\n\n•  Shopify connection (app or collaborator)\n\n•  Order fulfillment\n\n•  Fast shipping to Europe\n\n•  Good communication\n\nYou available? What’s your process and fees?\n\nThanks",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "VZpoMqstGZ",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1950730262234308/"
+      },
+      {
+        "id": "vTfV9zhED2",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Phil\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1950730262234308/\n\nPost Text:\nHey,\nLooking for a private agent for Shopify dropshipping.\n\nI need:\n\n?  Sourcing from 1688 / Taobao / factories\n\n?  Price negotiation (best factory price)\n\n?  Quality check (photos/videos before shipping)\n\n?  Branding & custom packaging\n\n?  Logo / stickers / thank you cards\n\n?  Shopify connection (app or collaborator)\n\n?  Order fulfillment\n\n?  Fast shipping to Europe\n\n?  Good communication\n\nYou available? What?s your process and fees?\n\nThanks"
+      }
+    ]
+  },
+  {
+    "id": "y0hw8TOe3sDl",
+    "time": 1787624216,
+    "expires": 1787667416,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: Rosa Tuccia\nPoster URL: https://m.facebook.com/profile.php?id=100090998202265\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1950854408888560/\n\nPost Text:\n🇨🇳 LOOKING FOR DIRECT SUPPLIERS / FACTORIES IN CHINA\nHi! I’m looking for serious and reliable suppliers, preferably direct manufacturers/factories, offering genuinely competitive prices.\n\nI’m mainly interested in:\n\n👟 Shoes\n\n👕 Clothing\n\n⚽ Football kits and tracksuits\n\n🩱 Swimwear and beachwear\n\n📱 Phone cases and accessories\n\n🛍️ Other clothing and accessories\n\nI’m looking for:\n\n• 🏭 Direct manufacturers or reliable suppliers\n\n• 📦 No minimum order quantity (MOQ)\n\n• 💰 Very low and competitive prices\n\n• 🚚 Shipping to Italy 🇮🇹\n\n• ⭐ Good product quality\n\n• 📸 Real photos/videos of the products\n\n• 🤝 Seriousness and reliability\n\n⚠️ I’m not looking for suppliers with high MOQs or reseller prices. If you are a sourcing agent, please state this clearly.\n\nIf you’re interested, leave your phone number in the comments and I’ll contact you privately. 📲\n\nThank you! 🇨🇳🤝🇮🇹",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "pdns82mVnh",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1950854408888560/"
+      },
+      {
+        "id": "tHqqaMsrQs",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: Rosa Tuccia\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1950854408888560/\n\nPost Text:\n???? LOOKING FOR DIRECT SUPPLIERS / FACTORIES IN CHINA\nHi! I?m looking for serious and reliable suppliers, preferably direct manufacturers/factories, offering genuinely competitive prices.\n\nI?m mainly interested in:\n\n?? Shoes\n\n?? Clothing\n\n? Football kits and tracksuits\n\n?? Swimwear and beachwear\n\n?? Phone cases and accessories\n\n??? Other clothing and accessories\n\nI?m looking for:\n\n? ?? Direct manufacturers or reliable suppliers\n\n? ?? No minimum order quantity (MOQ)\n\n? ?? Very low and competitive prices\n\n? ?? Shipping to Italy ????\n\n? ? Good product quality\n\n? ?? Real photos/videos of the products\n\n? ?? Seriousness and reliability\n\n?? I?m not looking for suppliers with high MOQs or reseller prices. If you are a sourcing agent, please state this clearly.\n\nIf you?re interested, leave your phone number in the comments and I?ll contact you privately. ??\n\nThank you! ??????????"
+      }
+    ]
+  },
+  {
+    "id": "C8NKJgQ5DsB5",
+    "time": 1787624217,
+    "expires": 1787667417,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Agent\nPosted By: William Kolopo\nPoster URL: https://m.facebook.com/profile.php?id=61580795750201\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1951086078865393/\n\nPost Text:\nI'm looking for an experienced freight forwarder or sourcing agent who can assist me with buying items from 1688 and shipping them to Italy.\nIdeally, I need help with:\n Purchasing directly from 1688 suppliers\n Warehouse storage, consolidation, and QC photos\n Reliable international shipping to Italy (preferably Tax-Free / Triangle DDP lines)\nIf you offer these services or have a reliable contact/warehouse to recommend, please send me a DM with your rates and details. Thanks!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "soCYxZcST0",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/844800962827249/permalink/1951086078865393/"
+      },
+      {
+        "id": "SiQ52UldnX",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/844800962827249\nPoster Name: William Kolopo\nPost URL: https://m.facebook.com/groups/844800962827249/permalink/1951086078865393/\n\nPost Text:\nI'm looking for an experienced freight forwarder or sourcing agent who can assist me with buying items from 1688 and shipping them to Italy.\nIdeally, I need help with:\n Purchasing directly from 1688 suppliers\n Warehouse storage, consolidation, and QC photos\n Reliable international shipping to Italy (preferably Tax-Free / Triangle DDP lines)\nIf you offer these services or have a reliable contact/warehouse to recommend, please send me a DM with your rates and details. Thanks!"
+      }
+    ]
+  },
+  {
+    "id": "UwErvl3VZIlq",
+    "time": 1787627674,
+    "expires": 1787670874,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Erika E-Roc Sisk\nPoster URL: https://m.facebook.com/erika.e.sisk/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761597538317850/\n\nPost Text:\n🔥 LOOKING FOR WHOLESALE SUPPLIERS / SOURCING AGENTS 🔥\nI’m a U.S. reseller looking to build long-term relationships with reliable suppliers who can offer factory-direct / 1688 pricing.\n\nCurrently sourcing:\n\n• Portable Power Stations\n\n• Tire Repair Kits\n\n• Travel Wallets\n\n• Anti-Lost Trackers\n\n• Pet Water Bottles\n\n• Smart Pet Water Dispensers\n\n• Walking Pads\n\n• Electric Scooters\n\n• Heavyweight/Oversized T-Shirts — Youth & Adult\n\n📦 Please send me:\n\n• Price for 10 / 50 / 100 / 500+ units\n\n• MOQ\n\n• DDP/landed shipping cost to the U.S.\n\n• Product photos/videos\n\n• U.S. warehouse availability, if available\n\n💰 I am NOT looking for retail pricing. I need your lowest wholesale/factory-direct pricing with good quality.\n\nI plan to test small quantities first, then place larger repeat orders on products that sell well.\n\n🔥 BONUS: If you have products currently selling well in the U.S. with low factory cost + strong resale margins, send those too!\n\nSUPPLIERS / SOURCING AGENTS — COMMENT OR MESSAGE...",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "His9WdqG7f",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761597538317850/"
+      },
+      {
+        "id": "o426uh1Jbm",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Erika E-Roc Sisk\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761597538317850/\n\nPost Text:\n?? LOOKING FOR WHOLESALE SUPPLIERS / SOURCING AGENTS ??\nI?m a U.S. reseller looking to build long-term relationships with reliable suppliers who can offer factory-direct / 1688 pricing.\n\nCurrently sourcing:\n\n? Portable Power Stations\n\n? Tire Repair Kits\n\n? Travel Wallets\n\n? Anti-Lost Trackers\n\n? Pet Water Bottles\n\n? Smart Pet Water Dispensers\n\n? Walking Pads\n\n? Electric Scooters\n\n? Heavyweight/Oversized T-Shirts ? Youth & Adult\n\n?? Please send me:\n\n? Price for 10 / 50 / 100 / 500+ units\n\n? MOQ\n\n? DDP/landed shipping cost to the U.S.\n\n? Product photos/videos\n\n? U.S. warehouse availability, if available\n\n?? I am NOT looking for retail pricing. I need your lowest wholesale/factory-direct pricing with good quality.\n\nI plan to test small quantities first, then place larger repeat orders on products that sell well.\n\n?? BONUS: If you have products currently selling well in the U.S. with low factory cost + strong resale margins, send those too!\n\nSUPPLIERS / SOURCING AGENTS ? COMMENT OR MESSAGE ME WITH YOUR CATALOG + PRICING.\n\nSerious suppliers only. Looking to buy and build a long-term business relationship. ??????"
+      }
+    ]
+  },
+  {
+    "id": "B2RKnFIrNMKT",
+    "time": 1787627676,
+    "expires": 1787670876,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Maximus Emmanuel\nPoster URL: https://m.facebook.com/profile.php?id=61592531840899\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761321808345423/\n\nPost Text:\nam looking for a China supplier with no MOQ, affordable prices of phones and clothes\nkindly chat me up on WhatsApp\n+2347065205154",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "fBCkdYCYNv",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761321808345423/"
+      },
+      {
+        "id": "zOsLZArdCJ",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Maximus Emmanuel\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761321808345423/\n\nPost Text:\nam looking for a China supplier with no MOQ, affordable prices of phones and clothes\nkindly chat me up on WhatsApp\n+2347065205154"
+      }
+    ]
+  },
+  {
+    "id": "xhwCKKoVgITQ",
+    "time": 1787627806,
+    "expires": 1787671006,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Junaid Khalid\nPoster URL: https://m.facebook.com/junaidkhalidjd/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761175658360038/\n\nPost Text:\nI am starting a Shopify Dropshipping Business and need a Dropshipping supplier to source and ship the items for me. Please contact me on +447460763418",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "dMNQwIlWGb",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761175658360038/"
+      },
+      {
+        "id": "G6nYanOK5v",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Junaid Khalid\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1761175658360038/\n\nPost Text:\nI am starting a Shopify Dropshipping Business and need a Dropshipping supplier to source and ship the items for me. Please contact me on +447460763418"
+      }
+    ]
+  },
+  {
+    "id": "sAhnQ9plmFV4",
+    "time": 1787627808,
+    "expires": 1787671008,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Daven Macalinao\nPoster URL: https://m.facebook.com/daven.macalinao/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1760885688389035/\n\nPost Text:\nI am looking for a supplier of branded shirts like the one in the photo. Such as... NEW ERA, DBTK, NORTH FACE, BATHING APE and ESSENTIALS",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "t59Uj9afx4",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1760885688389035/"
+      },
+      {
+        "id": "lmnRbK6TKQ",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Daven Macalinao\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1760885688389035/\n\nPost Text:\nI am looking for a supplier of branded shirts like the one in the photo. Such as... NEW ERA, DBTK, NORTH FACE, BATHING APE and ESSENTIALS"
+      }
+    ],
+    "attachment": {
+      "name": "783898761_3421156068056156_7973634985728995564_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/783898761_3421156068056156_7973634985728995564_n.jpg?stp=cp1_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=dBfgP9f9eo4Q7kNvwGFIVyn&_nc_oc=AdrZQmtB0aT_l6iJ8bLkRtCEobsoYLkHoCn0q3Dyj9R6CjghNJlxBMvmR8Y2auIrCEc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=5V_TA6VZNYWEKn0Wgq9hOA&_nc_ss=783ba&oh=00_AQF-0CpP2_ZU5CIr0bKl96OXvlbo2ZyInVP2JTSf9abwuA&oe=6A92D39D"
+    }
+  },
+  {
+    "id": "GXjIaNyVPWbc",
+    "time": 1787627809,
+    "expires": 1787671009,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Pietje Precies\nPoster URL: https://m.facebook.com/profile.php?id=61556651405370\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1760237721787165/\n\nPost Text:\nHello I need Alibaba suplliers please",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "o1yFi2WQXI",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1760237721787165/"
+      },
+      {
+        "id": "DSdaAo7Pvk",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Pietje Precies\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1760237721787165/\n\nPost Text:\nHello I need Alibaba suplliers please"
+      }
+    ]
+  },
+  {
+    "id": "AIpnLcFAtB2j",
+    "time": 1787627810,
+    "expires": 1787671010,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Sam Hakiza\nPoster URL: https://m.facebook.com/profile.php?id=100079036925416\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1759878611823076/\n\nPost Text:\nAm looking for Door to door drop shipping person for Audio and electronics China to Mozambique",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "6jRkhyKNS1",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1759878611823076/"
+      },
+      {
+        "id": "WNvMm931qU",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Sam Hakiza\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1759878611823076/\n\nPost Text:\nAm looking for Door to door drop shipping person for Audio and electronics China to Mozambique"
+      }
+    ]
+  },
+  {
+    "id": "A7onTtBMTaRC",
+    "time": 1787627921,
+    "expires": 1787671121,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Cyrel Denzel Trinidad\nPoster URL: https://m.facebook.com/mistrucyrel/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1759193961891541/\n\nPost Text:\nLooking for NOVEL BOOKS SUPPLIER.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "CSGo0CHaP4",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1759193961891541/"
+      },
+      {
+        "id": "Aosf9Hvpuu",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Cyrel Denzel Trinidad\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1759193961891541/\n\nPost Text:\nLooking for NOVEL BOOKS SUPPLIER."
+      }
+    ]
+  },
+  {
+    "id": "d7Ri6VMRdXif",
+    "time": 1787628398,
+    "expires": 1787671598,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Linyi City Cheery SunShade Net Co.,Ltd\nPoster URL: https://m.facebook.com/LinyiCitySunshade/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/894944380052733/\n\nPost Text:\nI’m looking for reliable trading companies or agents who can help me find buyers for the Sunshade net products worldwide. If you are any suitable companies or agents, please share your WhatsApp or WeChat contact with me. Thank you!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "YfH9yrWI0O",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/894944380052733/"
+      },
+      {
+        "id": "CYssUpWWXe",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Linyi City Cheery SunShade Net Co.,Ltd\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/894944380052733/\n\nPost Text:\nI?m looking for reliable trading companies or agents who can help me find buyers for the Sunshade net products worldwide. If you are any suitable companies or agents, please share your WhatsApp or WeChat contact with me. Thank you!"
+      }
+    ]
+  },
+  {
+    "id": "u7D486Fyp68D",
+    "time": 1787628520,
+    "expires": 1787671720,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nPosted By: Linyi City Cheery SunShade Net Co.,Ltd\nPoster URL: https://m.facebook.com/LinyiCitySunshade/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1379884866917213/\n\nPost Text:\nI’m looking for reliable trading companies or agents who can help me find buyers for the Sunshade net products. If you are any suitable companies or agents, please share your WhatsApp or WeChat contact with me. Thank you!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "qlXEDMKSdd",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/878592507046454/permalink/1379884866917213/"
+      },
+      {
+        "id": "VUYftib48V",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Dropshipping Agent | Shopify | Supplier /Sourcing & Order Fulfillment\nGroup URL: https://www.facebook.com/groups/878592507046454\nPoster Name: Linyi City Cheery SunShade Net Co.,Ltd\nPost URL: https://m.facebook.com/groups/878592507046454/permalink/1379884866917213/\n\nPost Text:\nI?m looking for reliable trading companies or agents who can help me find buyers for the Sunshade net products. If you are any suitable companies or agents, please share your WhatsApp or WeChat contact with me. Thank you!"
+      }
+    ]
+  }
+]
