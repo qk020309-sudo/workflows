@@ -1,0 +1,81 @@
+[
+  {
+    "id": "B2PL9LjPUDqS",
+    "time": 1790957862,
+    "expires": 1791001062,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Marc Leroy\nPoster URL: https://m.facebook.com/marc.leroy.16/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/926581916888979/\n\nPost Text:\nBonjour, je recherche un agent d’achat qui parle français",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "h4GwA2BHAo",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/926581916888979/"
+      },
+      {
+        "id": "rXSEVXGtNH",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Marc Leroy\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/926581916888979/\n\nPost Text:\nBonjour, je recherche un agent d?achat qui parle fran�ais"
+      }
+    ]
+  },
+  {
+    "id": "p5aVIaOWsRiC",
+    "time": 1790976684,
+    "expires": 1791019884,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Bouchra Belkaid\nPoster URL: https://m.facebook.com/profile.php?id=61566215973029\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/926786206868550/\n\nPost Text:\nHi I need an urgent ship for this product in France size L, give me your best price",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "EQs0UQJtRh",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/926786206868550/"
+      },
+      {
+        "id": "h5Po0nujCN",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Bouchra Belkaid\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/926786206868550/\n\nPost Text:\nHi I need an urgent ship for this product in France size L, give me your best price"
+      }
+    ],
+    "attachment": {
+      "name": "825328434_122231745050540532_8962036684649494416_n.jpg",
+      "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/825328434_122231745050540532_8962036684649494416_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=egX-GFGT7XMQ7kNvwF0hXfW&_nc_oc=AdqUoZZYGTNyn24oy6k5FCFjIzV27F_T7p62fphmiX2rA0c2GPYXNu0QpcGwxwI3lbs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=CRvcTOEJqQx9bJXBGR8kBw&_nc_ss=703ba&oh=00_AQM6pM15IIoeKz5mJ02PL_SHLnUis7i78NQikQQtWh4p1Q&oe=6AC5DCC7"
+    }
+  },
+  {
+    "id": "LYauGLt8Iq9G",
+    "time": 1790979665,
+    "expires": 1791022865,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Taiatea Foloka\nPoster URL: https://m.facebook.com/profile.php?id=61551676028894\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/926809193532918/\n\nPost Text:\nBonjour, \n\nJe recherche un agent sourcing en Chine qui parle français. \n\nJe recherche des distributeurs automatique extérieur tropicalisé de boisson et snack pour l'implanter à Wallis et Futuna",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "6uhKJ6Jch4",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/926809193532918/"
+      },
+      {
+        "id": "GcD0VhFcpO",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Taiatea Foloka\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/926809193532918/\n\nPost Text:\nBonjour, \n\nJe recherche un agent sourcing en Chine qui parle fran�ais. \n\nJe recherche des distributeurs automatique ext�rieur tropicalis� de boisson et snack pour l'implanter � Wallis et Futuna"
+      }
+    ]
+  }
+]
