@@ -1,0 +1,414 @@
+[
+  {
+    "id": "syrKhSu8AjA3",
+    "time": 1793121937,
+    "expires": 1793165137,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing and Dropshipping agent\nPosted By: Marhid Mat\nPoster URL: https://m.facebook.com/profile.php?id=100089498435532\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1089576309202256/permalink/1672825967543951/\n\nPost Text:\nBonjour, je lance une boutique Shopify en France avec deux produits : une peluche lestée (weighted plush) et un rouleau de chiffons microfibre détachables. Je ne veux aucun stock : je vous paie chaque commande quand elle arrive, et vous l'envoyez directement à mon client en France. Pouvez-vous me dire : vos frais par commande, le prix produit + livraison France pour 1 pièce de chaque, le délai de livraison, si les droits et TVA sont payés (DDP/IOSS), et si vous pouvez trouver une peluche lestée certifiée EN71 et CE ? Merci !\n\nContacte whattsap: +33658633862",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "pX9sHYzJ7E",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1089576309202256/permalink/1672825967543951/"
+      },
+      {
+        "id": "r1SU0EvZzU",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing and Dropshipping agent\nGroup URL: https://www.facebook.com/groups/1089576309202256\nPoster Name: Marhid Mat\nPost URL: https://m.facebook.com/groups/1089576309202256/permalink/1672825967543951/\n\nPost Text:\nBonjour, je lance une boutique Shopify en France avec deux produits : une peluche lest�e (weighted plush) et un rouleau de chiffons microfibre d�tachables. Je ne veux aucun stock : je vous paie chaque commande quand elle arrive, et vous l'envoyez directement � mon client en France. Pouvez-vous me dire : vos frais par commande, le prix produit + livraison France pour 1 pi�ce de chaque, le d�lai de livraison, si les droits et TVA sont pay�s (DDP/IOSS), et si vous pouvez trouver une peluche lest�e certifi�e EN71 et CE ? Merci !\n\nContacte whattsap: +33658633862"
+      }
+    ]
+  },
+  {
+    "id": "DzhEP5Yg5qXr",
+    "time": 1793127438,
+    "expires": 1793170638,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Sunny Modi\nPoster URL: https://m.facebook.com/sasmart07/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666713988495668/\n\nPost Text:\nI am looking for kids wear supplier",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "861odHbBYk",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1666713988495668/"
+      },
+      {
+        "id": "ukCV9sOCXS",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Sunny Modi\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666713988495668/\n\nPost Text:\nI am looking for kids wear supplier"
+      }
+    ]
+  },
+  {
+    "id": "zd1cOi8XCdEd",
+    "time": 1793129250,
+    "expires": 1793172450,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666735335160200/\n\nPost Text:\nLOOKING FOR GYM PACKAGE EQUIPMENT SUPPLIER DIRECTLY FROM CHINA",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "YwTAZoVcX7",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1666735335160200/"
+      },
+      {
+        "id": "lDkk5tXaIR",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666735335160200/\n\nPost Text:\nLOOKING FOR GYM PACKAGE EQUIPMENT SUPPLIER DIRECTLY FROM CHINA"
+      }
+    ]
+  },
+  {
+    "id": "WElf9fv4mNWO",
+    "time": 1793130203,
+    "expires": 1793173403,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666744978492569/\n\nPost Text:\nLooking for branded shirts ship to Philippines",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "cZAA1FhlVs",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1666744978492569/"
+      },
+      {
+        "id": "XsSwJAilWy",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666744978492569/\n\nPost Text:\nLooking for branded shirts ship to Philippines"
+      }
+    ]
+  },
+  {
+    "id": "gy3Tf7kLDanf",
+    "time": 1793131982,
+    "expires": 1793175182,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Radu Paraschiv\nPoster URL: https://m.facebook.com/radu.paraschiv.5220/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666764728490594/\n\nPost Text:\nHello everyone! I need a supplier for my shopify store. (Private label for the products) . I need sourcing for :\n 1. Led face mask\n 2.a microcurrent face device for facial toning\n3. Facial steamer\n4.ultrasonic scrubber\n4. Ice roller\n5.reusable silicone eye patches\nI will sell in europe so I need EU plugs and 220-240V. IT NEED ALL REQUIRED DOCUMENTS ◇ CE , Test reports, guide ,responsable for EU and manufacturer address and name◇",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "ockWcS0XUB",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1666764728490594/"
+      },
+      {
+        "id": "zE4XggRWLq",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Radu Paraschiv\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666764728490594/\n\nPost Text:\nHello everyone! I need a supplier for my shopify store. (Private label for the products) . I need sourcing for :\n 1. Led face mask\n 2.a microcurrent face device for facial toning\n3. Facial steamer\n4.ultrasonic scrubber\n4. Ice roller\n5.reusable silicone eye patches\nI will sell in europe so I need EU plugs and 220-240V. IT NEED ALL REQUIRED DOCUMENTS ? CE , Test reports, guide ,responsable for EU and manufacturer address and name?"
+      }
+    ]
+  },
+  {
+    "id": "A4OT13BX67gv",
+    "time": 1793134999,
+    "expires": 1793178199,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Kendra Gibson\nPoster URL: https://m.facebook.com/kgibson9393/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666795698487497/\n\nPost Text:\nLooking for a reliable supplier who sells AirPod-style wireless earbuds that look similar to the originals. I'm interested in bulk pricing and would like to know the cost per pair.\nAlso, what other popular U.S. electronics do you offer that are similar in appearance to name-brand products? Please send me your product list, pictures, and wholesale pricing.\n\nIf anyone has recommendations or can connect me with a supplier, please let me know!\n\nLooking for a reliable supplier who sells AirPod-style wireless earbuds that look similar to the originals. I'm interested in bulk pricing and would like to know the cost per pair.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "Dm7ZnF9Qn0",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1666795698487497/"
+      },
+      {
+        "id": "4FQpIhkolG",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Kendra Gibson\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666795698487497/\n\nPost Text:\nLooking for a reliable supplier who sells AirPod-style wireless earbuds that look similar to the originals. I'm interested in bulk pricing and would like to know the cost per pair.\nAlso, what other popular U.S. electronics do you offer that are similar in appearance to name-brand products? Please send me your product list, pictures, and wholesale pricing.\n\nIf anyone has recommendations or can connect me with a supplier, please let me know!\n\nLooking for a reliable supplier who sells AirPod-style wireless earbuds that look similar to the originals. I'm interested in bulk pricing and would like to know the cost per pair."
+      }
+    ],
+    "attachment": {
+      "name": "868061713_10165201551146005_4819116635784709205_n.jpg",
+      "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/868061713_10165201551146005_4819116635784709205_n.jpg?stp=cp1_dst-jpegr_e15_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=qOCfjnypM7EQ7kNvwHESUkn&_nc_oc=Adr4m5RG7GGBYhrM-nQxOHuqGM_SRdvGIyCdgUunItv0A5U7kSM0seF7aFKR6s6GMnI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-iad3-2.xx&_nc_gid=g_CN2PVyiMlB2le_8iXrag&_nc_ss=703ba&oh=00_AQOVMNEdXbISGt0ycl18KAqISEmYAccV51kxUCHxNxqnzg&oe=6AE6F81F"
+    }
+  },
+  {
+    "id": "FVpVarNhtHz8",
+    "time": 1793137526,
+    "expires": 1793180726,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: UnforgettableRambutan9879\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666817978485269/\n\nPost Text:\nI need this model for ladies xs,s &m for London, Uk\nThanks\n\nAdditional Images: https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/873202868_28879049121756912_1006332074719909729_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=MFo9qqLVZ5kQ7kNvwESVePx&_nc_oc=AdocybIt64FCdr0kemJ6OThqhY5n77QYiDKAGHiCy4TdTMQ7cHMMD8yO_WW41oyjyzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=0C5oDGBL_ZV9Vw2KMVGNnQ&_nc_ss=703ba&oh=00_AQRLLfEDBknFZAv-MQlXAgrjZnpntsMxlVp0DychE0fz0A&oe=6AE6FFC8, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/866079779_28879048625090295_2629365491277541729_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=tWvCSoUeW5MQ7kNvwHguguK&_nc_oc=AdqRrppVJl-y6bUqSSi_1qApVdT68CP4E1SLv7WKvlQenP8Cadcupg7fncPFlszq1f8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=0C5oDGBL_ZV9Vw2KMVGNnQ&_nc_ss=703ba&oh=00_AQTeQQU5pOCXaWsfSmyh0VIGyvflZGtLKq03-7_lyuQ3Zg&oe=6AE6FB2D, https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/864143183_28879048645090293_3323786248036320295_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=7JpaJC2NBbcQ7kNvwFxEnkH&_nc_oc=AdpxA8qA2IOKmzmj0PxyeWYescgDFYHrBrLvsh5UPXl_3jwkxcSyo8UaS3n3V_909OM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=0C5oDGBL_ZV9Vw2KMVGNnQ&_nc_ss=703ba&oh=00_AQRV81qeMCx3cYFzoATLBnU5CniqpKuyptJfHO3IhsvONg&oe=6AE6F0D3",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "B1PfpQibSZ",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1666817978485269/"
+      },
+      {
+        "id": "5TbR2Ln1BC",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: UnforgettableRambutan9879\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666817978485269/\n\nPost Text:\nI need this model for ladies xs,s &m for London, Uk\nThanks"
+      }
+    ],
+    "attachment": {
+      "name": "873202868_28879049121756912_1006332074719909729_n.jpg",
+      "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/873202868_28879049121756912_1006332074719909729_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=MFo9qqLVZ5kQ7kNvwESVePx&_nc_oc=AdocybIt64FCdr0kemJ6OThqhY5n77QYiDKAGHiCy4TdTMQ7cHMMD8yO_WW41oyjyzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=0C5oDGBL_ZV9Vw2KMVGNnQ&_nc_ss=703ba&oh=00_AQRLLfEDBknFZAv-MQlXAgrjZnpntsMxlVp0DychE0fz0A&oe=6AE6FFC8"
+    }
+  },
+  {
+    "id": "pMQjjc4INwWH",
+    "time": 1793144170,
+    "expires": 1793187370,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: ThrillingJackfruit6064\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666881678478899/\n\nPost Text:\nLooking for supplier for BMW Motorcycle. For wholesale",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "6Xh9YChLpq",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1666881678478899/"
+      },
+      {
+        "id": "P4SJqFHlv0",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: ThrillingJackfruit6064\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666881678478899/\n\nPost Text:\nLooking for supplier for BMW Motorcycle. For wholesale"
+      }
+    ]
+  },
+  {
+    "id": "j69I2vEJC8d4",
+    "time": 1793149040,
+    "expires": 1793192240,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: ResilientPapaya6870\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666941968472870/\n\nPost Text:\nHi,\nI am looking for supplier UGG authentic",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "jmP2axOkJD",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1666941968472870/"
+      },
+      {
+        "id": "qDOCc8k5gN",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: ResilientPapaya6870\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1666941968472870/\n\nPost Text:\nHi,\nI am looking for supplier UGG authentic"
+      }
+    ]
+  },
+  {
+    "id": "tQ23oScKoLlD",
+    "time": 1793152500,
+    "expires": 1793195700,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: SolidHedgehog7029\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/948610088019495/\n\nPost Text:\nLooking for a manufacturer in China that can make slimming tea or drink for a business venture.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "ph76o4ovUj",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/948610088019495/"
+      },
+      {
+        "id": "sjuuhHsSIg",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: SolidHedgehog7029\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/948610088019495/\n\nPost Text:\nLooking for a manufacturer in China that can make slimming tea or drink for a business venture."
+      }
+    ]
+  },
+  {
+    "id": "So2ghOhakZbC",
+    "time": 1793154205,
+    "expires": 1793197405,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Abraham Nxumalo\nPoster URL: https://m.facebook.com/profile.php?id=61589453436191\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/948627601351077/\n\nPost Text:\nLooking for a partnership with a  construction trucks and materials supplier ,goods to be paid upon delivery after proper agreement \n\n+27693090645",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "SrduiVXEBc",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/948627601351077/"
+      },
+      {
+        "id": "yAAUzqbZFs",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Abraham Nxumalo\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/948627601351077/\n\nPost Text:\nLooking for a partnership with a  construction trucks and materials supplier ,goods to be paid upon delivery after proper agreement \n\n+27693090645"
+      }
+    ]
+  },
+  {
+    "id": "2L21fgQO2zU0",
+    "time": 1793154206,
+    "expires": 1793197406,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Abraham Nxumalo\nPoster URL: https://m.facebook.com/profile.php?id=61589453436191\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667003228466744/\n\nPost Text:\nLooking for a partnership with a  construction trucks and materials supplier ,goods to be paid upon delivery after proper agreement \n\n+27693090645",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "HhjnL4fjb1",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1667003228466744/"
+      },
+      {
+        "id": "CukUdGD23u",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Abraham Nxumalo\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667003228466744/\n\nPost Text:\nLooking for a partnership with a  construction trucks and materials supplier ,goods to be paid upon delivery after proper agreement \n\n+27693090645"
+      }
+    ]
+  },
+  {
+    "id": "UhxdqdJmSemc",
+    "time": 1793154446,
+    "expires": 1793197646,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Riccardo Bruscemi\nPoster URL: https://m.facebook.com/riki.bruscemi/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667005735133160/\n\nPost Text:\nI need agent for this products Max 18 usd have much orders to Ship",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "fvq92T6z4U",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1667005735133160/"
+      },
+      {
+        "id": "0zbMTZxVsT",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Riccardo Bruscemi\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667005735133160/\n\nPost Text:\nI need agent for this products Max 18 usd have much orders to Ship"
+      }
+    ],
+    "attachment": {
+      "name": "865968846_29473643715576109_3288482283097204718_n.jpg",
+      "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/865968846_29473643715576109_3288482283097204718_n.jpg?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=xVYv5PTeLw8Q7kNvwG8RTmk&_nc_oc=AdoZ9rH9P_mW6dOlZs6wKohuScDn6pnbVIzl89v7xpRq9WkBR5QloNyhWu60qjwOA80&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=XxXHThunWoqW8_zpZwbJrg&_nc_ss=703ba&oh=00_AQQQtDLa1w_Axtpc-w4ppv3PcrJPmdw65P5CHR3vlfLcJw&oe=6AE718F6"
+    }
+  },
+  {
+    "id": "ZEolR7klt7RZ",
+    "time": 1793154668,
+    "expires": 1793197868,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Abraham Nxumalo\nPoster URL: https://m.facebook.com/profile.php?id=61589453436191\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667007341799666/\n\nPost Text:\nLooking for a supplier of mining materials ,to form a partnership for long term deals , payment upon arrival of goods .\n\nWhatsApp +27693090645",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "DnHjCWY0FC",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1667007341799666/"
+      },
+      {
+        "id": "G5zOUqPz1b",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Abraham Nxumalo\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667007341799666/\n\nPost Text:\nLooking for a supplier of mining materials ,to form a partnership for long term deals , payment upon arrival of goods .\n\nWhatsApp +27693090645"
+      }
+    ]
+  },
+  {
+    "id": "NiBn6S3W9gq8",
+    "time": 1793158638,
+    "expires": 1793201838,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667054345128299/\n\nPost Text:\nHello everyone I’m searching for Luxury bag and shoes supplier that support dropshipping . Please inbox me immediately 谢 谢 \n\nWA: +84 90 557 34 06",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "JqWltTzScw",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1667054345128299/"
+      },
+      {
+        "id": "szcokNg3n7",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667054345128299/\n\nPost Text:\nHello everyone I?m searching for Luxury bag and shoes supplier that support dropshipping . Please inbox me immediately ? ? \n\nWA: +84 90 557 34 06"
+      }
+    ]
+  },
+  {
+    "id": "moc3bMuofyaM",
+    "time": 1793158895,
+    "expires": 1793202095,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667056345128099/\n\nPost Text:\nI'm looking for supplier who can provide branded bags, shoes, and accessories with competitive prices and good quality. If you offer these products, pls leave a comment.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "nOmN6pgEPM",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1667056345128099/"
+      },
+      {
+        "id": "eqNYDZurvj",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1667056345128099/\n\nPost Text:\nI'm looking for supplier who can provide branded bags, shoes, and accessories with competitive prices and good quality. If you offer these products, pls leave a comment."
+      }
+    ]
+  }
+]
