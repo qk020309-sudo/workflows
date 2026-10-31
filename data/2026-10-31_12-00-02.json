@@ -1,0 +1,264 @@
+[
+  {
+    "id": "yncoAejC4ugo",
+    "time": 1793376103,
+    "expires": 1793419303,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Mae May\nPoster URL: https://m.facebook.com/profile.php?id=61585755625664\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669687291531671/\n\nPost Text:\nSofa Collapsable Storage Box \nNeed 1,000 pcs \nBudget 10rmb/yuan\n\nAdditional Images: https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/875874660_122162190045191854_3479013530746802289_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=9-bYf-_NO54Q7kNvwF9CGGY&_nc_oc=Ado7TRY6aT2oiwOpvSMAL38EdlAUOWzR-jiDwlDhVfLjQyPFnM_KHb9arlg5H2otAS8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=fQ_kezsOm-Hfnn1qqgFjFg&_nc_ss=703ba&oh=00_AQTcDKEktFEuohmu0kFZYv2R1kv4WjZQmfHDBXSwM3Q1qw&oe=6AEAA51C, https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/870669552_122162190075191854_618648270788779133_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=2E-2HdbtAHsQ7kNvwE4AUMf&_nc_oc=Adoq-OOa2kkYX2vJK_tT1GH-zQCzFKwpA4tzCiwTeP7YVDwIeMPa-iz_95StD2nqXsA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=fQ_kezsOm-Hfnn1qqgFjFg&_nc_ss=703ba&oh=00_AQSVvQUjy38xnNcQIKnUbfR5IIztA4cla7NQ2ZS7oT4IIA&oe=6AEAAC16, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/872596578_122162190141191854_806684021505001872_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=WRVktIOfxxQQ7kNvwHw3C6F&_nc_oc=AdpRBVZHPYd5zknpy5ek3naiA_nxqDtGH3GTiR4VB-cuUYS14Kgq0A_8y-TqrpZyw6k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=fQ_kezsOm-Hfnn1qqgFjFg&_nc_ss=703ba&oh=00_AQQdqZXakhrcWQf28QOJVBkEOhg8w4CAouFhfzm2Ova-ww&oe=6AEA8C7E, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/870640891_122162190171191854_6162415909090986800_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=cHTD-UX34toQ7kNvwE1fDl9&_nc_oc=Adpx8fJ3atKZLh1c0RSsdGlGtvVQQyq15t70FL2KF5K6tz_6psEB3QbTx9Zuvm_mbkk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=fQ_kezsOm-Hfnn1qqgFjFg&_nc_ss=703ba&oh=00_AQTTYE9JEcrMdIYIIdNqP3zElmiLRzDoB1RccABqAPaCiA&oe=6AEA87EC",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "mDilbT8kJR",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1669687291531671/"
+      },
+      {
+        "id": "YU0FCOqZQ3",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Mae May\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669687291531671/\n\nPost Text:\nSofa Collapsable Storage Box \nNeed 1,000 pcs \nBudget 10rmb/yuan"
+      }
+    ],
+    "attachment": {
+      "name": "875874660_122162190045191854_3479013530746802289_n.jpg",
+      "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/875874660_122162190045191854_3479013530746802289_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=9-bYf-_NO54Q7kNvwF9CGGY&_nc_oc=Ado7TRY6aT2oiwOpvSMAL38EdlAUOWzR-jiDwlDhVfLjQyPFnM_KHb9arlg5H2otAS8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=fQ_kezsOm-Hfnn1qqgFjFg&_nc_ss=703ba&oh=00_AQTcDKEktFEuohmu0kFZYv2R1kv4WjZQmfHDBXSwM3Q1qw&oe=6AEAA51C"
+    }
+  },
+  {
+    "id": "E1eWdWInZf7L",
+    "time": 1793380660,
+    "expires": 1793423860,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669753561525044/\n\nPost Text:\nHello everyone,\n\nI am looking for reliable China trade data suppliers specializing in the **Thobe / Kandura / Dishdasha / Jubah (Middle Eastern men's wear)** industry.\n\nI am interested in:\n* Chinese exporter data\n* Overseas importer/buyer data\n* Shipment and purchasing records\n* HS Codes 620520, 620530 and related products\n\nIf you sell this type of data or can recommend a trusted supplier, please send me a private message.\n\nThank you.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "FGRgrv3HCI",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1669753561525044/"
+      },
+      {
+        "id": "JYYCVVu1jl",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669753561525044/\n\nPost Text:\nHello everyone,\n\nI am looking for reliable China trade data suppliers specializing in the **Thobe / Kandura / Dishdasha / Jubah (Middle Eastern men's wear)** industry.\n\nI am interested in:\n* Chinese exporter data\n* Overseas importer/buyer data\n* Shipment and purchasing records\n* HS Codes 620520, 620530 and related products\n\nIf you sell this type of data or can recommend a trusted supplier, please send me a private message.\n\nThank you."
+      }
+    ],
+    "attachment": {
+      "name": "868922494_1658832895610225_5508490598202942634_n.webp",
+      "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/868922494_1658832895610225_5508490598202942634_n.webp?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=DQJvABcOwWcQ7kNvwFV7sb3&_nc_oc=Adr9qIwr1lgBjkdOcquDJ2LsdraMpA2OCBPBl7mLsKDFKBh2NgtZ2cS0sH62GznSdtk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=F4azRzme0AAWRffR-CQY9w&_nc_ss=703ba&oh=00_AQROtK3Kde0iuB_1HdtZ5K4oIkYly2WldFXLK4UaIL9E9w&oe=6AEAAC78"
+    }
+  },
+  {
+    "id": "OuOZhMW6nkGv",
+    "time": 1793383165,
+    "expires": 1793426365,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: DecisiveLion2870\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669784484855285/\n\nPost Text:\nlooking for agent based in Yiwu.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "JNqSmkvk6p",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1669784484855285/"
+      },
+      {
+        "id": "atuBvLuIRS",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: DecisiveLion2870\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669784484855285/\n\nPost Text:\nlooking for agent based in Yiwu."
+      }
+    ]
+  },
+  {
+    "id": "pgcGvlxghmqo",
+    "time": 1793383390,
+    "expires": 1793426590,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Ahmad Butt\nPoster URL: https://m.facebook.com/profile.php?id=61580074802352\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669787111521689/\n\nPost Text:\nI am looking for a Chinese supplier who has stock available in a US warehouse.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "dF0gf2eHGW",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1669787111521689/"
+      },
+      {
+        "id": "HgudNNmYgC",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Ahmad Butt\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669787111521689/\n\nPost Text:\nI am looking for a Chinese supplier who has stock available in a US warehouse."
+      }
+    ]
+  },
+  {
+    "id": "lnR2SQzb6jN4",
+    "time": 1793386163,
+    "expires": 1793429363,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669819638185103/\n\nPost Text:\nI'm looking for pure copper that ships to philippine I buy 50kg first if the copper is good I buy 700kg next ty.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "EC7dhl6LGk",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1669819638185103/"
+      },
+      {
+        "id": "rYVz8ch6sn",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669819638185103/\n\nPost Text:\nI'm looking for pure copper that ships to philippine I buy 50kg first if the copper is good I buy 700kg next ty."
+      }
+    ]
+  },
+  {
+    "id": "lOzuF7oTNwrL",
+    "time": 1793388205,
+    "expires": 1793431405,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: PrettyElephant3367\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669844764849257/\n\nPost Text:\nHello Im still looking for a supplier manufacturer of Cluster eyelashes in china to philippines, willing to get a boxes of orders",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "ODRbBVuG63",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1669844764849257/"
+      },
+      {
+        "id": "X8R6JKlCPD",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: PrettyElephant3367\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669844764849257/\n\nPost Text:\nHello Im still looking for a supplier manufacturer of Cluster eyelashes in china to philippines, willing to get a boxes of orders"
+      }
+    ]
+  },
+  {
+    "id": "zEMGzkrUapFH",
+    "time": 1793396345,
+    "expires": 1793439545,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Shipping Agents\nPosted By: Pio Patrizzi\nPoster URL: https://m.facebook.com/profile.php?id=61576493092117\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/356642721512782/permalink/2517730172070682/\n\nPost Text:\n**LOOKING FOR SUPPLIERS – GLOSSY PUFFER JACKETS 🧥🔥**\n\nHello everyone!\n\nWe are looking for reliable suppliers or private agents who can source trendy **high-gloss / shiny puffer jackets** for our e-commerce business.\n\n**Colors we're interested in:**\n* Glossy Black 🖤\n* Shiny Red ❤️\n* Burgundy / Wine Red 🍷\n* Other trending colors\n\n**Requirements:**\n* Modern oversized / streetwear styles\n* High-quality glossy material\n* Competitive prices\n* Fast shipping to Germany and other EU countries\n* No MOQ preferred (dropshipping)\n* Product photos and videos available\n\nPlease send me your **catalog, product prices, shipping times and sourcing options** via DM.\n\nReference pictures attached.\n\nThank you!\n\nAdditional Images: https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/867636829_122135082854883103_3698349826445699997_n.webp?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=jigjga1rBc4Q7kNvwEoH15E&_nc_oc=AdrxoOxx5Kgd4D_1jyxPPwHbHpiosuQrOREiIYa5Ms3T41hI6RDhGTgr3rEY-1xS2So&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=xNs1TWgzvfIJ1fjdoqVlTg&_nc_ss=703ba&oh=00_AQSOPM341hFADxc0QmpeOwzTvmswk8b3v5Vb_Db6l2ExLQ&oe=6AEADD43, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/860004524_122135082932883103_413744085169315546_n.webp?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=l_eZ36-vLEkQ7kNvwHqEMfR&_nc_oc=AdrvZGbfxqJjkhhBn5GI4MyVczHkqx1sfVIsS2vmICEbrp51aBrn5tls0_nAg2R4dx0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=xNs1TWgzvfIJ1fjdoqVlTg&_nc_ss=703ba&oh=00_AQQrWDbpqqN3P-rBbu-haSj5pYKfvyZVF3PgoBrXRpcBgQ&oe=6AEAF798",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "1AA9JXOeXJ",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/356642721512782/permalink/2517730172070682/"
+      },
+      {
+        "id": "mJkLqhSeBQ",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Shipping Agents\nGroup URL: https://www.facebook.com/groups/356642721512782\nPoster Name: Pio Patrizzi\nPost URL: https://m.facebook.com/groups/356642721512782/permalink/2517730172070682/\n\nPost Text:\n**LOOKING FOR SUPPLIERS ? GLOSSY PUFFER JACKETS ????**\n\nHello everyone!\n\nWe are looking for reliable suppliers or private agents who can source trendy **high-gloss / shiny puffer jackets** for our e-commerce business.\n\n**Colors we're interested in:**\n* Glossy Black ??\n* Shiny Red ??\n* Burgundy / Wine Red ??\n* Other trending colors\n\n**Requirements:**\n* Modern oversized / streetwear styles\n* High-quality glossy material\n* Competitive prices\n* Fast shipping to Germany and other EU countries\n* No MOQ preferred (dropshipping)\n* Product photos and videos available\n\nPlease send me your **catalog, product prices, shipping times and sourcing options** via DM.\n\nReference pictures attached.\n\nThank you!"
+      }
+    ],
+    "attachment": {
+      "name": "867636829_122135082854883103_3698349826445699997_n.webp",
+      "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/867636829_122135082854883103_3698349826445699997_n.webp?stp=cp0_dst-jpg_e48_q65_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=jigjga1rBc4Q7kNvwEoH15E&_nc_oc=AdrxoOxx5Kgd4D_1jyxPPwHbHpiosuQrOREiIYa5Ms3T41hI6RDhGTgr3rEY-1xS2So&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=xNs1TWgzvfIJ1fjdoqVlTg&_nc_ss=703ba&oh=00_AQSOPM341hFADxc0QmpeOwzTvmswk8b3v5Vb_Db6l2ExLQ&oe=6AEADD43"
+    }
+  },
+  {
+    "id": "rnj5EcRdSQLF",
+    "time": 1793403562,
+    "expires": 1793446762,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: ERen Bingöl\nPoster URL: https://m.facebook.com/erenbingol/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669999904833743/\n\nPost Text:\nLOOKING FOR DIRECT CHINESE MANUFACTURERS & SUPPLIERS FOR THE TURKISH MARKET | LONG-TERM BUSINESS PARTNERSHIP\n\nHello everyone,\n\nWe are an e-commerce business operating in Turkey, selling through our own online store powered by Shopify.\n\nWe are currently looking for reliable manufacturers and direct suppliers based in China who can provide a complete fulfillment solution for the Turkish market.\n\nOur goal is to establish long-term, stable, and mutually profitable business partnerships.\n\nOUR BUSINESS MODEL\n\nWe are specifically looking for a China-to-Turkey Direct-to-Customer Fulfillment / Dropshipping model.\n\nWe want our business partners to handle the entire process, starting from product manufacturing or sourcing in China and ending with delivery to the final customer’s address in Turkey.\n\nWe do NOT want to hold inventory, operate a warehouse, pack orders, or handle shipping ourselves.\n\nWHAT WE EXPECT FROM OUR SUPPLIERS\n\n1. Products and Manufacturing\n\n* Direct manufacturers or reliable s...",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "9RgYq20wMI",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1669999904833743/"
+      },
+      {
+        "id": "X8Vq8YAZNY",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: ERen Bing�l\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1669999904833743/\n\nPost Text:\nLOOKING FOR DIRECT CHINESE MANUFACTURERS & SUPPLIERS FOR THE TURKISH MARKET | LONG-TERM BUSINESS PARTNERSHIP\n\nHello everyone,\n\nWe are an e-commerce business operating in Turkey, selling through our own online store powered by Shopify.\n\nWe are currently looking for reliable manufacturers and direct suppliers based in China who can provide a complete fulfillment solution for the Turkish market.\n\nOur goal is to establish long-term, stable, and mutually profitable business partnerships.\n\nOUR BUSINESS MODEL\n\nWe are specifically looking for a China-to-Turkey Direct-to-Customer Fulfillment / Dropshipping model.\n\nWe want our business partners to handle the entire process, starting from product manufacturing or sourcing in China and ending with delivery to the final customer?s address in Turkey.\n\nWe do NOT want to hold inventory, operate a warehouse, pack orders, or handle shipping ourselves.\n\nWHAT WE EXPECT FROM OUR SUPPLIERS\n\n1. Products and Manufacturing\n\n* Direct manufacturers or reliable suppliers working directly with manufacturers.\n* Updated product catalogs and wholesale price lists.\n* Competitive factory or wholesale pricing.\n* Low-MOQ options for initial product testing.\n* Better pricing as our order volume increases.\n\n2. Direct Shipping to Customers in Turkey\n\n* Shipping individual orders directly from China to our customers in Turkey.\n* Full order fulfillment services.\n* Product inspection, preparation, packaging, and dispatch.\n* Reliable and trackable international shipping options.\n* Clear average delivery times and shipping schedules.\n\n3. FULL COST TRANSPARENCY\n\nThis is one of the most important requirements for us.\n\nWe need a clear breakdown of ALL costs per order, including:\n\n* Product unit price.\n* Packaging and labeling costs.\n* Order processing and fulfillment fees.\n* Warehousing or handling fees, if applicable.\n* Domestic transportation within China.\n* International shipping costs.\n* Turkish customs clearance fees.\n* Import duties and import VAT.\n* Customs brokerage and other import-related charges.\n* Final-mile delivery costs in Turkey.\n* Return, replacement, and damaged-product handling costs.\n\nOur preferred solution is a complete DDP (Delivered Duty Paid) door-to-door shipping service, with all applicable customs duties and import taxes included in the quoted price.\n\nIf you cannot provide DDP shipping, please clearly explain which costs are covered by your company, which are payable by us, and which may be charged to the customer in Turkey.\n\nWe need to know the actual landed cost per order before starting cooperation.\n\n4. Shopify Integration and Automated Inventory Management\n\nThis is a critical requirement for our long-term business model.\n\n* Do you support direct Shopify integration?\n* Can your system connect through API, XML, CSV, or a Shopify app?\n* Can product inventory and prices synchronize automatically?\n* Can orders from our Shopify store be transferred automatically to your fulfillment system?\n* Can tracking numbers and shipping updates be synchronized with Shopify?\n* Do you have a B2B supplier portal or centralized order management dashboard?\n\nWe strongly prefer an automated system rather than manually processing every order.\n\n5. Packaging and Private Label Services\n\n* Secure packaging to prevent damage during international shipping.\n* Neutral packaging without your company branding.\n* Private labeling and custom packaging with our brand.\n* No promotional materials, advertisements, or supplier pricing inside customer packages.\n\n6. Returns, Incorrect Orders and Damaged Products\n\n* What is your procedure if the wrong product is shipped?\n* What happens if a product arrives damaged or defective?\n* Can you provide refunds or replacement products?\n* Who covers the additional shipping costs?\n* Do you have a return address or return center in Turkey?\n* What are your return and exchange policies?\n\n7. Company Information and Commercial Documentation\n\n* Please provide your company?s legal business information.\n* If you are a manufacturer, please share your factory and production details.\n* Can you issue the necessary commercial invoices and customs documentation?\n* Do you have previous experience shipping individual orders directly to customers in Turkey?\n\nOUR LONG-TERM PARTNERSHIP GOAL\n\nInitially, we plan to test selected products to evaluate product quality, pricing, delivery performance, and fulfillment services.\n\nIf we can agree on competitive prices and reliable operating conditions, we are not looking for a one-time transaction.\n\nWe want to build a long-term business relationship and gradually increase our order volume, creating a sustainable and profitable partnership for both sides.\n\nIMPORTANT REQUIREMENT\n\nWe are ONLY interested in manufacturers and suppliers based in China who can ship products directly from China to the final customer?s address in Turkey and manage the complete fulfillment process, including product sourcing or manufacturing, packaging, international shipping, customs procedures, and final delivery.\n\nCompanies that only sell products, provide domestic shipping within China, or cannot deliver directly to customers in Turkey are NOT suitable for our business model.\n\nIf your company can support this model, please contact me via private message with:\n\n* Company introduction.\n* Product catalog.\n* Wholesale price list.\n* Shipping and DDP service details for Turkey.\n* Shopify integration capabilities.\n* Fulfillment and return policies.\n\nWe look forward to building reliable, long-term, and mutually beneficial business partnerships.\n\nThank you!"
+      }
+    ]
+  },
+  {
+    "id": "zYmk9oxXryh0",
+    "time": 1793416763,
+    "expires": 1793459963,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Dav_9346\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1822259608918309/\n\nPost Text:\nI am looking for a supplier of original refurbished iPhones.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "DriWqE6Ndz",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1822259608918309/"
+      },
+      {
+        "id": "oJgRfaIuT4",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Dav_9346\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1822259608918309/\n\nPost Text:\nI am looking for a supplier of original refurbished iPhones."
+      }
+    ]
+  },
+  {
+    "id": "aFU2Wekn2hH9",
+    "time": 1793416765,
+    "expires": 1793459965,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China dropshipping supplier\nPosted By: Jordan Banks\nPoster URL: https://m.facebook.com/profile.php?id=61578136784019\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1822177605593176/\n\nPost Text:\n🚗 **Looking for Reliable Auto Parts Suppliers**\n\nHi everyone!\n\nI'm currently looking to connect with reliable suppliers, wholesalers, and distributors in the automotive parts industry.\n\nI'm interested in building long-term business relationships with suppliers who can offer:\n* Competitive wholesale pricing.\n* Consistent product availability.\n* Quality auto parts.\n* A wide range of vehicle parts and accessories.\n* Reliable shipping and fulfillment.\n* Direct communication and professional service.\n\nIf you're a supplier, manufacturer, wholesaler, or distributor, please comment below or send me a private message.\n\nPlease include:\n1. Your company name and location.\n2. The types of auto parts you supply.\n3. Your product catalog or website.\n4. Whether you offer wholesale or bulk pricing.\n\nI'm interested in serious business opportunities and long-term partnerships.\n\nThank you!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "Y9OMNAMqMg",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1822177605593176/"
+      },
+      {
+        "id": "h94so0iJUK",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China dropshipping supplier\nGroup URL: https://www.facebook.com/groups/601856217625327\nPoster Name: Jordan Banks\nPost URL: https://m.facebook.com/groups/chinadropshippingsuppliers/permalink/1822177605593176/\n\nPost Text:\n?? **Looking for Reliable Auto Parts Suppliers**\n\nHi everyone!\n\nI'm currently looking to connect with reliable suppliers, wholesalers, and distributors in the automotive parts industry.\n\nI'm interested in building long-term business relationships with suppliers who can offer:\n* Competitive wholesale pricing.\n* Consistent product availability.\n* Quality auto parts.\n* A wide range of vehicle parts and accessories.\n* Reliable shipping and fulfillment.\n* Direct communication and professional service.\n\nIf you're a supplier, manufacturer, wholesaler, or distributor, please comment below or send me a private message.\n\nPlease include:\n1. Your company name and location.\n2. The types of auto parts you supply.\n3. Your product catalog or website.\n4. Whether you offer wholesale or bulk pricing.\n\nI'm interested in serious business opportunities and long-term partnerships.\n\nThank you!"
+      }
+    ]
+  }
+]
