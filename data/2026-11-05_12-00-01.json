@@ -1,0 +1,243 @@
+[
+  {
+    "id": "FnCTZOf3LsHN",
+    "time": 1793811449,
+    "expires": 1793854649,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: IntelligentParsnip8740\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674867987680268/\n\nPost Text:\nI am looking for a factory that is selling or liquidating steering wheels for Audi. I can pay 60$ per unit excluding shipping. The steering wheel must match the ones you can see in the images. I am looking for 5 units of each style. Please comment ONLY if you have this style at my target price. If not it’s not necessary to comment I will not answer. Thanks!\n\nAdditional Images: https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886224752_28813493891634796_8318960762158326108_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=knMELbjTkQMQ7kNvwG07iNG&_nc_oc=AdrrvtRYI5i3fBrencDM9PEY8SYNA_79G4SMFA4LE1f2X9L8xYe0yzV3FOfWq3G_DnQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=36VEJaDq-AmEf6N5bpKA8Q&_nc_ss=703ba&oh=00_AQRgiRFsX2UqIy2DKHHo74-vDtIBO22MyAWA53eiDR8Mvw&oe=6AF14A73, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886262021_28813494344968084_8227918589736006113_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=gL2tiKykTzEQ7kNvwF7dROO&_nc_oc=AdppN3cJhUNsIcGr6fiBPmlddppRpHLDDX0Kifh-PpU9EQd-fMQ1chPhlTmYzS1o02o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=36VEJaDq-AmEf6N5bpKA8Q&_nc_ss=703ba&oh=00_AQQqz3EuYty6_GhHkvv9hb3SYkvbN1brcf8hi2vSvfn0YQ&oe=6AF13E26, https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/890970415_28813493911634794_8570959757663715292_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=3q7Sh6ocDe4Q7kNvwGHXTBw&_nc_oc=AdqytbgjJ2BqOLtot4RbZ2yxSbD8lmuLXchXohg_MH6l4rR0aju5fpdnXDntIOybG1o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=36VEJaDq-AmEf6N5bpKA8Q&_nc_ss=703ba&oh=00_AQTHqUO3OO7RtRRfGRUmPcTkcEjN_kBq3dzeSnCgU-Q6jQ&oe=6AF1348A, https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/891895422_28813494391634746_5145501573075965459_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=2mVY80wt3ZgQ7kNvwH8v-qd&_nc_oc=Ado3XomTrh3VX9iOMF0Aji3Ai8IphlC-PvkjxYkt3tOjfgE3Wd44jiUfsMtbw8PRFtI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=36VEJaDq-AmEf6N5bpKA8Q&_nc_ss=703ba&oh=00_AQQSV_Gh5Ntr20Lde-ls74nYu8_UjNAevIxcgrKJyLinFA&oe=6AF12B63",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "vytFe9QHM9",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1674867987680268/"
+      },
+      {
+        "id": "GHfdj6jaxi",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: IntelligentParsnip8740\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674867987680268/\n\nPost Text:\nI am looking for a factory that is selling or liquidating steering wheels for Audi. I can pay 60$ per unit excluding shipping. The steering wheel must match the ones you can see in the images. I am looking for 5 units of each style. Please comment ONLY if you have this style at my target price. If not it?s not necessary to comment I will not answer. Thanks!"
+      }
+    ],
+    "attachment": {
+      "name": "886224752_28813493891634796_8318960762158326108_n.jpg",
+      "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886224752_28813493891634796_8318960762158326108_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=knMELbjTkQMQ7kNvwG07iNG&_nc_oc=AdrrvtRYI5i3fBrencDM9PEY8SYNA_79G4SMFA4LE1f2X9L8xYe0yzV3FOfWq3G_DnQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=36VEJaDq-AmEf6N5bpKA8Q&_nc_ss=703ba&oh=00_AQRgiRFsX2UqIy2DKHHo74-vDtIBO22MyAWA53eiDR8Mvw&oe=6AF14A73"
+    }
+  },
+  {
+    "id": "q0VJwSmtNAhp",
+    "time": 1793812533,
+    "expires": 1793855733,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: IntelligentParsnip8740\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/955677337312770/\n\nPost Text:\nHello I am looking a steering wheel factory that is liquidating it’s stock. I am looking for Audi steering wheels, carbon fiber style (not real carbon fiber). My budget is 60$ per unit for the style you see in images. \nContact me ONLY if you have the exact same designs within my budget.\n\nAdditional Images: https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/890378835_28813681348282717_1972095251058292826_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ulUNv-ewzhEQ7kNvwESNk-q&_nc_oc=AdrB90AxSWoAPkiryof8vQM3s-F9OFO7rEBSG5ITyE7VzJRXiIVH4GvvfO68cGqty-o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=FcILFG35zdiFuZGcc7clzA&_nc_ss=703ba&oh=00_AQSSzGH0PK6nNrxsBcUPFPHZJK_ymEr-2hVpniZep1P3fQ&oe=6AF12876, https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/885420660_28813681904949328_1381726718876120154_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ErsoDxaOBpEQ7kNvwHVTe9m&_nc_oc=Adobq-ITGX38IO0IqpGIlT936hfjNLDKIHFbGawO7kHl9_lxxFNAFIOB-743f0jOR4w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=FcILFG35zdiFuZGcc7clzA&_nc_ss=703ba&oh=00_AQSo13yKAT_OgZwJxlgp20dosp8IALbCn6MpJhEpboAP1g&oe=6AF144BB, https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/886519555_28813681741616011_3714027118117154774_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=fs1HK8oupecQ7kNvwFGXct-&_nc_oc=Adr-D7t-VC1i11OOKmVymknNY02nKK3yTJ_nea69l_w_2bWutynrLZq57s-LflUtBY8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=FcILFG35zdiFuZGcc7clzA&_nc_ss=703ba&oh=00_AQQON7qyAFLKk9oEWjgYzrr7WH-vLMv7xfBWgcWOQyMlvg&oe=6AF12289, https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/888725130_28813681294949389_8563875560957126979_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=XfG3-YapM6kQ7kNvwFrT2C-&_nc_oc=AdpoNRfontLPniAsEzu_iEHHOla36gRifm7lRvq72xetG4jUe9Hlg-h9oK1ShV-eZlI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=FcILFG35zdiFuZGcc7clzA&_nc_ss=703ba&oh=00_AQS_87tLoa9svuP7EAr2f1qcI-rKFcB17aYqkBIW7_3wJg&oe=6AF12721",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "pvxLxVJ3ZY",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/955677337312770/"
+      },
+      {
+        "id": "FOGof6nBmk",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: IntelligentParsnip8740\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/955677337312770/\n\nPost Text:\nHello I am looking a steering wheel factory that is liquidating it?s stock. I am looking for Audi steering wheels, carbon fiber style (not real carbon fiber). My budget is 60$ per unit for the style you see in images. \nContact me ONLY if you have the exact same designs within my budget."
+      }
+    ],
+    "attachment": {
+      "name": "890378835_28813681348282717_1972095251058292826_n.jpg",
+      "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/890378835_28813681348282717_1972095251058292826_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ulUNv-ewzhEQ7kNvwESNk-q&_nc_oc=AdrB90AxSWoAPkiryof8vQM3s-F9OFO7rEBSG5ITyE7VzJRXiIVH4GvvfO68cGqty-o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=FcILFG35zdiFuZGcc7clzA&_nc_ss=703ba&oh=00_AQSSzGH0PK6nNrxsBcUPFPHZJK_ymEr-2hVpniZep1P3fQ&oe=6AF12876"
+    }
+  },
+  {
+    "id": "Y2eA6BGY77DT",
+    "time": 1793816128,
+    "expires": 1793859328,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674934837673583/\n\nPost Text:\nLF: SUPPLIER SIFT WAND\nsift want for matcha usually from thailand and china\n\nAdditional Images: https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/890121803_4543782782548783_7968693411856123003_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=C7hLlxcBoxUQ7kNvwF5uXO2&_nc_oc=AdpESpOkYuoT8v7ASv9RBQvMrKkLSO35h6zdqpieB2oxeG7htC8WlmVkdsmTBRShuWw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=h1s8ZHy-mWYYBne_RUgCOg&_nc_ss=703ba&oh=00_AQQAtRpJ7MPExkNcrjBjcFzHro7cTDZh0nJZeWF-sB6OFw&oe=6AF1524A, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/889971546_4543782785882116_9076409486421876026_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=KH4z22g0dTQQ7kNvwGODM-K&_nc_oc=AdqJprn_O_tbDF1dNsoplyd9U2k0grY6OMpphmStn9jGJ8LJEAfRRdpmoPXyME3vNQA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=h1s8ZHy-mWYYBne_RUgCOg&_nc_ss=703ba&oh=00_AQRJsJgDeFzbC0f8z5bWcqturq-uZJpyVoJNvtw-eHpdhw&oe=6AF1364B",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "L9Q968GriL",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1674934837673583/"
+      },
+      {
+        "id": "06YOQhk4Ap",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674934837673583/\n\nPost Text:\nLF: SUPPLIER SIFT WAND\nsift want for matcha usually from thailand and china"
+      }
+    ],
+    "attachment": {
+      "name": "890121803_4543782782548783_7968693411856123003_n.jpg",
+      "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/890121803_4543782782548783_7968693411856123003_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=C7hLlxcBoxUQ7kNvwF5uXO2&_nc_oc=AdpESpOkYuoT8v7ASv9RBQvMrKkLSO35h6zdqpieB2oxeG7htC8WlmVkdsmTBRShuWw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=h1s8ZHy-mWYYBne_RUgCOg&_nc_ss=703ba&oh=00_AQQAtRpJ7MPExkNcrjBjcFzHro7cTDZh0nJZeWF-sB6OFw&oe=6AF1524A"
+    }
+  },
+  {
+    "id": "O0Tc17qOllI2",
+    "time": 1793817729,
+    "expires": 1793860929,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674952484338485/\n\nPost Text:\nSUPPLIER FOR THIS KIND OF STRAW\n15cm straw\n\nAdditional Images: https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/887902122_4543805619213166_4417787949696078714_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Zs1AcpFZCsEQ7kNvwGxmVo0&_nc_oc=Adpkt5X9_1jGJEe_D8o_x4rb0BVxcCbgtBhgTztCeO8KDlmZxSjkiBLcKhzMQCStnJc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Lpo0zPGrpA8X5_RDXQLdrQ&_nc_ss=703ba&oh=00_AQRWmVXgMkwy1M6q_UXclP6IYn4N7hD9d5ZvlWNLFo7Ksw&oe=6AF15A0B, https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/887515228_4543805722546489_5247025366629394782_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=VoGpYyzBGgAQ7kNvwEWM3o7&_nc_oc=AdrPwgy-xSuI-VBYOExG98nDXpb_CW_AH9EKLHiZLIxVoK79T-yahQoG7cceyaxOK7M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Lpo0zPGrpA8X5_RDXQLdrQ&_nc_ss=703ba&oh=00_AQSFumo-lJm88T21JALcn_lTHbx4-aaNUzWEJlJ9XClLjQ&oe=6AF1343A, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886706119_4543805622546499_9008331376609975175_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_Tu5PZeY5sEQ7kNvwGuPDMY&_nc_oc=AdocCRFpa1aNjFmPdtaWafthDUzmsYygUjf5BmzEcdCNvBonfqINmtOKYZnRZYfSiys&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Lpo0zPGrpA8X5_RDXQLdrQ&_nc_ss=703ba&oh=00_AQQ2mZpWeLfMaZ_T5BM0XqypEj5klWqjbcEhs9Vxk3SrBQ&oe=6AF15CC4, https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/887011585_4543805725879822_5094613197564949816_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ZNkuFme7FcYQ7kNvwG7W94V&_nc_oc=AdpcSI5sUMaKpsf4jzvrKJoPcCwecByF2-MdvQAJXinRaN2js0HSfuitUE3AZYIqpQ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Lpo0zPGrpA8X5_RDXQLdrQ&_nc_ss=703ba&oh=00_AQROhWqh2rVeZ2u_SCMIAUpw50bW0MNG77PZLx1W62FfyQ&oe=6AF15DB8",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "vdyjb1PcJT",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1674952484338485/"
+      },
+      {
+        "id": "7vJPcQwFSi",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674952484338485/\n\nPost Text:\nSUPPLIER FOR THIS KIND OF STRAW\n15cm straw"
+      }
+    ],
+    "attachment": {
+      "name": "887902122_4543805619213166_4417787949696078714_n.jpg",
+      "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/887902122_4543805619213166_4417787949696078714_n.jpg?stp=cp0_dst-jpg_e48_fr_q65_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Zs1AcpFZCsEQ7kNvwGxmVo0&_nc_oc=Adpkt5X9_1jGJEe_D8o_x4rb0BVxcCbgtBhgTztCeO8KDlmZxSjkiBLcKhzMQCStnJc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Lpo0zPGrpA8X5_RDXQLdrQ&_nc_ss=703ba&oh=00_AQRWmVXgMkwy1M6q_UXclP6IYn4N7hD9d5ZvlWNLFo7Ksw&oe=6AF15A0B"
+    }
+  },
+  {
+    "id": "mOMavkc9huhc",
+    "time": 1793818170,
+    "expires": 1793861370,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Katherine Denise Rolle\nPoster URL: https://m.facebook.com/denise.k.ash.9/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674959951004405/\n\nPost Text:\nI am looking for, Samsung and Iphones and accesories please.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "5rhzSwUUos",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1674959951004405/"
+      },
+      {
+        "id": "0JTr3VKWX8",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Katherine Denise Rolle\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674959951004405/\n\nPost Text:\nI am looking for, Samsung and Iphones and accesories please."
+      }
+    ]
+  },
+  {
+    "id": "nIg7jeaWpYw1",
+    "time": 1793818175,
+    "expires": 1793861375,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Katherine Denise Rolle\nPoster URL: https://m.facebook.com/denise.k.ash.9/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674960547671012/\n\nPost Text:\nI am looking for wholesale polo, Tommy and Nike shirts please.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "LCEI1rwpzF",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1674960547671012/"
+      },
+      {
+        "id": "aPs3HtWLe0",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Katherine Denise Rolle\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674960547671012/\n\nPost Text:\nI am looking for wholesale polo, Tommy and Nike shirts please."
+      }
+    ]
+  },
+  {
+    "id": "QEBdCeZwO9S3",
+    "time": 1793818176,
+    "expires": 1793861376,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Katherine Denise Rolle\nPoster URL: https://m.facebook.com/denise.k.ash.9/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674960881004312/\n\nPost Text:\nI am looking for bulk Sterling silver Jewelry please.",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "ZdjRGrlB0L",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1674960881004312/"
+      },
+      {
+        "id": "nP0pKWCV4e",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Katherine Denise Rolle\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1674960881004312/\n\nPost Text:\nI am looking for bulk Sterling silver Jewelry please."
+      }
+    ]
+  },
+  {
+    "id": "gNRkvS1eGWDM",
+    "time": 1793836300,
+    "expires": 1793879500,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nPosted By: Haŋŋaŋ Alı\nPoster URL: https://m.facebook.com/ha.a.al.987543/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1675157350984665/\n\nPost Text:\nI need USA Chinese Supplier For Jewellery",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "4AMLaX2fp9",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1300471158453288/permalink/1675157350984665/"
+      },
+      {
+        "id": "A7p25B8J0u",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent & Suppliers & Wholesalers | Shenzhen/Yiwu/Guangzhou\nGroup URL: https://www.facebook.com/groups/1300471158453288\nPoster Name: Ha??a? Al?\nPost URL: https://m.facebook.com/groups/1300471158453288/permalink/1675157350984665/\n\nPost Text:\nI need USA Chinese Supplier For Jewellery"
+      }
+    ]
+  },
+  {
+    "id": "k2ESKZ3V9zPI",
+    "time": 1793848664,
+    "expires": 1793891864,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: Dropshipping Supplier and Agent\nPosted By: Topaz Abergil\nPoster URL: https://m.facebook.com/topaz.abergil/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/4117268045175114/permalink/4605340906367823/\n\nPost Text:\nLooking for a Reliable Moissanite Jewelry Supplier! 💎\nI’m looking for a professional and reliable supplier of high-quality moissanite jewelry for long-term business cooperation.\n\nI’m interested in:\n\n* Moissanite rings, necklaces, earrings, and bracelets\n\n* High-quality VVS clarity stones\n\n* 925 sterling silver, gold-plated, and solid gold options\n\n* GRA certificates (when available)\n\n* Excellent craftsmanship and finishing\n\n* Competitive wholesale prices\n\n* Custom designs and a wide product catalog\n\n* Reliable shipping and quality control\n\nI’m looking for a supplier who can offer premium quality at affordable wholesale prices.\n\nPlease send me your catalog, price list, and product details via private message.\n\nSerious suppliers only. Thank you! 💎",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "nUWN35CNwC",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/4117268045175114/permalink/4605340906367823/"
+      },
+      {
+        "id": "prySnPRYjY",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: Dropshipping Supplier and Agent\nGroup URL: https://www.facebook.com/groups/4117268045175114\nPoster Name: Topaz Abergil\nPost URL: https://m.facebook.com/groups/4117268045175114/permalink/4605340906367823/\n\nPost Text:\nLooking for a Reliable Moissanite Jewelry Supplier! ??\nI?m looking for a professional and reliable supplier of high-quality moissanite jewelry for long-term business cooperation.\n\nI?m interested in:\n\n* Moissanite rings, necklaces, earrings, and bracelets\n\n* High-quality VVS clarity stones\n\n* 925 sterling silver, gold-plated, and solid gold options\n\n* GRA certificates (when available)\n\n* Excellent craftsmanship and finishing\n\n* Competitive wholesale prices\n\n* Custom designs and a wide product catalog\n\n* Reliable shipping and quality control\n\nI?m looking for a supplier who can offer premium quality at affordable wholesale prices.\n\nPlease send me your catalog, price list, and product details via private message.\n\nSerious suppliers only. Thank you! ??"
+      }
+    ]
+  }
+]
