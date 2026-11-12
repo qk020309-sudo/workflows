@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kljqXmTmz1Ee",
+    "time": 1794435198,
+    "expires": 1794478398,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: Siméon Terrier\nPoster URL: https://m.facebook.com/simeon.terrier.3/\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/962596939954143/\n\nPost Text:\nLooking for a sourcing agent in China – Pilates equipment, France market\n\nHi everyone. I'm launching a Pilates brand in France and I'm looking for a reliable sourcing agent (not a trading company) to work with long-term.\n\nWhat I need:\n\n• Sourcing from factories (not Alibaba resellers) for: foldable Pilates reformer, yoga/Pilates mats, Pilates rings, resistance bands, 23 cm soft balls, grip socks, sliders, 1 kg hand weights\n\n• Custom logo on products and packaging\n\n• Quality check in your warehouse before shipping\n\n• Dropshipping to France (one-by-one orders from Shopify), 7–15 days shipping line\n\n• DDP quote for the reformer (bulky item, ~35 kg)\n\nVolume: starting small (test phase), scaling in 2027.\n\nIf you're interested, reply with: your city/warehouse location, your fee structure (commission or per-order), and one example of a European client you work with. No \"contact me on WhatsApp\" replies without this info please – I'll only answer complete messages.\n\nThanks!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "DfKvl6uf1B",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/962596939954143/"
+      },
+      {
+        "id": "esSHR9Wg6k",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: Sim�on Terrier\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/962596939954143/\n\nPost Text:\nLooking for a sourcing agent in China ? Pilates equipment, France market\n\nHi everyone. I'm launching a Pilates brand in France and I'm looking for a reliable sourcing agent (not a trading company) to work with long-term.\n\nWhat I need:\n\n? Sourcing from factories (not Alibaba resellers) for: foldable Pilates reformer, yoga/Pilates mats, Pilates rings, resistance bands, 23 cm soft balls, grip socks, sliders, 1 kg hand weights\n\n? Custom logo on products and packaging\n\n? Quality check in your warehouse before shipping\n\n? Dropshipping to France (one-by-one orders from Shopify), 7?15 days shipping line\n\n? DDP quote for the reformer (bulky item, ~35 kg)\n\nVolume: starting small (test phase), scaling in 2027.\n\nIf you're interested, reply with: your city/warehouse location, your fee structure (commission or per-order), and one example of a European client you work with. No \"contact me on WhatsApp\" replies without this info please ? I'll only answer complete messages.\n\nThanks!"
+      }
+    ]
+  }
+]
