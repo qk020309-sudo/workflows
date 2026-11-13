@@ -1,0 +1,52 @@
+[
+  {
+    "id": "IhBeBFWGGDxw",
+    "time": 1794524826,
+    "expires": 1794568026,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/Dropshipping Agent\nPosted By: ExcellentPelican2416\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/963532509860586/\n\nPost Text:\nHi,\nI'm looking for a dependable partner to dropship football shin guards in France, ideally with no stock to handle at the start.\n\nThank you",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "g9r1kCOQPb",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/608624722018035/permalink/963532509860586/"
+      },
+      {
+        "id": "HslUEyKCeb",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/Dropshipping Agent\nGroup URL: https://www.facebook.com/groups/608624722018035\nPoster Name: ExcellentPelican2416\nPost URL: https://m.facebook.com/groups/608624722018035/permalink/963532509860586/\n\nPost Text:\nHi,\nI'm looking for a dependable partner to dropship football shin guards in France, ideally with no stock to handle at the start.\n\nThank you"
+      }
+    ]
+  },
+  {
+    "id": "cabD7UzUVuib",
+    "time": 1794537182,
+    "expires": 1794580382,
+    "event": "message",
+    "topic": "judy-alerts",
+    "message": "🟢 New FB Post Detected 🟢\n\nGroup: China Sourcing Agent/China Import & Export Trade/China Factories\nPosted By: Anonymous participant\nPoster URL: N/A\nPost Type: regular_post\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1773144101484742/\n\nPost Text:\n**Need By-Sea Cargo Service: Guangzhou/Foshan (China) to Rawalpindi**\n\nHi, I need a reliable sea cargo agent to ship a small consignment from our Guangzhou/Foshan warehouse to Rawalpindi. The shipment consists of 5 cartons containing simple transparent plastic storage boxes, and inside each box there is 1 small metal wrench key and 1 small spring pin (purely a general plastic and metal hardware item). There are 100 pieces per carton (500 pieces total), with each carton measuring 0.04 CBM (total 0.20 CBM) and weighing approximately 4.5 kg per carton (total around 22.5 kg).\n\nKindly share your WhatsApp number in the comments or inbox ONLY if you have a physical office in Rawalpindi, can handle this exact 0.20 CBM quantity via by-sea cargo with all-inclusive customs clearance, and have your own warehouse setup in Guangzhou/Foshan. Serious agents only, thank you!",
+    "priority": 5,
+    "actions": [
+      {
+        "id": "Wxsc7kw5hz",
+        "action": "view",
+        "label": "Open",
+        "clear": false,
+        "url": "https://m.facebook.com/groups/1175400094592482/permalink/1773144101484742/"
+      },
+      {
+        "id": "XriobZpqoM",
+        "action": "copy",
+        "label": "Copy post",
+        "clear": false,
+        "value": "Groups Watcher\nGroup Name: China Sourcing Agent/China Import & Export Trade/China Factories\nGroup URL: https://www.facebook.com/groups/1175400094592482\nPoster Name: Anonymous participant\nPost URL: https://m.facebook.com/groups/1175400094592482/permalink/1773144101484742/\n\nPost Text:\n**Need By-Sea Cargo Service: Guangzhou/Foshan (China) to Rawalpindi**\n\nHi, I need a reliable sea cargo agent to ship a small consignment from our Guangzhou/Foshan warehouse to Rawalpindi. The shipment consists of 5 cartons containing simple transparent plastic storage boxes, and inside each box there is 1 small metal wrench key and 1 small spring pin (purely a general plastic and metal hardware item). There are 100 pieces per carton (500 pieces total), with each carton measuring 0.04 CBM (total 0.20 CBM) and weighing approximately 4.5 kg per carton (total around 22.5 kg).\n\nKindly share your WhatsApp number in the comments or inbox ONLY if you have a physical office in Rawalpindi, can handle this exact 0.20 CBM quantity via by-sea cargo with all-inclusive customs clearance, and have your own warehouse setup in Guangzhou/Foshan. Serious agents only, thank you!"
+      }
+    ]
+  }
+]
